@@ -18,7 +18,7 @@ Mistakes are ordinary parts of adventuring. Buxbrew assumes that solutions can b
 
 ## Family bonds
 
-Bess's warmth, Erendor's wandering life, Morkah's clan history and Loni's quiet independence frame the family world she loves. Although she and her **older sister Loni** are very different in temperament, a shared drink can bring out their loud, mischievous side.
+Bess's warmth, Arandor's wandering life, Morkah's clan history and Loni's quiet independence frame the family world she loves. Although she and her **older sister Loni** are very different in temperament, a shared drink can bring out their loud, mischievous side.
 
 ## Writing note
 

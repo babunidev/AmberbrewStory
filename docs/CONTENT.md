@@ -23,7 +23,7 @@ This is a **family-story and documentation archive**, not a software project. Th
 | [CANON.md](../CANON.md) | Confirmed character and family facts |
 | [TIMELINE.md](../TIMELINE.md) | Established temporal order and qualified undated snapshots |
 | [character/](../character/) | Buxbrew-specific details |
-| [family/](../family/) | The Amberbrew household, Bess, Erendor, Loni, Morkah and family traditions |
+| [family/](../family/) | The Amberbrew household, Bess, Arandor, Loni, Morkah and family traditions |
 | [relationships/](../relationships/) | Confirmed relationships and guild affiliations |
 | [places/](../places/) | Established family places and setting context |
 | [lore/](../lore/) | Original family lore, Warcraft reference, disputes and continuity |
@@ -46,4 +46,4 @@ This is a **family-story and documentation archive**, not a software project. Th
 
 ## Continuity note
 
-Loni is the older sister and Buxbrew the younger. Erendor is their father and Morkah their grandfather. Those established facts remain in [CANON.md](../CANON.md), not in a new fictional story.
+Loni is the older sister and Buxbrew the younger. Arandor is their father and Morkah their grandfather. Those established facts remain in [CANON.md](../CANON.md), not in a new fictional story.

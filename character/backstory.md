@@ -6,11 +6,11 @@ _Status: Established background and original family lore; exact dates unsettled.
 
 Buxbrew's birth name is **Jasmine Amberbrew**. The Amberbrew Brewery and Tavern, concealed beneath the **Bronze Kettle** in Ironforge in the family's original setting, is her home and the center of her childhood. The household is shaped by kitchen work, brewing, food, guests, boisterous hospitality and a closely held Dark Iron heritage.
 
-Her **mother Bess** is the brewery's welcoming, thunder-voiced presence. Her **father Erendor** is a hunter who is often off somewhere beyond the home. Her **older sister Loni**, known as Lonebrew, shares his hunting profession but prefers wilderness solitude and hunts without a pet. **Morkah**, her grandfather, figures centrally in the family's older history.
+Her **mother Bess** is the brewery's welcoming, thunder-voiced presence. Her **father Arandor** is a hunter who is often off somewhere beyond the home. Her **older sister Loni**, known as Lonebrew, shares his hunting profession but prefers wilderness solitude and hunts without a pet. **Morkah**, her grandfather, figures centrally in the family's older history.
 
 ## The name Buxbrew
 
-Tavern guests referred to **“that buxom lass and her wicked brew.”** Over time, the phrase shortened into the name everyone uses: **Buxbrew**. The precise first occasion is undated.
+The nickname **Buxbrew** grew among brewery guests and friends of the Amberbrews, combining their joking appreciation of Jasmine's generous bosom with the family name. Some early accounts describe guests speaking of “that buxom lass and her wicked brew.” The name belongs to the people who call her by it: **she did not choose it for herself**, and her own name is Jasmine. Its first use remains undated.
 
 ## Family's earlier history
 

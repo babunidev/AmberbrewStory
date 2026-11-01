@@ -2,7 +2,7 @@
 
 *A living family-story and worldbuilding archive set in World of Warcraft.*
 
-**Amberbrew Story** follows the Dark Iron Amberbrew family, particularly in the evolving setting of **World of Warcraft Forever**. **Jasmine “Buxbrew” Amberbrew** is the initial central character, but the project belongs to the whole household: Bess, Erendor, Loni (“Lonebrew”), Morkah, Buxbrew, and the people around them.
+**Amberbrew Story** follows the Dark Iron Amberbrew family, particularly in the evolving setting of **World of Warcraft Forever**. **Jasmine “Buxbrew” Amberbrew** is the initial central character, but the project belongs to the whole household: Bess, Arandor, Loni (“Lonebrew”), Morkah, Buxbrew, and the people around them.
 
 The project began as **BuxbrewCharacterStory** and was renamed and broadened on **2026-11-01**. This is a repository for preserving the creative vision, established family history, continuity, future stories, and the human-led development process — with fictional stories written on request and kept separate from confirmed gameplay and family canon.
 
@@ -21,7 +21,7 @@ Read the [project concept](CONCEPT.md) and the [ten storytelling principles](WRI
 - [Canon](CANON.md) — confirmed character and family facts
 - [Timeline](TIMELINE.md) — established sequence and undated events
 - [Character](character/) — Buxbrew's identity, appearance, personality, equipment and skills
-- [Family](family/) — Bess, Erendor, Loni, Morkah and family traditions
+- [Family](family/) — Bess, Arandor, Loni, Morkah and family traditions
 - [Relationships](relationships/) — Roar guild, allies and rivals
 - [Places](places/) — Amberbrew Brewery and Tavern, Ironforge and other locations
 - [Lore](lore/) — original family lore, Warcraft context and continuity notes

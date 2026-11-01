@@ -5,7 +5,7 @@ This is an editorial and provenance roadmap, not an in-world plot outline. It do
 ## Completed foundation — 2026-11-01
 
 - [x] Establish the family archive with separate canon, chronology, character profiles, lore, places, gameplay journal and fiction.
-- [x] Resolve the sister-order contradiction: Loni older, Buxbrew younger; record Erendor as father and Morkah as grandfather.
+- [x] Resolve the sister-order contradiction: Loni older, Buxbrew younger; record Arandor as father and Morkah as grandfather.
 - [x] Rename and broaden the project from BuxbrewCharacterStory to AmberbrewStory.
 - [x] Record the agreed principles of observant storytelling, household life, natural humor, unhurried pacing, faithful invention and unresolved mystery.
 - [x] Make human direction, AI assistance and canon/fiction distinctions explicit.

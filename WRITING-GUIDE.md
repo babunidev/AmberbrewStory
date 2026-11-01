@@ -50,6 +50,12 @@ The intended reader feels like a welcome observer, catching only part of a famil
 
 The image is an **editorial metaphor**, not definitive evidence of the building's floor plan. Food, drink and household details mentioned as examples are also not automatically established historical events.
 
+## Narrative name, distance and proportion
+
+The central character's given name is **Jasmine**. **Buxbrew** is a nickname bestowed by people around her, commonly guests and friends of the Amberbrew family, partly for her generous bosom and the Amberbrew name. She did not choose the nickname. Within literary narration, prefer **she** and **her** whenever the reader knows who is acting. Use **Jasmine** sparingly to establish or clarify identity; leave **Buxbrew** to characters addressing or referring to her in dialogue, not to the narrative voice. Other family members can be named as needed: Bess, Loni, Arandor and Morkah. A scene need not repeatedly remind the reader who its main subject is.
+
+Give scenes a strong sense of **what happens between spoken lines**: work being done, physical movement, weather and place, small sensory observations, silence and the rhythm of a room. Usually give narration more room than conversation, though the balance belongs to each particular scene. Do not turn this into an artificial formula or suppress natural conversation.
+
 ## An inviolable family custom: keep the secret
 
 The Amberbrews' Dark Iron heritage is protected by reliable enchanted pendants and an uncompromising family tradition of concealment. Bronzebeard dwarves must **not** learn their identity in the stories. Ordinary contact, drunkenness, rough play, brawling, damage to clothing or tugging a chain cannot interrupt the magic. Never introduce an observer who penetrates the illusion or a dramatic revelation as an incidental plot device. The family's safety and hidden home depend on this custom; only the human creative can explicitly revise it. Readers may know more than the people sharing the family's ordinary daily life.

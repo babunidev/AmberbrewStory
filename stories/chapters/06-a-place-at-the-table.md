@@ -1,81 +1,59 @@
 # A Place at the Table
 
-Bess was cutting vegetables when Erendor came in.
+Bess was working in the kitchen when Arandor returned.
 
-He did not announce himself. The door opened, a draft moved across the kitchen, and then there was a hunter with a pack in one hand and the road still on his boots.
+The first sign was the sound of boots on the stone beyond the door. It was a familiar step, though the brewery had not heard it for some time. A moment later the door opened and her husband came in with a travel-worn pack, a cloak darkened at the hem by the road, and the particular stillness of a man who had spent much of the day outdoors.
 
-Bess looked up.
+He paused long enough to let his eyes adjust to the lamplight. Bess looked up from the vegetables she had been cutting.
 
-"There you are."
+"Well," she said.
 
-Erendor set down the pack.
+Arandor set down his pack and smiled.
 
-"Here I am."
+There were plenty of things they might have said about his absence, but the kitchen was busy and supper needed attention. Bess pointed him toward the basin. He washed his hands, shook out the cloth and hung it where she expected to find it. They worked around each other with the ease of people who knew where the others' hands would be.
 
-"Wash before you touch anything."
-
-He smiled, just enough for her to see, and went to the basin.
-
-The brewery carried on around them. A customer wanted another drink. Somebody had misplaced a spoon, found it in a pocket and decided not to explain. Buxbrew came through from the back room with a bundle of herbs under her arm and stopped when she saw her father.
+Jasmine came through carrying a small bundle of fresh herbs. At the sight of her father, she stopped so suddenly that a few stems slipped loose onto the floor. She set the rest on the table and went to embrace him.
 
 "Greetings!"
 
-She crossed the kitchen to embrace him, careful of the herbs until the last moment, when half the bundle slipped against his shoulder.
+He held her close for a moment. Then she bent to retrieve the fallen herbs while he examined the kitchen, its orderly disorder and the dishes waiting beside the hearth.
 
-"Those for me?" he asked.
+Outside, guests were arriving for the evening. Voices drifted through the doorway; one of them belonged to a regular who always laughed before he finished his own stories. Somewhere nearer the kettles, a heavy lid was set into place.
 
-"Not unless you're planning to be boiled."
+Bess made room at the table as though Arandor had only been gone since morning.
 
-He held still while she rescued the stems.
+He sat with his pack within sight and ate the first piece of bread slowly. His hands had small marks across the knuckles, and one sleeve had been mended with thread a little darker than the cloth. Nobody asked about the repair. It was not that they were uninterested. The road had brought him home, and that was enough for the present evening.
 
-"Then I'll decline."
+Jasmine brought another bowl from the kitchen and settled opposite him. She spoke about herbs she had been drying and the difficulty of keeping the kitchen shelves tidy when guests wanted to come behind the counter. Bess listened while lifting the pot from the fire. Arandor answered a few questions about the weather along the road, but said little about where he had travelled.
 
-Erendor had been gone long enough for some people to remark upon his return, though none asked where he had been before he had sat down. Bess brought another plate and made room at the table as naturally as if she had been expecting him that morning.
+When Loni's name came up, he looked toward the doorway.
 
-"Have you seen Loni?" Buxbrew asked.
+"Has she been home?"
 
-"Not this time."
+"Not long ago," Bess said.
 
-"She was here recently."
+He nodded, pleased to hear it.
 
-Erendor nodded and took a piece of bread. The daughters had learned different ways of moving through the world. One returned to the hills whenever the room grew crowded. The other seemed to gather crowds wherever she went.
+The family carried its own small absences without making every one of them a grievance. Loni went into the wilderness for the quiet she loved. Arandor followed the hunter's life along routes that were seldom known in advance. Bess kept the busy warmth of the house; Jasmine came and went with her own work and adventures. Around the table, their movements met for a little while.
 
-Morkah came in after the meal had begun. He paused when he saw Erendor.
+Morkah arrived after they had begun to eat. He paused when he saw the pack beside the wall, then pulled out a chair.
 
-"Back, then."
+"Home, are you?"
 
-"For a while."
+"For now."
 
-Morkah drew out a chair. That was all the inquiry he made.
+Morkah accepted that and reached for the bread.
 
-When Bess returned with a pot, Buxbrew moved aside to let her pass. Her mother set it on a folded cloth and removed the lid. The smell rose warmly between them.
+The pot passed from hand to hand. Plates emptied and were filled again. Bess had brought more food than the table seemed likely to need, and by the end of the meal almost none remained. Arandor sat back, the day's tiredness settling visibly into his shoulders.
 
-"Nobody's asking whether you want more," Bess told Erendor. "You do."
+Later, as Jasmine washed bottles at the basin, she heard her father and grandfather speaking quietly from the far end of the room. She caught only a few words beneath the clatter of water. They might have been discussing a trail or a place one of them remembered. Their voices were calm, neither hurrying the other.
 
-He took another serving.
+She finished the bottles and set them to dry.
 
-Later, the others left the table in ones and twos. Buxbrew had bottles to wash and herbs to hang where they would dry. Bess found a customer to quarrel pleasantly with over the price of a drink. Erendor and Morkah remained, looking at the slowly cooling pot.
+In the main room someone began another song. Bess went out to attend to the guests. Arandor took off his boots and placed them neatly by the wall, where no one would trip over them. His pack remained closed.
 
-There had been talk earlier of a distant trail. Erendor had mentioned it in passing, and Morkah had asked the name of a ridge. Neither had said much after that. From the washbasin Buxbrew could hear their low voices, though not the words.
-
-She could have come closer.
-
-Instead she finished the bottles.
-
-When she returned, Morkah was setting his empty cup beside Erendor's. Her father had taken off his boots and was stretching his feet beneath the table.
-
-Bess saw the boots.
-
-"If they're staying there, so are you," she said.
-
-Erendor looked toward the doorway, then at the pair of muddy things on the floor.
-
-"Fair."
-
-She put another piece of bread beside him.
-
-No one asked how long he meant to stay. At the end of the night there was a plate for him, a place to leave his pack, and room enough to sit down.
+There would be time for stories if he wished to tell them. For tonight, there was a place at the table and a little more warmth than the road had offered.
 
 ---
 
-**Continuity and attribution:** Original AI-assisted scene portraying Erendor's established role as father and often-absent hunter alongside Bess, Buxbrew and Morkah. The particular return, interactions, speech and unspecified trail are literary inventions; they do not explain his travels or define his temperament permanently. Morkah's exact genealogy remains unplaced.
+**Continuity and attribution:** AI-assisted unplaced domestic scene. Arandor is the established father and frequently absent hunter; Bess, Jasmine and Morkah are established family members. The particular return, dialogue, mended sleeve and daily activities are literary invention. His routes, reasons for absence and character history remain unconfirmed.

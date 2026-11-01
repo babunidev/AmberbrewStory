@@ -10,7 +10,7 @@ Contradictions are recorded here with their resolution rather than silently eras
 
 **Status:** **RESOLVED.** Earlier descriptions of Lonebrew as younger are superseded. They are preserved here solely to explain why older drafts disagree; no longer flag the order as open in canon or topic pages.
 
-**Related identity clarification:** Lonebrew's given name is **Loni Amberbrew**. **Erendor Amberbrew** is Buxbrew's father and a hunter who is often away. **Morkah (sometimes transcribed “Murka”)** remains her grandfather, not her father.
+**Related identity clarification:** Lonebrew's given name is **Loni Amberbrew**. **Arandor Amberbrew** is Buxbrew's father and a hunter who is often away. **Morkah (sometimes transcribed “Murka”)** remains her grandfather, not her father.
 
 ## Clarified — blacksmithing in an earlier incarnation
 
@@ -18,8 +18,8 @@ Contradictions are recorded here with their resolution rather than silently eras
 
 ## Open — exact family lineage and chronology
 
-- Whether grandfather **Morkah** is related through Bess or Erendor has not been stated.
-- The exact reasons for father **Erendor's** frequent absences and his hunting routes are not established.
+- Whether grandfather **Morkah** is related through Bess or Arandor has not been stated.
+- The exact reasons for father **Arandor's** frequent absences and his hunting routes are not established.
 - Exact dates, birth years, possible other siblings and detailed family timelines are not fixed.
 - Some early adventure accounts are dramatized; they should not be listed as verified gameplay without source confirmation.
 
@@ -30,3 +30,8 @@ The later established portrayal describes Buxbrew's **auburn/copper-red hair, co
 ## Adding another issue
 
 Name the competing accounts, indicate what is confirmed, and record the creative's decision and date when resolved.
+
+
+## Established — narrative naming
+
+**Jasmine Amberbrew** is her personal name; **Buxbrew** is a familiar nickname given by brewery guests and family friends in reference to her generous bosom and family surname. It is not her self-selected name or the preferred name of the narrative voice. Literary narration should favor she/her once she is established, with Jasmine used sparingly for clarity. Her father's name is **Arandor Amberbrew**.

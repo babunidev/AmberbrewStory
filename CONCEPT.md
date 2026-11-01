@@ -2,7 +2,7 @@
 
 ## From one character to a family
 
-What began as a place to preserve Buxbrew's character history grew into **Amberbrew Story**, because the people around her have lives worth following too. Jasmine “Buxbrew” Amberbrew remains the main focus at the beginning, but my intention is to let the project belong to the entire Dark Iron Amberbrew family. Bess, Erendor, Loni, Morkah and those passing through their lives are not merely supporting characters arranged around a single hero.
+What began as a place to preserve Buxbrew's character history grew into **Amberbrew Story**, because the people around her have lives worth following too. Jasmine “Buxbrew” Amberbrew remains the main focus at the beginning, but my intention is to let the project belong to the entire Dark Iron Amberbrew family. Bess, Arandor, Loni, Morkah and those passing through their lives are not merely supporting characters arranged around a single hero.
 
 This is an evolving character and family archive within World of Warcraft, particularly World of Warcraft Forever. It has **no predetermined ending or required epic storyline**.
 

@@ -12,7 +12,7 @@ The first version already had the right categories, but many pages held empty he
 
 ## 2026-11-01 — Bringing the Amberbrews home
 
-After the repository audit, I settled the old contradiction: **Loni, known as Lonebrew, is Buxbrew's older sister**, and Buxbrew is the younger one. Her given name is Loni Amberbrew. Another missing relative was **Erendor Amberbrew**, Buxbrew's father, a hunter who is often away somewhere on his travels; **Morkah remains the grandfather**. Using AI assistance, the archive was then expanded with previously established details from our character conversations, while keeping dramatized events and undated anecdotes separate from proven gameplay. The family pages, canon, chronology and continuity notes were updated to agree.
+After the repository audit, I settled the old contradiction: **Loni, known as Lonebrew, is Buxbrew's older sister**, and Buxbrew is the younger one. Her given name is Loni Amberbrew. Another missing relative was **Arandor Amberbrew**, Buxbrew's father, a hunter who is often away somewhere on his travels; **Morkah remains the grandfather**. Using AI assistance, the archive was then expanded with previously established details from our character conversations, while keeping dramatized events and undated anecdotes separate from proven gameplay. The family pages, canon, chronology and continuity notes were updated to agree.
 
 ## 2026-11-01 — From Buxbrew to Amberbrew Story
 
@@ -26,3 +26,8 @@ Ten questions helped clarify what I wanted future Amberbrew writing to preserve:
 ## 2026-11-01 — Writing the stories after documenting the rules
 
 With the family archive and writing principles in place, I asked for the Amberbrew stories discussed in earlier conversations to be gathered and rewritten for the repository. The first adventure gave us a recognizable path through Dun Morogh and Thelsamar toward Loch Modan, while the rest of the family deserved quieter pages of their own. AI reconstructed seven literary scenes from recovered discussion summaries and the existing canon pages, including invented dialogue and small domestic details. Their notes distinguish source-based events from dramatization; none was entered as verified gameplay or silently adopted as permanent canon.
+
+
+## 2026-11-01 — Finding the family's voice on the page
+
+Reading the first group of stories, I wanted the narration to stay closer to Jasmine's experience without repeatedly calling her by the nickname other people gave her. The family's guests and friends may call her Buxbrew, but the prose can usually simply say she. More of the daily movement, textures and little events belong between the spoken lines, too. After I clarified that approach and the spelling of Arandor's name, AI revised the seven chapters and corrected the family references across the repository.

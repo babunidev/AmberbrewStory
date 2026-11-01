@@ -16,6 +16,6 @@ The family's story associates Morkah with **controlled shadow and concealment**,
 
 ## Present-day family connection
 
-He is Buxbrew's **grandfather**, not her father. Whether the descent runs through Bess or Erendor has not been established. His age, current whereabouts and exact chronology remain undetermined.
+He is Buxbrew's **grandfather**, not her father. Whether the descent runs through Bess or Arandor has not been established. His age, current whereabouts and exact chronology remain undetermined.
 
 See [original family lore](../lore/amberbrew-original-lore.md) and [family overview](amberbrew-family.md).

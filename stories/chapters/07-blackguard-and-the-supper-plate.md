@@ -1,87 +1,59 @@
 # Blackguard and the Supper Plate
 
-Buxbrew laid the sword on the table with more care than she used for most of her belongings.
+Jasmine cleared a space on the table before she set down her sword.
 
-The table was empty apart from a folded cloth. She had checked. Still, when Bess came through from the kitchen and found a blade where her bread ought to be, she stopped in the doorway.
+The table had been used for all sorts of things that day. A dusting of flour lingered near one corner, and there was a shallow groove in the wood where someone had been cutting vegetables with more enthusiasm than care. She laid a clean cloth across it first, smoothing out the wrinkles with the heel of her hand.
 
-"Does that need feeding too?"
+Blackguard rested upon the cloth.
 
-"Have a look."
+Even in the warm light of the brewery, the sword held a colder shine than the things around it. Its weight had become familiar in her hands, but she could still remember the first time she had lifted it after the weaponsmith finished his work. There had been a long stretch of collecting materials before that, following advice she had heard through the Thorium Brotherhood and carrying each hard-won piece to the craftsman who knew how to turn them into something useful.
 
-Bess approached, wiping her hands on her apron. The sword was finely made, its edge clean, the weight of it apparent even at rest.
+She had not forged it. That part belonged to hands more practised in the work.
 
-"That's Blackguard?"
+The kitchen door opened behind her. Bess came through with a shallow pan in one hand and a cloth in the other. She stopped at the sight of the blade resting where the evening bread was usually placed.
 
-Buxbrew nodded.
+"That looks difficult to serve supper on."
 
-"All the materials?"
+Jasmine smiled and moved the sword a little farther from the edge.
 
-"Every last one."
+Bess put the pan down and bent to examine the work. The blade was well finished, its fittings clean and carefully set. She made no attempt to lift it. Instead she ran a finger along the safe edge of the cloth and looked at her daughter.
 
-"And the smith?"
+"All those journeys to gather what he needed."
 
-"Did beautiful work."
+"Worth them."
 
-She had heard of the weapon through the Thorium Brotherhood, then spent a great deal of time bringing together what a skilled weaponsmith needed to make it. The collecting had taken patience. Waiting for the finished blade had taken a different kind.
+Bess nodded. She had watched enough work happen in the brewery to understand what patience could make of raw materials.
 
-Bess ran a finger along the folded cloth, nowhere near the edge.
+The sword was only part of the weight Jasmine carried into battle. Her plate armor and spiked shield were waiting nearby, cleaned after use but not yet put away. The shield's surface showed marks of strikes taken in another person's place. When she moved it, the straps creaked softly under her grip.
 
-"Looks like it'll last."
+Once, fighting had meant closing the distance and meeting whatever came with fists and stubbornness. She had never been reluctant to take a blow. With a shield in her hand, she had learned to think more carefully about where that blow would fall, and who might be standing behind her.
 
-"That's the hope."
+There was comfort in the measured weight of good equipment, though no piece of iron was a substitute for knowing when to move.
 
-From the hall came the clatter of a shield set down a little too firmly.
+Bess returned to her cooking. The room filled gradually with the smell of roasting meat and hot bread. Jasmine wiped the sword once more, inspected the edge, and carried it away to its proper place. On her way back she set her shield alongside the other gear, where it would not catch a passing sleeve.
 
-"That's mine too," Buxbrew said.
+The table had been reclaimed when she returned.
 
-"I'd guessed."
+A bowl of vegetables stood beside a plate of ribs; bread had been broken into thick pieces, and a mug of Rhapsody Malt waited within reach. She sat down with the small pleasure of feeling no armor against her shoulders.
 
-Her spiked shield had become as much a part of her preparations as the straps of her plate armor. Once she would have gone into a fight with her fists ready and whatever space she could make for herself. She could still do that when she had to. But now the question was often where to stand so that someone else did not take the next blow.
+Bess noticed the purse beside her plate.
 
-At the table, Bess considered the sword a while longer.
+"Saving again?"
 
-"You can carry all that iron and still come home hungry."
+"The weapons master wants more gold than seems reasonable."
 
-"Very hungry."
+"And you're going to pay him."
 
-"I've noticed."
+"Eventually."
 
-Buxbrew grinned and lifted the sword away before her mother could reclaim the table for its usual purpose.
+There were other pieces of equipment she still wanted: rings, a trinket, small improvements that remained stubbornly difficult to find. Most of what she had already gathered pleased her. Even so, a warrior could finish one long search and discover the next waiting just beyond it.
 
-By the time she returned from putting her gear aside, the cloth had been replaced with plates. There were ribs, a pot of something hot, bread still giving off steam and a mug of Rhapsody Malt waiting at her place.
+Bess set another piece of bread on her plate and drew up a chair.
 
-She sat down.
+The room outside the kitchen continued its ordinary evening. A mug knocked against the table; someone laughed loudly; farther off, a lid clattered against a kettle. Jasmine ate while the food was hot. Her purse stayed closed beside the bowl.
 
-Bess looked at the small purse Buxbrew had placed beside the plate.
-
-"Saving for something?"
-
-"Training."
-
-"More?"
-
-"The weapons master has an expensive opinion of what I ought to know."
-
-"And you agree with him?"
-
-"Unfortunately."
-
-There were still rings and a trinket she wanted, though most of the armor she had worked for pleased her well enough. Buxbrew could admire what she had earned without pretending she had finished wanting things.
-
-Bess ladled supper into her bowl.
-
-"Well, don't give him the supper money."
-
-"I wasn't planning to."
-
-"Good. Because the sword isn't eating."
-
-Buxbrew lifted her mug. "Cheers."
-
-Bess clinked her own against it.
-
-The weapon was put away. The next purchase could wait. For a little while, there was only the meal, and the ordinary satisfaction of being home to eat it.
+Blackguard could wait until morning. So could the weapons master.
 
 ---
 
-**Continuity and attribution:** AI-assisted domestic dramatization of confirmed later equipment details: Buxbrew gathered the materials for Blackguard after hearing of it from the Thorium Brotherhood and commissioned a skilled weaponsmith; she fights with plate, sword and shield, once brawled more freely, and at one point saved for expensive weapon training while seeking rings and a trinket. The kitchen conversation is invented, and the financial/equipment status is a dated but unspecific historical snapshot, not an enduring present condition.
+**Continuity and attribution:** AI-assisted domestic scene around established Blackguard facts: Jasmine collected materials after hearing of the sword from the Thorium Brotherhood, commissioned a skilled smith, and later used plate and shield. Rings, trinket and costly weapon training reflect a time-bound equipment snapshot. All dialogue and the particular evening are imagined; this is not a verified gameplay account.

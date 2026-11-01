@@ -1,111 +1,55 @@
 # The Stoutlager Inn
 
-By the time Buxbrew reached Thelsamar, supper had become less an agreeable thought than an urgent one.
+By the time she reached Thelsamar, Jasmine had been thinking about supper for the better part of an hour.
 
-Lamps were burning in the windows of the Stoutlager Inn. She stood outside long enough to knock the snow from her boots, pull her gloves straight and try to settle her hair. One copper-beaded braid had come loose during the day's walking. She tucked it back where it belonged and went inside.
+There were lamps in the windows of the Stoutlager Inn and the low sound of conversation behind its door. She stopped outside to scrape dirt and the last clinging snow from her boots. Her torn glove had begun to stiffen. She folded it into her pack, smoothed her copper-beaded braids and stepped into the warmth.
 
-The room was busy, though not full. Someone had taken the best place near the fire and fallen asleep there. Two miners were arguing about a journey they had both made and remembered differently. From the kitchen came the smell of onions, roasted meat and fresh bread.
+Inside, the air smelled of onions, bread and damp wool drying near the fire. An old man had fallen asleep in the chair closest to the hearth. Two miners shared a bench and disputed the details of a cart journey, correcting one another so often that the story scarcely moved forward. A serving woman crossed the floor with a tray held at shoulder height, slipping sideways between a chair and a full table without spilling a drop.
 
-Buxbrew took an empty place at a long table.
+Jasmine chose a place near the wall. It gave her room to lower her pack and stretch her aching legs beneath the bench. The stone floor was warmer here than the road, though not warm enough to make her take her boots off. She rubbed the sore place on her shoulder before ordering a meal.
 
-"Something hot, please," she said when the serving woman came past.
+The first mug was welcome. She curled her hands around it and watched a thin ribbon of steam fade into the noisy room. When the plate came, there was meat, a generous portion of vegetables and bread with a good, dark crust. She began with the bread. Hunger made it difficult to be patient with anything else.
 
-"Food or drink?"
+The serving woman passed again and nodded toward the torn glove on the bench.
 
-"Both, if you've got them."
+"Rough road?"
 
-"We have."
+"A few rough parts."
 
-"Wonderful."
+She returned to her work. No one asked for the rest of the story.
 
-A mug arrived first. She held it between her hands and let the warmth spread into her fingers. The day's climb through Dun Morogh had left a raw patch beneath one shoulder strap, and her torn glove was no longer keeping out the cold. She put it on the bench beside her.
+For a while Jasmine was content to eat and listen. The miners had reached the broken wheel, though they disagreed about who had noticed it first. A child at a nearby table carefully lined up pieces of crust along the rim of a bowl. On the hearth, a log gave way and sent a small tumble of sparks upward.
 
-When the food came, she ate quickly enough to earn a glance from the woman carrying the next tray.
+The trouble began with a chair pushed back at the wrong moment.
 
-"Not seen a meal for a while?"
+A patron rose from the neighboring table and caught her mug with his sleeve. Ale ran across the boards and spilled into another man's lap. He stood abruptly, sending his own chair scraping into the bench behind him. The serving woman turned at the sound. Several heads lifted, then went back to their conversations.
 
-"Not one that sat still long enough."
+The man with the wet trousers was less inclined to let it pass.
 
-That won a small smile.
+"Watch what you're doing!"
 
-At the far end of the table, the two miners had reached the part of their disagreement involving a broken cart wheel. Buxbrew listened between mouthfuls. Their accounts differed on the weather, the length of the road and the number of people who had offered help. They agreed only that the wheel had been broken.
+Jasmine looked at the overturned mug, then at the person who had struck it. He had already stepped away. There was no sense arguing about whose elbow had gone where, but the man across from her seemed determined to settle it.
 
-She was reaching for the bread when a man stepped backward from the neighboring bench.
+She put down her bread and moved her plate clear of the spill.
 
-His sleeve struck her mug. Ale went across the table and into the lap of another patron, who sprang to his feet.
+A miner rose to offer an explanation. His companion contradicted him before he had finished. A hand thumped the tabletop; someone pushed between two chairs; another chair toppled. When a stranger reached across her plate, Jasmine caught his forearm and turned him gently but firmly aside. He tried again, and this time she stood.
 
-"Here! Watch what you're doing!"
+She was broad and strong, and there was little room between the bench and the wall. For a moment they faced one another across the dripping table. Then the innkeeper's voice cut through the commotion.
 
-Buxbrew looked at the spreading puddle.
+"Enough."
 
-"Wasn't doing much of anything."
+He brought a cloth and set it by the spilled mug. The serving woman took up the fallen chair. Around them, the conversation gradually resumed, first in murmurs and then at its ordinary volume.
 
-"It's your mug!"
+Jasmine straightened the bench with her boot and set a coin on the dry corner of the table. It seemed easier than listening to another argument over a drink that no longer existed. The man with the wet trousers gave a dissatisfied grunt, but he sat down.
 
-"It was, a moment ago."
+Her supper had cooled. She finished it anyway, taking her time now. The bread was sturdy enough to gather the gravy from the bottom of the bowl, and the last of the meat still tasted good.
 
-The man had no patience for the distinction. He slapped a hand down on the table, rattling the plates, and told her something rude about the way she ought to sit. One of the miners rose to put in a word. The other miner rose to contradict him. A bench scraped sharply along the floor.
+By then the miners were discussing the cart again, with exactly the same certainty and no greater agreement.
 
-It was a very small quarrel, but small quarrels in crowded inns have a habit of finding extra people.
+Outside the windows, evening had settled over Thelsamar. She had thought of travelling farther, but the road would remain where it was until morning. She moved her pack closer to the wall, eased the sore strap away from her shoulder and asked for one more drink.
 
-Someone shoved. Someone shoved back. The miner with the broken-cart story lost his balance and knocked a chair onto its side. Buxbrew caught the arm of the man who was reaching across her plate and turned him neatly away from her supper.
-
-"There's enough trouble here without borrowing mine," she told him.
-
-He tried once more to get past. This time she stood up.
-
-Buxbrew was short, broad and built to hold her ground. She did not need much space to do it. The man stopped, reconsidered, and looked instead toward his companion.
-
-"That's enough," said the innkeeper.
-
-His voice was neither loud nor uncertain.
-
-The serving woman had already brought a cloth. She handed it to the man with the wet knees, who looked as though he wanted to complain that nobody had brought him a dry pair of trousers as well.
-
-Buxbrew righted the fallen chair.
-
-"Sorry about the ale," she said.
-
-The man glanced at the tipped mug.
-
-"You paying for it?"
-
-"Whoever knocked it over ought to."
-
-"That was him," said one miner.
-
-"Wasn't," said the other.
-
-For a moment everyone looked ready to begin again.
-
-Buxbrew reached into her purse and put a coin beside the wet mug.
-
-"There. Now can we all get back to eating?"
-
-The innkeeper swept up the coin before anyone could argue about it.
-
-"Sit down, then. And keep the chairs where they belong."
-
-Buxbrew sat.
-
-The man across from her moved his wet knees away from the table and muttered something she chose not to hear. In a few minutes the miners were discussing the cart again, with no more agreement than before. The sleeping fellow by the fire had not stirred.
-
-Buxbrew's meal was going cold. She finished it anyway. The bread was good, and there was gravy left at the bottom of the bowl. She used the last piece to gather it up.
-
-Outside, the road toward Loch Modan waited in the dark. She had thought of travelling farther that evening, though the warmth of the inn made a strong case against it.
-
-The serving woman returned for the plate.
-
-"Another mug?"
-
-Buxbrew looked at her glove drying near the table, then at the fire.
-
-"Just the one," she said.
-
-"Coming."
-
-She settled herself a little more comfortably on the bench and listened to the miners disagree.
+The inn had room enough for a tired traveller. For the moment, that was all she needed.
 
 ---
 
-**Continuity and attribution:** AI-assisted dramatization of the early Thelsamar inn episode, including an ale spill and a brief quarrel. The guests, dialogue, sequence and outcome are narrative inventions, not verified gameplay. Exact chronology remains unplaced.
+**Continuity and attribution:** AI-assisted dramatization of the early Thelsamar inn episode, featuring an ale spill and a brief quarrel. The guests, dialogue, sequence and outcome are imagined, not verified gameplay. The family's concealed identity remains protected. Exact chronology is unplaced.

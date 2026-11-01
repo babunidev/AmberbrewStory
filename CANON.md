@@ -4,23 +4,23 @@ This is the index of facts established by the human creative. The topic pages ex
 
 ## Identity
 
-- **Primary name:** Buxbrew. Use this name in narration and character references.
-- **Birth name:** Jasmine Amberbrew.
+- **Personal name:** Jasmine Amberbrew. In stories, refer to her principally as **she/her** after establishing the viewpoint; use **Jasmine** sparingly where clarity needs it.
+- **Nickname:** **Buxbrew** belongs to what other people call her, especially brewery guests and friends of the family. It is not the narrator's usual name for her, and she did not choose it for herself.
 - **Race:** Female Dark Iron dwarf.
 - **Family:** Amberbrew, a Dark Iron family with a concealed history in Ironforge.
 - **Age:** Described as a young adult, roughly 24 in human-equivalent years; no birth date is set.
-- **Nickname:** Tavern patrons' description of “that buxom lass and her wicked brew” was shortened to **Buxbrew**.
+- **How the nickname arose:** Guests associated her generous bosom with the Amberbrew family name and gradually came to call her **Buxbrew**. Earlier wording about “that buxom lass and her wicked brew” describes the same informal tavern usage, rather than a title she adopted.
 
 ## Family
 
 - **Mother:** Bess Amberbrew, affectionately called **Bosom Bess**, a warm, booming-voiced center of the family brewery.
-- **Father:** **Erendor Amberbrew**, a hunter who is frequently away, somewhere out in the world.
+- **Father:** **Arandor Amberbrew**, a hunter who is frequently away, somewhere out in the world.
 - **Older sister:** **Loni Amberbrew**, known as **Lonebrew**, an independent hunter who deliberately does not use a pet.
 - **Younger sister:** **Buxbrew (Jasmine Amberbrew)**. Buxbrew is younger than Loni; the earlier contrary description is superseded.
 - **Grandfather:** **Morkah Amberbrew** (also transcribed “Murka” in conversation), an Amberbrew elder associated with the family's break from Thaurissan's course. His precise maternal/paternal line is unspecified.
 - No other relatives or marriages are established merely by this summary.
 
-See [the family](family/amberbrew-family.md), [Erendor](family/erendor-amberbrew.md) and [Loni](family/lonebrew.md).
+See [the family](family/amberbrew-family.md), [Arandor](family/arandor-amberbrew.md) and [Loni](family/lonebrew.md).
 
 ## Home, clan and affiliations
 

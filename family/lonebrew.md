@@ -20,6 +20,6 @@ The sisters represent **wilderness and hearth**. Buxbrew thrives among guests, b
 
 ## Other family ties
 
-Their father **Erendor** is also a hunter, often away from home. No specific hunting partnership between father and daughter has been established. Their mother is **Bess**, and their grandfather is **Morkah**.
+Their father **Arandor** is also a hunter, often away from home. No specific hunting partnership between father and daughter has been established. Their mother is **Bess**, and their grandfather is **Morkah**.
 
-See [family](amberbrew-family.md), [Erendor](erendor-amberbrew.md), and [continuity resolution](../lore/continuity-notes.md).
+See [family](amberbrew-family.md), [Arandor](arandor-amberbrew.md), and [continuity resolution](../lore/continuity-notes.md).

@@ -1,77 +1,49 @@
 # Out into the Snow
 
-The latch had been opened and closed a thousand times before Buxbrew touched it.
+The hidden passages beneath Ironforge had the dry, close smell of old stone. Somewhere behind her the brewery was already awake. The sound of work came faintly through the walls: a vessel moved on the floor, the scrape of a latch, voices too distant to distinguish.
 
-That was the part she had counted on.
+Jasmine adjusted her pack before leaving the last familiar stretch of passage. One strap sat badly against her shoulder, but she had not yet learned which part of her equipment would become troublesome after several hours of walking. She pulled it tighter and continued.
 
-Past the brewery's working rooms and the familiar stone, a small, concealed way led toward the older passages beneath Ironforge. Buxbrew knew enough of it to find the entrance, though knowing a way and knowing where it ended were different matters. She stood for a moment with her hand on the latch.
+The daylight at the passage's end made her blink.
 
-Somewhere behind her, a vessel knocked gently against another in the brewery. There was a voice she recognized. She nearly went back.
+Dun Morogh stretched before her in a pale succession of ridges. Snow gathered in the seams of the rock and lay deep in the hollows, where the wind had swept it into smooth drifts. The higher ground seemed bare until she looked more closely and began to notice narrow tracks, tufts of coarse grass, and the dark line of a path disappearing between two slopes.
 
-Instead she eased the door shut and started along the passage.
+She took a breath of the cold air and began to walk.
 
-The air grew cooler as she went. Dust lay in the joints of the stone. Once she stopped to listen, but the sound was only a drip falling into a place she could not see. Her pack knocked against her shoulder whenever the floor narrowed, and she adjusted it with growing irritation.
+For the first hour there was pleasure enough in being outside. Every turn revealed something she could not have seen from the previous one. Chimney smoke drifted far below a ridge. The cry of a bird carried across a gulley and vanished into the wind. Her boots made a pleasant, heavy crunch in the new snow.
 
-When the passage finally brought her into daylight, Dun Morogh was white.
+The pack grew less agreeable as the morning passed. Where its straps rubbed, the cloth beneath them gathered into a hard fold. She stopped twice to rearrange everything, each time believing she had solved the problem. The third time she simply carried on.
 
-Snow had collected on the rocks and in the hollows between them. The sky seemed enormous after the tunnels. Buxbrew stood blinking in the brightness, letting the cold find every gap in her clothes.
+Near the airfield country, she climbed onto a shelf of rock and sat a while. From there, the distant dwarven buildings looked small and orderly against the white slopes. Movement flickered at the edge of the field. For a few minutes she watched the figures going about their work, then unfolded the food she had brought from home.
 
-"So," she said to no one.
+It was cold now, but it was still Bess's bread.
 
-She had expected to feel farther from home.
+A winter wolf appeared farther along the path.
 
-Instead she could still taste breakfast.
+At first Jasmine saw little more than its colour shifting against the snow. It moved steadily with its head lowered, pausing when she paused. She stood, putting the remainder of her bread away. A low ridge of stone bordered one side of the track; on the other, the slope descended steeply enough to make running unwise.
 
-She set off across the mountain country. Once, high along the ridges near the airfield, she stopped to watch movement far below: small figures going about their business, a shape of machinery against the snow, smoke carried away by the wind. The world looked orderly from that height. It became less orderly when she tried to find a sure path down.
+The wolf came closer.
 
-She slipped twice. The second time she sat where she had landed and considered whether the mountain was being unreasonable on purpose.
+She had her brass knuckles ready by the time it lunged. The struggle was awkward and very close. A boot slid beneath her, and she caught herself against the rock with one hand while the other kept the animal back. The cold made every impact feel sharp. When it was over, she remained where she had landed, listening to the wind and the rough sound of her own breathing.
 
-At the next turn of the rocks, a winter wolf appeared.
+Her glove had torn along the seam. She bound it as well as she could and brushed the snow from her clothes.
 
-It was lean and grey-white, with its head low and its attention wholly on her. Buxbrew took a step sideways. The wolf followed. She spoke to it as she might have spoken to a dog in the brewery yard, though there was no dog and no yard here.
+Farther on, the tracks of Frostmane trolls crossed the narrow way. She noticed a small fire scar beside the rocks, then the remains of something tied to a bent branch. The place felt occupied even before figures emerged ahead of her.
 
-"Go on, then."
+Two trolls challenged her in the passage. Their voices struck the stone on either side and came back louder. She had barely enough room to shift her footing. A blow glanced past her shoulder; another sent loose snow sliding down from the bank. She fought as she knew how, close enough to use her hands and her own considerable weight, and took the first opening that allowed her to get clear.
 
-The animal did not go.
+When the path widened again, she stopped beside a crooked tree to examine her bruised knuckles. The day had grown quieter. The small sounds of the mountain returned: ice loosening in the sun, distant movement in the scrub, the soft dragging scrape of her boot against a stone.
 
-The struggle was close and ugly. Snow flew under her boots. She had brass knuckles with her, and when the wolf came in, she used them. It was over sooner than it felt. She remained crouched beside the rock for some time afterward, breathing hard, one glove torn at the seam.
+By afternoon she had found the road toward Loch Modan. A merchant passed with a laden pack animal and pointed her toward Thelsamar when she asked about a place to eat.
 
-There was no one to tell the story to.
+There was an inn, he said. The food was hot.
 
-Buxbrew found that rather disappointing.
+That recommendation would do.
 
-The wind grew stronger. She wrapped the torn glove as well as she could and kept walking, more carefully now. Beyond the airfield country the slopes and narrow passages offered fewer places to rest. She saw signs of Frostmane trolls before she saw the trolls themselves: tracks, the remains of a fire, something tied to a branch that stirred when the wind changed.
+She walked on until the peaks began to fall behind her. From one bend in the road she looked back over the white shoulders of Dun Morogh. Somewhere beyond them lay Ironforge, Bess's warm kitchen and the herb bundles she had left hanging above the table.
 
-Two of them appeared where the path bent between the stones.
-
-The first shouted. The second reached for a weapon.
-
-Buxbrew answered the challenge with the same brisk foolish courage that had carried her through the morning. The fight left her with aching arms and snow inside one boot. She did not stay to admire it. Once she could move freely, she moved.
-
-By the time the mountain paths eased toward the roads leading out of Dun Morogh, the cold had settled deep in her shoulders. She had begun to understand how far a person could travel and still be nowhere near a decent supper.
-
-On the road, she met a merchant leading a laden pack animal. He looked at her torn glove and then at the blood drying on her sleeve.
-
-"Rough walking?"
-
-"Some parts."
-
-He nodded, as if that explained enough.
-
-"There's an inn in Thelsamar."
-
-"Good food?"
-
-"Warm."
-
-That was better news than he knew.
-
-Buxbrew thanked him and went on. She had no grand speech prepared for her first day away, no useful lesson to take back to the brewery. There was a sore place under her collar where her pack had rubbed, and she was very hungry.
-
-At a bend in the road, she turned once to look toward the mountains.
-
-Ironforge lay somewhere behind their white shoulders. For the moment, that was all she could see of home.
+The road ahead was unfamiliar. She was hungry, sore, and pleased to be following it.
 
 ---
 
-**Continuity and attribution:** Dramatization of the established early-adventure account: departure by concealed passage from Ironforge, snowy Dun Morogh, the airfield country, a winter wolf fought with brass knuckles and two Frostmane trolls. The dialogue, merchant, practical details and pacing are imagined. This is not a verified session log; exact route and chronology remain unsettled. AI-assisted rewrite based on earlier character conversations.
+**Continuity and attribution:** AI-assisted reconstruction of the established early-adventure outline: leaving the hidden Ironforge home, crossing snowy Dun Morogh and the airfield region, encountering a winter wolf and Frostmane trolls, then making for Thelsamar. Dialogue, minor locations and the precise action are imagined. This is not a verified session log.

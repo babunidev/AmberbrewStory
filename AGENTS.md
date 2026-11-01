@@ -31,7 +31,7 @@ The project is **Amberbrew Story** (repository: AmberbrewStory), formerly Buxbre
 
 - **Buxbrew** is Jasmine Amberbrew's primary character name.
 - **Loni “Lonebrew” Amberbrew is older; Buxbrew is younger.**
-- **Erendor Amberbrew** is their father, a traveling hunter; **Morkah** is the grandfather.
+- **Arandor Amberbrew** is their father, a traveling hunter; **Morkah** is the grandfather.
 - Blacksmithing belongs to Buxbrew's **earlier incarnation**, not an occupation in the present life.
 - Buxbrew commissioned Blackguard from a weaponsmith; she did not forge it herself.
 - The family history and hidden tavern are **fan-created lore**, not official Blizzard history.
@@ -39,6 +39,12 @@ The project is **Amberbrew Story** (repository: AmberbrewStory), formerly Buxbre
 ## Mandatory Amberbrew secrecy safeguard
 
 The family **must remain unrecognized as Dark Iron by Bronzebeard dwarves**. Their disguise pendants are durable, dependable family magic, not a vulnerability to exploit for tension: casual contact, brawls, lost balance, snagged clothing or damage to a chain cannot make the illusion fail. Never disclose or imply disclosure through an invented outsider's detection, confession, or convenient accident. If a proposed plot depends on that outcome, change the plot. No exception without the human creative's explicit new direction.
+
+## Narrative naming and scene composition
+
+**In fiction, use she/her for Jasmine wherever the referent is clear; introduce or reintroduce her as Jasmine only when useful.** "Buxbrew" is an informal nickname used **by other characters**, especially guests and family friends. She did not name herself that, and the narrator must not repeatedly call her by it. The other family members are normally named Bess, Loni, Arandor and Morkah when clarity calls for a name. Do not invent additional nickname origins or switch Loni's name on the basis of a transcription ambiguity.
+
+Favor **observed action, surroundings, sensory context and the ordinary passage of time** over constant dialogue. Dialogue remains welcome when it reveals a relationship or belongs naturally to a scene; there is no fixed dialogue quota. The protagonist need not be announced by name in every paragraph.
 
 ## Literary principles (for authorized story tasks)
 

@@ -1,45 +1,43 @@
 # Before the Sun Reached the Loch
 
-The water looked dark from the shore.
+The water was almost black when she came down to the shore.
 
-Buxbrew had spent part of the night beside Loch Modan, watching the lights of Thelsamar withdraw behind her until they were small and scattered. She was tired and still carrying the ache of the mountains. The inn had not been quite the welcome she had imagined, but there was no sense standing about arguing with something that had already happened.
+The lamps of Thelsamar had disappeared behind the folds of the hills. Ahead of her, Loch Modan lay open and quiet, its surface disturbed only by small movements of wind. Jasmine stood beside the water with her pack at her feet and watched the distant shapes of the islands.
 
-A little boat took her out toward one of the islands.
+She had walked farther than she meant to. The road had seemed shorter when she was warm inside the inn, and now her feet had begun to ache again. Along the shore she found an old boat pulled up among the stones, with an oar resting across its seats.
 
-The crossing was quiet. The water touched the hull with a soft, irregular sound, and now and then she corrected her course with the oar. She had meant only to find a place away from the road, somewhere she could sit undisturbed and watch the sky change. From the shore the island had looked empty.
+The island nearest her looked deserted.
 
-It was not.
+She pushed the boat into the shallows, keeping one boot on the bank until the hull floated freely. The first few strokes were clumsy. Water struck the wood and ran in thin lines down the blade of the oar. Soon she found a comfortable rhythm, and the shore began to retreat behind her.
 
-The first sign was a stone sliding down a bank behind her. Buxbrew turned and saw a low shape moving in the half-light. Then another appeared beyond it.
+From the middle of the crossing, the lake was wider than it had appeared from land. The dark hills on either side had lost their finer details. In their place remained a few pale stones, stands of trees and the faint line where the sky met the earth. She rowed toward a low, uneven patch of ground near the island's edge.
 
-Troggs.
+A narrow strip of shingle offered somewhere to land. She drew the boat up far enough to keep it from drifting and sat on a rock, grateful to take her weight off her feet. Her hands smelled of wet wood. She listened for birds and heard only water brushing the shore.
 
-She backed toward the water, feeling for the place where she had left the boat. Her boot struck a rock. The nearest creature lunged, and there was no more time to look for an easier path.
+Something moved among the stones behind her.
 
-She fought at close quarters, as she had learned to fight: planting her feet, taking the blow she could not avoid and giving back what she could. At home they sometimes called her a fighting animal. There was nothing amusing about it here. Her arms were heavy before the struggle had gone far, and she wanted very much to be somewhere else.
+At first it seemed no more than a loose rock coming down the bank. Then another moved, and a squat shape stood out against the hillside. Troggs had been sheltering in the dim ground above the beach.
 
-When she found an opening, she took it. A creature fell against the bank. Another lost its footing among the stones. Buxbrew scrambled down to the edge of the island, seized the boat and pushed it into deeper water.
+Jasmine rose quickly. The nearest creature came down the slope before she could reach the boat, scattering stones with its feet. There was little space between the bank and the water. She planted her boots where she could find firm footing and met it at close quarters.
 
-For a moment she thought she had left the oar behind.
+The fight became a jumble of wet pebbles, heavy breathing and sharp movements in the failing light. A second creature appeared beyond the first. She shifted back toward the beach, using the uneven ground to keep them from crowding her at once. One stumbled on the stones; she took the chance to get past it.
 
-She found it beneath her knee.
+The boat had slid partly into the water. She caught its rim, pushed until it floated and climbed in with one leg still dragging through the shallows. A trogg shouted from the bank. Its voice carried surprisingly far over the open lake.
 
-It was a small, ordinary relief, and it nearly made her laugh.
+She looked down in alarm for the oar and found it trapped beneath her knee. Pulling it free, she began to row.
 
-The creatures called after her from the bank. Their voices grew faint as the boat moved away. She rowed until she could no longer see their shapes, then allowed herself to stop.
+The shore moved away by slow degrees. For several strokes she could hear the creatures calling after her. Then there was only the soft knock of the boat against the water and the irregular scrape of her own breathing.
 
-The eastern sky was beginning to pale.
+She kept going until the shapes on the island were indistinct.
 
-She sat with her hands resting on the oar and waited for her breathing to settle. Somewhere beyond the lake, people would be beginning the work of the morning. Fires would be stirred. Bread would be cut. In the Amberbrew kitchen, Bess might already be lifting lids to see what was ready.
+The eastern edge of the sky had begun to pale. Under that growing light, the lake took on the colour of cold metal. She allowed the boat to drift for a while, hands resting on the oar, while the first small sounds of morning rose from the distant shore.
 
-Buxbrew looked down at the bruises on her knuckles.
+There would be people stirring fires in Thelsamar now. Back in Ironforge, the working day might already be underway in the family kitchen. A pot would be set to warm. Bread would be cut. Somebody would be asking where the clean mugs had gone.
 
-"Well," she said.
+Jasmine turned the boat toward the mainland. Her boots were soaked, her knuckles hurt, and she had not slept as she intended.
 
-There was no one to answer.
-
-After a while she turned the boat toward shore. She was hungry again. That, at least, was familiar.
+There would be time to sleep after breakfast.
 
 ---
 
-**Continuity and attribution:** Dramatization of the established first-adventure account's Loch Modan island and trogg encounter, concluding near sunrise. The boat, exact island, fight choreography and private moments are literary reconstruction, not independently verified gameplay or permanent map lore. AI-assisted rewrite.
+**Continuity and attribution:** AI-assisted reconstruction of the established Loch Modan island and trogg encounter, ending near sunrise. The boat, precise island, fight and small observations are literary details, not verified gameplay or fixed map lore. Timeline unplaced.

@@ -34,7 +34,7 @@ This file records **creative decisions**, not fictional scenes or every suggesti
 ## Established continuity retained from earlier decisions
 
 - **Loni “Lonebrew” Amberbrew is the older sister; Jasmine “Buxbrew” Amberbrew is younger.** Earlier opposite wording is superseded.
-- **Erendor** is the father and hunter; **Morkah** is the grandfather.
+- **Arandor** is the father and hunter; **Morkah** is the grandfather.
 - Buxbrew's blacksmithing belongs to an actual **earlier incarnation**, not a former profession in her current lifetime.
 - The hidden Amberbrew family and its history are **fan-created lore**, not official Blizzard canon.
 
@@ -56,4 +56,7 @@ These are existing character-continuity decisions, not new additions inferred fr
 
 **DEC-16 — Begin writing the collected stories.** After the earlier documentation-only work, the creative explicitly requested that previously discussed family stories be gathered, rewritten under the new literary principles, and placed in the AmberbrewStory repository. This authorizes fictional retellings and small connective inventions, **not** automatic promotion to confirmed biography or gameplay history.
 
-**Editorial implementation:** Seven AI-assisted draft chapters were composed: a three-part reconstruction of Buxbrew's early journey (plus a domestic opening scene) and separate portraits involving Loni, Erendor, Bess, Morkah and Blackguard. Their order as files is not a definitive in-world calendar. Newly created dialogue and incidental objects remain literary rather than canonical. Full original prose from old chats was not always available; recovered outlines and existing repository reference pages were used instead.
+**Editorial implementation:** Seven AI-assisted draft chapters were composed: a three-part reconstruction of Buxbrew's early journey (plus a domestic opening scene) and separate portraits involving Loni, Arandor, Bess, Morkah and Blackguard. Their order as files is not a definitive in-world calendar. Newly created dialogue and incidental objects remain literary rather than canonical. Full original prose from old chats was not always available; recovered outlines and existing repository reference pages were used instead.
+
+
+**DEC-17 — Literary naming and observational balance (2026-11-01).** Jasmine is the central character's own name. The nickname Buxbrew comes from guests and family friends, referring to her figure and the Amberbrew family name; she did not choose it. Narrative prose should generally use she/her, with Jasmine for clarity, and reserve Buxbrew for other characters' speech. Action, place and sensory detail should usually receive more space than dialogue, without a rigid ratio. The father's definitive spelling is **Arandor Amberbrew**.
