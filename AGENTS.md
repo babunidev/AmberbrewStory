@@ -36,6 +36,10 @@ The project is **Amberbrew Story** (repository: AmberbrewStory), formerly Buxbre
 - Buxbrew commissioned Blackguard from a weaponsmith; she did not forge it herself.
 - The family history and hidden tavern are **fan-created lore**, not official Blizzard history.
 
+## Mandatory Amberbrew secrecy safeguard
+
+The family **must remain unrecognized as Dark Iron by Bronzebeard dwarves**. Their disguise pendants are durable, dependable family magic, not a vulnerability to exploit for tension: casual contact, brawls, lost balance, snagged clothing or damage to a chain cannot make the illusion fail. Never disclose or imply disclosure through an invented outsider's detection, confession, or convenient accident. If a proposed plot depends on that outcome, change the plot. No exception without the human creative's explicit new direction.
+
 ## Literary principles (for authorized story tasks)
 
 **The creative has explicitly authorized a story-writing pass on 2026-11-01.** Draft fiction into `stories/chapters/`, label its relationship to canon, and keep invented dialogue/incidents separate from source-confirmed facts. The earlier documentation-only phase is historical, not a standing prohibition.

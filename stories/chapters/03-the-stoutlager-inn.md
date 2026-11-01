@@ -1,85 +1,111 @@
 # The Stoutlager Inn
 
-By the time Buxbrew came into Thelsamar, she had stopped thinking of supper as a pleasure and begun thinking of it as a necessity.
+By the time Buxbrew reached Thelsamar, supper had become less an agreeable thought than an urgent one.
 
-There were lamps in the windows of the Stoutlager Inn. She stood outside just long enough to stamp the snow from her boots, smooth her hair with both hands and decide that it made no difference.
+Lamps were burning in the windows of the Stoutlager Inn. She stood outside long enough to knock the snow from her boots, pull her gloves straight and try to settle her hair. One copper-beaded braid had come loose during the day's walking. She tucked it back where it belonged and went inside.
 
-Inside, people were talking over one another.
+The room was busy, though not full. Someone had taken the best place near the fire and fallen asleep there. Two miners were arguing about a journey they had both made and remembered differently. From the kitchen came the smell of onions, roasted meat and fresh bread.
 
-A chair scraped on the floor. Someone near the fire had a laugh so low and steady that Buxbrew could hear it beneath the rest of the room. The smell of food reached her before anyone offered a greeting. She found an empty place at a table and asked for something hot.
+Buxbrew took an empty place at a long table.
 
-The woman carrying the food took a look at her torn glove.
+"Something hot, please," she said when the serving woman came past.
 
-"Long day?"
+"Food or drink?"
 
-"Long enough."
+"Both, if you've got them."
 
-"Drink?"
+"We have."
 
-"Yes, please."
+"Wonderful."
 
-A moment later Buxbrew had a mug, and not long after that she had a plate. She ate more quickly than she intended. Nothing in Thelsamar had ever tasted quite so good.
+A mug arrived first. She held it between her hands and let the warmth spread into her fingers. The day's climb through Dun Morogh had left a raw patch beneath one shoulder strap, and her torn glove was no longer keeping out the cold. She put it on the bench beside her.
 
-At the neighboring table two dwarves were arguing over who had first seen a party of travelers on the road. They had been arguing long enough that the travelers themselves had apparently come and gone.
+When the food came, she ate quickly enough to earn a glance from the woman carrying the next tray.
 
-Buxbrew listened, amused. Her shoulder still ached, but the inn had warmth enough for it, and she had begun to think she might order another mug.
+"Not seen a meal for a while?"
 
-Then somebody stood too quickly.
+"Not one that sat still long enough."
 
-A sleeve caught the rim of her drink. Ale spilled across the table and onto the knee of a man who had already had a bad evening.
+That won a small smile.
 
-He looked at the stain. He looked at Buxbrew.
+At the far end of the table, the two miners had reached the part of their disagreement involving a broken cart wheel. Buxbrew listened between mouthfuls. Their accounts differed on the weather, the length of the road and the number of people who had offered help. They agreed only that the wheel had been broken.
 
-"Watch it."
+She was reaching for the bread when a man stepped backward from the neighboring bench.
 
-Buxbrew glanced at the nearly empty mug in her hand.
+His sleeve struck her mug. Ale went across the table and into the lap of another patron, who sprang to his feet.
 
-"Wasn't me."
+"Here! Watch what you're doing!"
 
-"Your table."
+Buxbrew looked at the spreading puddle.
 
-"Your knee."
+"Wasn't doing much of anything."
 
-It was not a useful answer. She knew that almost as soon as she said it.
+"It's your mug!"
 
-A hand struck the table. Someone reached across it. There were several voices at once, and the chair beside Buxbrew went over backward. She caught one man's arm before it could reach her face. The next instant they were struggling among the benches.
+"It was, a moment ago."
 
-In the brewery at home she knew how a brawl sounded before it truly began. Here she had missed the moment.
+The man had no patience for the distinction. He slapped a hand down on the table, rattling the plates, and told her something rude about the way she ought to sit. One of the miners rose to put in a word. The other miner rose to contradict him. A bench scraped sharply along the floor.
 
-A blow caught her at the collar, where the chain of her enchanted pendant lay beneath her clothes. The chain snagged. For an instant the familiar spell faltered.
+It was a very small quarrel, but small quarrels in crowded inns have a habit of finding extra people.
 
-The change was slight to anyone who did not know what to look for. To the people nearest her, it was enough.
+Someone shoved. Someone shoved back. The miner with the broken-cart story lost his balance and knocked a chair onto its side. Buxbrew caught the arm of the man who was reaching across her plate and turned him neatly away from her supper.
 
-A face that had seemed ordinary Bronzebeard was unmistakably Dark Iron.
+"There's enough trouble here without borrowing mine," she told him.
 
-For a breath, the inn went quieter than it had been all evening.
+He tried once more to get past. This time she stood up.
 
-Then somebody said something harsh, another person answered, and the room found its noise again.
+Buxbrew was short, broad and built to hold her ground. She did not need much space to do it. The man stopped, reconsidered, and looked instead toward his companion.
 
-Buxbrew stood with one hand against the table, her torn collar in her fist. She could see the uncertainty in the innkeeper's face, the anger in the man whose ale had spilled, and the curiosity of people who had not been close enough to see.
+"That's enough," said the innkeeper.
 
-She had heard enough about old grudges to know they were never very old when somebody chose to speak them aloud.
+His voice was neither loud nor uncertain.
 
-"That's enough," the innkeeper said.
+The serving woman had already brought a cloth. She handed it to the man with the wet knees, who looked as though he wanted to complain that nobody had brought him a dry pair of trousers as well.
 
-No one appeared especially eager to disagree.
+Buxbrew righted the fallen chair.
 
-Buxbrew bent and righted the fallen chair. There was still half a heel of bread on her plate. She picked it up and finished it before anyone could decide to take her supper away.
+"Sorry about the ale," she said.
 
-The innkeeper returned with a cloth for the table.
+The man glanced at the tipped mug.
 
-"You ought to go."
+"You paying for it?"
 
-Buxbrew looked at the cloth, the spilled ale, and the places where the benches had shifted out of line. He sounded tired rather than cruel.
+"Whoever knocked it over ought to."
 
-"Aye," she said.
+"That was him," said one miner.
 
-She left a coin for the broken mug.
+"Wasn't," said the other.
 
-Outside, Thelsamar was cooler and less interested in her. Warm light lay on the road behind the inn windows. She pressed the pendant into her palm until the chain sat where it should again, then turned toward the loch.
+For a moment everyone looked ready to begin again.
 
-There would be other suppers.
+Buxbrew reached into her purse and put a coin beside the wet mug.
+
+"There. Now can we all get back to eating?"
+
+The innkeeper swept up the coin before anyone could argue about it.
+
+"Sit down, then. And keep the chairs where they belong."
+
+Buxbrew sat.
+
+The man across from her moved his wet knees away from the table and muttered something she chose not to hear. In a few minutes the miners were discussing the cart again, with no more agreement than before. The sleeping fellow by the fire had not stirred.
+
+Buxbrew's meal was going cold. She finished it anyway. The bread was good, and there was gravy left at the bottom of the bowl. She used the last piece to gather it up.
+
+Outside, the road toward Loch Modan waited in the dark. She had thought of travelling farther that evening, though the warmth of the inn made a strong case against it.
+
+The serving woman returned for the plate.
+
+"Another mug?"
+
+Buxbrew looked at her glove drying near the table, then at the fire.
+
+"Just the one," she said.
+
+"Coming."
+
+She settled herself a little more comfortably on the bench and listened to the miners disagree.
 
 ---
 
-**Continuity and attribution:** Dramatization of the earlier Thelsamar episode: Stoutlager Inn, spilled ale, brawl and public exposure of Buxbrew's concealed Dark Iron identity. The precise way the pendant's magic fails, the innkeeper, dialogue and outcome are invented connective details; they are not established mechanics or verified gameplay. The family's pendant disguises are established lore. AI-assisted rewrite.
+**Continuity and attribution:** AI-assisted dramatization of the early Thelsamar inn episode, including an ale spill and a brief quarrel. The guests, dialogue, sequence and outcome are narrative inventions, not verified gameplay. Exact chronology remains unplaced.

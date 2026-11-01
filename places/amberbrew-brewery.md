@@ -8,7 +8,7 @@ The place is a **working brewery, kitchen, gathering place and family hearth**, 
 
 ## Concealment
 
-The family's **pendant disguises** make it easier for Dark Iron Amberbrews to move among dwarves in Ironforge, though a skilled observer may see through them. Exact access tunnels, entrances, room arrangement and capacity are not established as a fixed plan.
+The family's **pendant disguises** make it easier for Dark Iron Amberbrews to move among dwarves in Ironforge, and the protection is not casually defeated by spectators, arguments or ordinary mishaps. The family maintains its hidden identity without public disclosure. Exact access tunnels, entrances, room arrangement and capacity are not established as a fixed plan.
 
 ## Story use
 

@@ -9,7 +9,7 @@ Read the fiction itself as fiction. At the end of each chapter, a clearly separa
 Read these in order. Their underlying incidents were described in earlier character conversations, but their wording, scene transitions and most dialogue have been newly composed.
 
 1. [Out into the Snow](chapters/02-out-into-the-snow.md) — from the hidden Ironforge passages through Dun Morogh, the airfield country and encounters with a winter wolf and Frostmane trolls.
-2. [The Stoutlager Inn](chapters/03-the-stoutlager-inn.md) — a meal in Thelsamar, an ale-spill brawl and an exposed Dark Iron identity.
+2. [The Stoutlager Inn](chapters/03-the-stoutlager-inn.md) — a meal in Thelsamar, an overturned mug, a brief tavern scuffle and a long-awaited supper.
 3. [Before the Sun Reached the Loch](chapters/04-before-the-sun-reached-the-loch.md) — an island, troggs and the return toward shore at dawn.
 
 ## At home and between adventures — independent scenes

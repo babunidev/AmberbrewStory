@@ -8,7 +8,9 @@ Buxbrew grows up around the **brewery, kitchens and tavern hospitality**. Brewin
 
 ## Dark Iron identity and concealment
 
-The Amberbrews retain their **Dark Iron heritage** despite dwelling in Ironforge. The original family story has them use **enchanted pendants** to appear like **Bronzebeard dwarves** to most observers. The illusion leaves their physique unchanged and may be pierced by especially perceptive or magically capable people.
+The Amberbrews retain their **Dark Iron heritage** despite dwelling in Ironforge. Their **enchanted pendants** allow them to appear as **Bronzebeard dwarves** without changing their physical proportions. The spell is dependable, not something that slips when the wearer drinks, fights, falls, catches the chain or suffers ordinary mishaps.
+
+**Keeping the family's true heritage hidden is one of its most important rules and traditions.** No member exposes it to Bronzebeard society, whether out of bravado, anger, carelessness or convenience. Their safety, home and life among their neighbors depend on that discretion. No person outside the family may casually penetrate the disguise for narrative tension. The human creative alone may authorize any change to this rule.
 
 ## Power with restraint
 

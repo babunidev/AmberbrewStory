@@ -50,6 +50,10 @@ The intended reader feels like a welcome observer, catching only part of a famil
 
 The image is an **editorial metaphor**, not definitive evidence of the building's floor plan. Food, drink and household details mentioned as examples are also not automatically established historical events.
 
+## An inviolable family custom: keep the secret
+
+The Amberbrews' Dark Iron heritage is protected by reliable enchanted pendants and an uncompromising family tradition of concealment. Bronzebeard dwarves must **not** learn their identity in the stories. Ordinary contact, drunkenness, rough play, brawling, damage to clothing or tugging a chain cannot interrupt the magic. Never introduce an observer who penetrates the illusion or a dramatic revelation as an incidental plot device. The family's safety and hidden home depend on this custom; only the human creative can explicitly revise it. Readers may know more than the people sharing the family's ordinary daily life.
+
 ## Practical boundaries
 
 - Use [CANON.md](CANON.md), [TIMELINE.md](TIMELINE.md) and [continuity notes](lore/continuity-notes.md) for current family facts.

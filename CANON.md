@@ -26,7 +26,8 @@ See [the family](family/amberbrew-family.md), [Erendor](family/erendor-amberbrew
 
 - **Home:** Amberbrew Brewery and Tavern, concealed beneath the **Bronze Kettle** in Ironforge in the original family lore.
 - The Amberbrews separated from the Dark Iron course that led toward Thaurissan's domination and Ragnaros; Morkah's role and the clan's concealment belong to **original fan lore**, not official Warcraft history.
-- The family uses enchanted pendants to appear like Bronzebeard dwarves to most observers; the disguise does not change their stature and may be seen through.
+- **Family law of secrecy:** The Amberbrews keep their Dark Iron identity concealed from Bronzebeard society. Protecting the family and its home takes precedence over pride, drink, casual quarrels or a dramatic moment. No Amberbrew knowingly reveals the truth, and the stories must not expose it accidentally.
+- **Enchanted pendants:** Their spell presents the family as Bronzebeard dwarves without altering their physical proportions. The enchantment is reliable and cannot slip, flicker or be broken by ordinary wear, a knocked chain, rough handling, an argument or a tavern brawl. No scene may invent a convenient failure or outsider detection as a way of revealing their heritage. Any exception would require an explicit new decision from the human creative.
 - **Guild:** Roar (also styled ROAR). Buxbrew has been described as its founder and adventures with its members.
 
 ## Appearance

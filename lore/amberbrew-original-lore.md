@@ -12,7 +12,7 @@ Morkah's approach to power included **restraint, concealment and controlled shad
 
 ## A hidden hearth in Ironforge
 
-The family settled into a concealed **Brewery and Tavern beneath the Bronze Kettle** in Ironforge. **Enchanted pendants** allow Amberbrew Dark Irons to appear **Bronzebeard dwarves** to most observers. The illusion does not alter their physical proportions and can be pierced by sufficiently perceptive or magically capable observers.
+The family settled into a concealed **Brewery and Tavern beneath the Bronze Kettle** in Ironforge. **Enchanted pendants** allow Amberbrew Dark Irons to appear **Bronzebeard dwarves** to most observers. The illusion does not alter their physical proportions, but it is steadfast against everyday interference. The family never publicly admits its Dark Iron identity to Bronzebeard dwarves, and an outsider's accidental discovery is not part of established family history. This concealment is a vital family tradition, not a convenient secret to expose for drama.
 
 ## Known household
 
