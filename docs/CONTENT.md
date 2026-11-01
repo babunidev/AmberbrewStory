@@ -1,36 +1,49 @@
-# Content architecture
+# Content architecture — Amberbrew Story
 
-This archive is for a **character story**, not a software product.
+This is a **family-story and documentation archive**, not a software project. The structure separates project decisions, established continuity, lived gameplay and possible future fiction.
 
-| Location | Purpose | Authority |
+## Project documents: what belongs where
+
+| File | Record here | Do not put here |
 | --- | --- | --- |
-| README.md | Navigation | Project reference |
-| CONCEPT.md | Creative goals | Creative direction |
-| CANON.md | Index of confirmed character and family facts | **Canon** |
-| TIMELINE.md | Established chronology and undated snapshots | Chronology |
-| WRITING-GUIDE.md | Style and provenance | Editorial |
-| character/ | Buxbrew's appearance, behavior, combat, life and skills | Canon-based reference |
-| family/ | **Bess, Erendor, Loni/Lonebrew, Morkah**, household and traditions | Canon-based reference |
-| relationships/ | Guild, allies, opponents | Confirmed ties |
-| places/ | Brewery, Ironforge, other places | Canon with fan-lore distinction |
-| lore/ | Family origin, Warcraft context, continuity | Original lore and editorial context |
-| stories/chapters/ | Crafted fiction | **Not automatically canon** |
-| journal/entries/ | Actual or remembered gameplay and RP | Source-labeled |
-| assets/ | Illustrations, screenshots and references | Provenance required |
-| archive/ | Superseded drafts | Not current canon |
-| docs/DEVLOG.md | Human-perspective project history | Documented process |
-| docs/DECISIONS.md | Human creative's decisions | Decision record |
-| docs/AI_COLLABORATION.md | Contribution and attribution | Process |
-| ROADMAP.md | Plans, not facts | Planning |
-| CHANGELOG.md | Repository changes | Revision record |
-| AGENTS.md | Instructions for AI collaborators | Operating guidance |
+| [README.md](../README.md) | Family-wide introduction, navigation, current phase | Full stories or long decision histories |
+| [CONCEPT.md](../CONCEPT.md) | The creative's purpose, intended reader experience, world and scope | Prescriptive plot beats or invented character biography |
+| [ROADMAP.md](../ROADMAP.md) | Completed work, next editorial steps, deferred possibilities | Claims that unwritten chapters or unapproved lore already exist |
+| [WRITING-GUIDE.md](../WRITING-GUIDE.md) | Ten agreed literary principles and future writing boundaries | Actual fictional scenes |
+| [docs/DECISIONS.md](DECISIONS.md) | Approved choices, rejected alternatives and source/provenance | An unsifted transcript of every AI suggestion |
+| [docs/DEVLOG.md](DEVLOG.md) | Brief human-perspective narrative of meaningful project evolution and AI contribution | Step-by-step tool output or invented memories |
+| [docs/AI_COLLABORATION.md](AI_COLLABORATION.md) | Authorship, approval and attribution process | Unreviewed claims of human or AI action |
+| [CHANGELOG.md](../CHANGELOG.md) | Concrete repository modifications | In-world chronology |
+| [AGENTS.md](../AGENTS.md) | Rules future AI assistants must follow | Character scenes or assistant roleplay |
 
-## Adding facts
+## Canon and creative material
 
-1. Determine whether the source is a creative confirmation, a gameplay recollection, a fictional passage or an idea.
-2. Add confirmed details to the relevant topic page and summary in CANON.md.
-3. Update TIMELINE.md only when the relative order is supported.
-4. Preserve earlier contradictions in lore/continuity-notes.md, but label them **resolved** after a creative decision.
-5. Update CHANGELOG.md and docs/DECISIONS.md when appropriate; explain substantive work in docs/DEVLOG.md.
+| Location | Responsibility |
+| --- | --- |
+| [CANON.md](../CANON.md) | Confirmed character and family facts |
+| [TIMELINE.md](../TIMELINE.md) | Established temporal order and qualified undated snapshots |
+| [character/](../character/) | Buxbrew-specific details |
+| [family/](../family/) | The Amberbrew household, Bess, Erendor, Loni, Morkah and family traditions |
+| [relationships/](../relationships/) | Confirmed relationships and guild affiliations |
+| [places/](../places/) | Established family places and setting context |
+| [lore/](../lore/) | Original family lore, Warcraft reference, disputes and continuity |
+| [journal/](../journal/) | Actual/remembered gameplay and RP, clearly labeled |
+| [stories/](../stories/) | Possible future fiction; not canon automatically |
+| [assets/](../assets/) | Approved images, screenshots and references with source information |
+| [archive/](../archive/) | Superseded material preserved for traceability |
 
-The current sibling order is **Loni older, Buxbrew younger**. Father **Erendor** has [his own page](../family/erendor-amberbrew.md).
+## Documentation workflow
+
+1. Identify whether an input is a **confirmed creative decision**, **AI proposal**, **canon fact**, **gameplay account**, **story example** or **open question**.
+2. Record creative motivation and the broader intended experience in CONCEPT.md.
+3. Record rules for future writing in WRITING-GUIDE.md; do not write the fiction there.
+4. Put confirmed decisions and rejected approaches in docs/DECISIONS.md, distinguishing explicit choices from summaries.
+5. Summarize important iterations and actual AI work briefly in docs/DEVLOG.md; track files changed in CHANGELOG.md.
+6. Touch CANON.md, TIMELINE.md or character/topic pages **only when the creative actually establishes or revises character facts**.
+7. Keep the raw private discussion out of the public repository; summarize source-derived decisions without reproducing it verbatim.
+
+**Current scope:** Project documentation only. No story chapters or invented family lore in this pass.
+
+## Continuity note
+
+Loni is the older sister and Buxbrew the younger. Erendor is their father and Morkah their grandfather. Those established facts remain in [CANON.md](../CANON.md), not in a new fictional story.

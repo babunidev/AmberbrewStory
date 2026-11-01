@@ -1,31 +1,52 @@
-# Decisions and continuity
+# Project decisions — Amberbrew Story
 
-This record distinguishes decisions by the human creative from editorial work implemented with AI assistance.
+This file records **creative decisions**, not fictional scenes or every suggestion made during discussion. Unless otherwise noted, the decisions below were stated by the human creative on **2026-11-01** during the ten-question storytelling discussion and surrounding project work. AI helped ask, summarize and organize; its example scenes were not automatically adopted as canon.
 
-## Established editorial decisions — 2026-11-01
+## Project identity and scope
 
-**Character-story archive.** Buxbrew's work is maintained as a World of Warcraft roleplaying and narrative project, not a software product.
+**DEC-01 — Rename and broaden the project.** Rename the former BuxbrewCharacterStory project and repository to **Amberbrew Story / AmberbrewStory**. The whole family is the subject, not Buxbrew alone. Buxbrew remains the initial central character. This supersedes the earlier single-character framing.
 
-**Explicit canon boundaries.** CANON.md records facts; drafts, memories, proposals and fictional scenes retain their labels.
+**DEC-02 — Let play shape the future material.** The creative intends to play Buxbrew and let actual gameplay and roleplaying sessions supply much of the adventure, progression and lived history. Family history and the ordinary spaces between sessions provide context. The project has no requirement for an ending or a comprehensive saga.
 
-**Earlier incarnation.** Blacksmithing belonged to an earlier literal life, not a previous career in the present life.
+**DEC-03 — Keep canon, memories and fiction distinct.** Established lore and gameplay can inspire believable invented connective moments, but an invented scene does not establish a verified historical event. This continues the repository's existing archival rule.
 
-**Human creative authorship.** Character choices and canon belong to the human creative. AI helps organize and edit.
+## Literary decisions from the ten-question discussion
 
-**Focused topic pages.** Facts should be recorded in coherent pages with cross-links.
+| ID | Decision | Boundary or alternative set aside |
+| --- | --- | --- |
+| DEC-04 | **Observant viewpoint.** Readers mainly understand characters through behavior, conversation, habits and silences; some inner perspective remains possible. | Full disclosure of private thoughts and fears is not necessary. |
+| DEC-05 | **Grounded, gently lyrical language.** Carefully chosen sensory details with a subtle poetic quality. | No ornate, hyper-dramatic or overstimulating prose; lyricism is not an exact numeric formula. |
+| DEC-06 | **Balance play with everyday life.** Adventures occur through gameplay; domestic moments deserve deliberate attention. | Everyday scenes are not filler and do not need a major event. |
+| DEC-07 | **Faithful small inventions.** Believable incidents and conversations may fill unrecorded spaces around confirmed experiences. | Do not rewrite established lore or silently canonize inventions. |
+| DEC-08 | **Fundamentally good-hearted family.** Affection, support, warmth and imperfections coexist. | Do not make sustained interpersonal conflict or tragedy the engine of the work. |
+| DEC-09 | **Organic humor.** Let humor arise from people and circumstance. | Avoid writing a comedy or engineering embarrassing spectacles. |
+| DEC-10 | **Unhurried rhythm.** Pause for small gestures and atmospheric moments. | No requirement for continuous plot progression. |
+| DEC-11 | **Unresolved mystery.** Private history and unexplained details may remain unanswered forever. | No obligation to pay off secrets with revelations, twists or story arcs. |
+| DEC-12 | **Warcraft foundation.** Respect established Warcraft lore and build original family history in its unexplored spaces. Account for evolving World of Warcraft Forever continuity. | Do not override official lore or declare fan lore official. |
+| DEC-13 | **A window into a living world.** Seek a feeling of curious wonder, as though observing fragments of life at the family's hidden Ironforge tavern. | Do not stage every moment for the reader or explain everything. |
 
-## Family decisions — 2026-11-01
+## Working-process decisions
 
-**Sisters' order decided.** **Loni “Lonebrew” Amberbrew is Buxbrew's older sister; Jasmine “Buxbrew” Amberbrew is younger.** This directly supersedes earlier statements calling Lonebrew the younger sister.
+**DEC-14 — Documentation is the task for now.** The current work is to collect and place the decisions, concepts, project history and rules in the repository. **Do not write fictional stories, dialogue, chapters, new adventures or unapproved character biography during this phase.**
 
-**Lonebrew's given name.** The older sister's name is **Loni Amberbrew**; **Lonebrew** remains her familiar name.
+**DEC-15 — Human authorship and accurate attribution.** Project history is written from the human creative's first-person perspective without beginning sentences with “I” or “My”. The creative's choices remain distinct from the AI's questions, drafted summaries and repository edits.
 
-**Father established.** **Erendor Amberbrew** is Buxbrew's **father**, a **hunter** frequently away from home.
+## Established continuity retained from earlier decisions
 
-**Grandfather confirmed.** **Morkah Amberbrew** (also transcribed “Murka”) is **Buxbrew's grandfather**, not her father. His side of the family is not fixed.
+- **Loni “Lonebrew” Amberbrew is the older sister; Jasmine “Buxbrew” Amberbrew is younger.** Earlier opposite wording is superseded.
+- **Erendor** is the father and hunter; **Morkah** is the grandfather.
+- Buxbrew's blacksmithing belongs to an actual **earlier incarnation**, not a former profession in her current lifetime.
+- The hidden Amberbrew family and its history are **fan-created lore**, not official Blizzard canon.
 
-**Lore consolidation.** Existing confirmed project-conversation details about Buxbrew's appearance, household, personality, equipment, professions, clan history and adventures have been organized by topic. Historical narratives remain distinct from proven gameplay logs.
+These are existing character-continuity decisions, not new additions inferred from the ten-question discussion. For the full factual index, use [CANON.md](../CANON.md).
 
-## Remaining questions
+## Interpretive cautions and open questions
 
-Precise birth dates, the extended genealogy, Erendor's reasons for being away, Morkah's paternal/maternal line, exact piercing/earring design and dated adventures have not been established.
+- The imagined window beneath the stairs is a picture of the **reader's experience**, not a confirmed floor plan. The [brewery page](../places/amberbrew-brewery.md) remains the reference for the established family location.
+- Discussion examples about characters' possible flaws, motives or secret objects must not be taken as confirmed facts. In particular, tentative remarks about Morkah's private interests do not canonize particular dark arts.
+- The creative noted that Ironforge does not have outdoor rain; avoid contradicting the setting. A possible around-the-clock brewery rhythm was discussed, not established as a fixed business schedule.
+- Exact dates, detailed family history and other unresolved biographical details stay governed by [continuity notes](../lore/continuity-notes.md).
+
+## Source and attribution
+
+**Primary basis:** user-supplied export titled *Refine Storytelling Instructions*, containing the ten-question discussion and an AI-assembled final writing guide, 2026-11-01. The creative's answers and explicit corrections establish the decisions; assistant-authored examples are treated as illustrative unless independently confirmed. The private raw discussion is not reproduced in the public repository.

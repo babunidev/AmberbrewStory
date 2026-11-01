@@ -1,56 +1,60 @@
-# Buxbrew — The Story of Jasmine Amberbrew
+# Amberbrew Story
 
-A living, fan-created character and family archive for **Buxbrew**, a joyful, hard-fighting Dark Iron dwarf in the World of Warcraft setting. It preserves **established character lore**, **adventure recollections**, **fictional stories** and the human-led process of developing her world.
+*A living family-story and worldbuilding archive set in World of Warcraft.*
 
-> **“We roar, we laugh, we fight.”**
+**Amberbrew Story** follows the Dark Iron Amberbrew family, particularly in the evolving setting of **World of Warcraft Forever**. **Jasmine “Buxbrew” Amberbrew** is the initial central character, but the project belongs to the whole household: Bess, Erendor, Loni (“Lonebrew”), Morkah, Buxbrew, and the people around them.
 
-Buxbrew is Jasmine Amberbrew, the **younger** of the two established Amberbrew sisters. Her older sister **Loni (“Lonebrew”) Amberbrew** and her father **Erendor Amberbrew** are both hunters, though their approaches to life differ. The Amberbrew Brewery, family hospitality, the Roar guild and Buxbrew's protective spirit are the heart of the archive.
+The project began as **BuxbrewCharacterStory** and was renamed and broadened on **2026-11-01**. This is a repository for preserving the creative vision, established family history, continuity, future stories, and the human-led development process — **not a request to generate fictional writing whenever its documentation is updated**.
 
-## Start here
+> **Buxbrew's motto:** “We roar, we laugh, we fight.”
 
-- [Established canon](CANON.md) — authoritative facts and family relationships
-- [Character timeline](TIMELINE.md) — chronology, including undated material
-- [Character overview](character/overview.md) — readable introduction
-- [Amberbrew family](family/amberbrew-family.md) — relatives and family links
-- [Project concept](CONCEPT.md) — purpose and editorial approach
-- [Writing guide](WRITING-GUIDE.md) — narrative voice, status and continuity
+## The idea
 
-## Explore
+Gameplay and roleplaying provide actual adventures and the passage of time. Family life, conversations, meals, work, humor, small gestures and quiet mysteries give those events depth. The intended reading experience is a welcome glimpse into a world that carries on beyond the page, not a conflict-driven epic with a predetermined ending.
 
-| Area | Contents |
-| --- | --- |
-| [Character](character/) | Identity, appearance, personality, history, combat and skills |
-| [Family](family/) | Bess, Erendor, Morkah, Loni, the Amberbrew household and traditions |
-| [Relationships](relationships/) | Roar, companions and opponents |
-| [Places](places/) | The family brewery, Ironforge and other significant locations |
-| [Lore](lore/) | Original Amberbrew history, Warcraft context and continuity records |
-| [Stories](stories/) | Fictional scenes, chapters and narrative templates |
-| [Adventure journal](journal/) | Gameplay memories and roleplaying accounts |
-| [Assets](assets/) | Illustrations, screenshots and references |
-| [Archive](archive/) | Superseded drafts, retained when useful |
+The family's original lore is fan-created and rests on Warcraft's world rather than replacing it. New World of Warcraft Forever developments can change what needs to be checked for continuity.
 
-## Project records
+Read the [project concept](CONCEPT.md) and the [ten storytelling principles](WRITING-GUIDE.md).
 
+## Established reference material
+
+- [Canon](CANON.md) — confirmed character and family facts
+- [Timeline](TIMELINE.md) — established sequence and undated events
+- [Character](character/) — Buxbrew's identity, appearance, personality, equipment and skills
+- [Family](family/) — Bess, Erendor, Loni, Morkah and family traditions
+- [Relationships](relationships/) — Roar guild, allies and rivals
+- [Places](places/) — Amberbrew Brewery and Tavern, Ironforge and other locations
+- [Lore](lore/) — original family lore, Warcraft context and continuity notes
+
+## Writing and lived experiences
+
+- [Stories](stories/) — future fiction; literary invention is not automatically canon
+- [Adventure journal](journal/) — actual or remembered gameplay and roleplaying, labeled by source
+- [Assets](assets/) — illustrations, screenshots and references; provenance required
+- [Archive](archive/) — retired material preserved when useful
+
+**Current phase:** Documenting the concept, decisions, rules and project history. This phase does **not** include writing fictional stories or adding unapproved canon.
+
+## Project documentation
+
+- [Concept](CONCEPT.md)
 - [Roadmap](ROADMAP.md)
-- [Change history](CHANGELOG.md)
+- [Writing and storytelling guide](WRITING-GUIDE.md)
+- [Decisions](docs/DECISIONS.md)
 - [Development journal](docs/DEVLOG.md)
-- [Editorial decisions](docs/DECISIONS.md)
-- [Content architecture](docs/CONTENT.md)
+- [Content structure](docs/CONTENT.md)
 - [Human–AI collaboration](docs/AI_COLLABORATION.md)
-- [Instructions for AI collaborators](AGENTS.md)
+- [Change history](CHANGELOG.md)
+- [AI collaborator instructions](AGENTS.md)
 
-## Status and provenance
+## Provenance
 
-**Established:** confirmed by the human creative and summarized in [CANON.md](CANON.md).  
-**Narrative:** fictionalized scene; its dialogue and incidents are not automatically historical facts.  
-**Journal:** an account of gameplay or roleplaying, with uncertainty labeled.  
-**Proposed:** an idea awaiting approval.  
-**Unresolved:** missing information, not a license to improvise.
+**Established** means confirmed by the human creative and recorded in CANON.md. **Journal** records gameplay or roleplaying with known uncertainty. **Narrative** is written fiction; **proposed** is unapproved; **unresolved** marks missing or conflicting information. Neither illustrative examples nor AI-generated suggestions establish canon.
 
-The old contradiction about the sisters' order was **resolved on 2026-11-01**: Loni is older, Buxbrew is younger. See [continuity history](lore/continuity-notes.md).
+The sibling-order correction is settled: **Loni is older; Buxbrew is younger**. See [continuity notes](lore/continuity-notes.md).
 
-## Credits and rights
+## Authorship and rights
 
-Creative direction, original character decisions and original Amberbrew lore: **Babuni**, human creative. AI contributes editing, archival work and writing assistance where documented; it does not establish canon independently.
+Creative direction, decisions and original Amberbrew lore: **Babuni**, human creative. AI assists with research, organization, drafting and repository changes where documented; AI proposals do not become creative decisions without approval.
 
-World of Warcraft and its setting belong to Blizzard Entertainment. This is an unofficial fan project, not affiliated with or endorsed by Blizzard Entertainment.
+World of Warcraft and the official setting belong to Blizzard Entertainment. This is an unofficial, fan-created project and is not affiliated with or endorsed by Blizzard Entertainment.

@@ -1,23 +1,29 @@
-# Human–AI collaboration
+# Human–AI collaboration — Amberbrew Story
 
-The human **creative** directs Buxbrew's character, history, relationships and stories. AI serves as a research, writing, organizational and technical assistant.
+The human **creative** defines the Amberbrew family, chooses the project's identity, approves canon and sets the literary direction. AI can ask clarifying questions, research, organize, draft summaries and make repository changes when directed.
 
-## Attribution
+## Who contributed what
 
-- **Human creative:** originates and approves character concepts, worldbuilding, narrative decisions and canon changes.
-- **AI assistance:** may organize archives, edit prose, compare documents, suggest possibilities and implement repository changes when instructed.
-- **Proposals:** AI-generated additions are suggestions until the creative accepts them; they must never quietly become historical facts.
-- **Implementation:** credit the actual actor. A Git commit applied through an AI tool is not evidence that the human manually edited each file.
-- **Verification:** describe what was inspected or checked and what remains uncertain; never imply that a story, memory or gameplay event was verified without evidence.
+- **Creative direction:** The creative chose to broaden BuxbrewCharacterStory into **Amberbrew Story**, encompass the family, retain Buxbrew as initial focus and build future material around actual play and family life.
+- **Writing philosophy:** The creative answered ten questions about viewpoint, language, daily life, imagination, warmth, humor, pacing, mystery, Warcraft lore and desired reader experience.
+- **AI assistance:** AI supplied the questions, reflected possible interpretations, produced a consolidated draft of writing instructions and subsequently organized the confirmed principles into project documentation.
+- **Editorial authority:** Assistant-invented examples about characters or settings do **not** become confirmed lore unless the creative independently accepts them.
 
-## Publication voice
+## Authorship in public documents
 
-Out-of-character development narratives are written from the human creative's first-person perspective, while avoiding sentences that begin with “I” or “My”. This is the human story of making the project, not a fictional AI narrator. In-world fiction may choose whichever perspective serves the scene.
+Project histories and out-of-character narratives use the human creative's **first-person perspective**. Weave “I” and “my” into natural sentences, but do **not** start a sentence with “I” or “My”. In-world stories may use whichever viewpoint the creative later specifies.
 
-## Provenance and privacy
+Use **creative**, not “creator”, as the role label. Explain an idea, the reason behind it, what the creative decided, what AI actually did, changes of direction and verified results. Do not imply that the creative personally wrote text or executed code when AI performed the operation.
 
-Use the repository as the maintained canon source. Earlier conversations can provide context, but private conversations should not be reproduced verbatim and unresolved details must not be inferred. Summaries should preserve meaningful creative decisions and the actual scope of AI assistance.
+## Evidence and privacy
 
-## This revision
+- **Explicit answers and corrections** are decision evidence.
+- **AI suggestions and illustrative scenarios** are proposals unless affirmed.
+- **Existing repository canon** is the established-facts reference; reconcile conflicts openly rather than erasing history.
+- **Gameplay and roleplaying recollections** should be marked with dates and uncertainty where known.
+- **Private discussion transcripts** are inputs for documentation, not material to be pasted into public records.
+- **Implementation** is reported only after repository changes are actually made; verification is distinguished from intent.
 
-On 2026-11-01, AI inspected the GitHub repository and revised the Markdown archive's structure, navigation, existing topic pages and documentation rules. The work was based on repository-confirmed facts, not on newly invented Buxbrew history.
+## This documentation consolidation — 2026-11-01
+
+The human creative requested **documentation only**. AI reviewed the supplied *Refine Storytelling Instructions* discussion and current repository, consolidated the approved vision and principles, and updated the relevant project documents. No fictional chapter, dialogue or new adventure was generated, and character canon was not changed in this pass.
