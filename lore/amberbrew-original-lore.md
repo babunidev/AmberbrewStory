@@ -1,16 +1,33 @@
 # Original Amberbrew lore
 
-_Status: Partially established._
+_Status: Established fan-created foundations, with uncertain chronology and genealogy._
 
-The Amberbrew family, its personal histories and the Amberbrew Brewery are **fan-created character lore** within a World of Warcraft setting. They are not presented as official Blizzard canon.
+The **Amberbrew family**, its hidden brewery and its personal history are **original World of Warcraft fan lore**. They are not characters or events documented by Blizzard as official Warcraft canon.
 
-## Established elements
+## A Dark Iron family apart
 
-- Buxbrew belongs to the Amberbrew family.
-- The brewery is the family home.
-- Family brewing, cooking and hospitality are part of Buxbrew's upbringing.
-- Bess Amberbrew, Morkah and Lonebrew are established relatives.
+In the established family account, **Morkah Amberbrew**, Buxbrew's grandfather, rejected **Sorcerer-Thane Thaurissan's** reckless course and the forces that culminated in **Ragnaros's** domination. The family's separation is associated with the turmoil of the **War of the Three Hammers**, although no exact family chronology has been fixed.
 
-## Continuity practice
+Morkah's approach to power included **restraint, concealment and controlled shadow** rather than surrender to it. The Amberbrews preserved their heritage in secrecy.
 
-Use [CANON.md](../CANON.md) for confirmed details, [TIMELINE.md](../TIMELINE.md) for established chronology and [continuity notes](continuity-notes.md) for unresolved conflicts. Fictional additions remain fiction until reviewed.
+## A hidden hearth in Ironforge
+
+The family settled into a concealed **Brewery and Tavern beneath the Bronze Kettle** in Ironforge. **Enchanted pendants** allow Amberbrew Dark Irons to appear **Bronzebeard dwarves** to most observers. The illusion does not alter their physical proportions and can be pierced by sufficiently perceptive or magically capable observers.
+
+## Known household
+
+- **Morkah** — elder and Buxbrew's grandfather.
+- **Bess “Bosom Bess” Amberbrew** — Buxbrew's mother and the welcoming, roaring-voiced tavern hearth.
+- **Erendor Amberbrew** — Buxbrew's father, a hunter frequently off on his travels.
+- **Loni “Lonebrew” Amberbrew** — older sister, an introverted hunter who fights without a pet.
+- **Jasmine “Buxbrew” Amberbrew** — younger sister, joyful brewer-hearted alchemist and protective warrior.
+
+Morkah's exact link through Bess or Erendor and the broader family tree are not defined.
+
+## Family spirit
+
+**Brewing, cooking, hospitality, laughter, strong family ties, adventure and chosen control over dangerous power** recur in the Amberbrew story. Buxbrew's public name developed from tavern guests' description of “that buxom lass and her wicked brew.”
+
+## Canon boundaries
+
+Use [CANON.md](../CANON.md) for facts, [TIMELINE.md](../TIMELINE.md) for established order and [continuity notes](continuity-notes.md) for remaining ambiguities. A later fictional scene may build on these ideas but cannot independently prove it happened.

@@ -12,32 +12,34 @@ This is a **character-story and worldbuilding archive**, not a software project.
 
 ## Canon and continuity
 
-- **Buxbrew** is the character's primary name; Jasmine Amberbrew is her full name.
-- Treat [CANON.md](CANON.md) as the established-facts index, not a place to fill in guesses.
-- Do not confuse blacksmithing in an **earlier incarnation** with a former job in her current life.
-- Do not decide the unresolved sibling birth order without the creative's confirmation.
+- **Buxbrew** is the primary name; Jasmine Amberbrew is her birth name.
+- **Loni “Lonebrew” Amberbrew is the older sister; Buxbrew is younger.** This is settled, not an unresolved issue.
+- **Erendor Amberbrew is Buxbrew's father**, a hunter often away. **Morkah Amberbrew is her grandfather**, not her father.
+- Treat [CANON.md](CANON.md) as an index of established facts, not a place to fill gaps through guessing.
+- Blacksmithing was in an **earlier incarnation** rather than an earlier current-life career. Buxbrew commissioned Blackguard.
+- Original Amberbrew accounts and official Warcraft lore must remain distinct.
 - Proposals and dramatizations never become canon merely by being written.
 - Update the relevant topic page and CANON.md together when a fact is confirmed.
-- Record inconsistencies in lore/continuity-notes.md; update TIMELINE.md only for established chronological facts.
-- Do not manufacture historical dates, gameplay achievements, family relationships, appearance details or dialogue.
+- Record inconsistencies in lore/continuity-notes.md and add a resolution when the creative settles them.
+- Update TIMELINE.md only for established chronological facts, or mark a sequence as uncertain.
+- Do not manufacture historical dates, achievements, relationships, appearance details or dialogue.
 
 ## Authorship and editorial style
 
-- The human is the **creative**, author and creative director; AI is an assistant. Use “creative”, never “creator”, as the role label.
+- The human is the **creative**, author and creative director; AI is an assistant. Use “creative”, never “creator”, as a role label.
 - For public-facing project histories and out-of-character development narratives, write naturally from the human creative's **first-person perspective**. Weave “I” and “my” into sentences, but **never begin a sentence with “I” or “My”**.
-- Attribute AI assistance and implementation accurately. Never imply the human wrote AI-generated text or code personally; never credit human decisions to AI.
-- In-world fiction may use first-person or third-person narrative as appropriate. Technical/reference pages may be neutral.
+- Attribute AI assistance and implementation accurately. Never imply the human wrote AI-generated material personally or credit human creative choices to AI.
+- In-world fiction may use first-person or third-person narration. Reference pages may be neutral.
 - Do not invent feelings, private dialogue or retrospective decisions.
 
 ## Updating the archive
 
-- Prefer updating a focused existing page over duplicating content.
-- Add meaningful changes to CHANGELOG.md; record noteworthy creative decisions in docs/DECISIONS.md.
-- Record substantive development work concisely in docs/DEVLOG.md, marking retrospective reconstructions.
-- Keep empty/unknown fields explicit and do not turn placeholder headings into invented lore.
-- Keep links relative, check that linked paths exist and preserve unrelated material.
-- Never claim a repository edit, test or verification occurred unless it actually did.
+- Prefer a focused page to duplicating a full biography.
+- Record meaningful changes in CHANGELOG.md, noteworthy decisions in docs/DECISIONS.md and substantive editorial work in docs/DEVLOG.md.
+- Preserve unknown fields. Avoid turning incomplete histories into invented ones.
+- Keep relative links valid, preserve unrelated work and distinguish narrative from gameplay recollection.
+- Never claim that edits or source verification occurred unless they did.
 
 ## Across conversations
 
-The repository is the persistent source of truth. Conversation history may help discover facts, but conflicting or previously unrecorded details require the human creative's confirmation before being promoted to established canon.
+Use the repository as the maintained source of truth. Project conversations can **supply previously confirmed details** for consolidation; identify any conflict, apply the creative's latest explicit correction and do not promote unconfirmed assistant invention to canon.

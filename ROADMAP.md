@@ -1,23 +1,26 @@
 # Roadmap
 
-This is an editorial work plan, **not** a list of approved new lore or promised publication dates.
+This is an editorial plan, **not** a claim that unapproved lore exists or that publication dates are promised.
 
 ## Established foundation
 
-- [x] Create a dedicated character-story repository
-- [x] Separate CANON.md, TIMELINE.md, fiction and gameplay journal
-- [x] Add character, family, relationship, location and lore categories
-- [x] Document continuity rules and AI attribution
-- [x] Populate topic pages with facts already recorded in CANON.md
+- [x] Create the character-story repository
+- [x] Separate canon, timeline, stories and gameplay journal
+- [x] Organize character, family, relationships, places and lore
+- [x] Document continuity and AI collaboration
+- [x] Expand topic pages with existing facts
+- [x] **Resolve sibling birth order:** Loni older, Buxbrew younger
+- [x] **Record father Erendor** and his hunter identity
+- [x] Consolidate established project-chat character and clan details
 
-## Remaining work
+## Continuing editorial work
 
-- [ ] Review the unresolved sibling birth-order descriptions with the human creative
-- [ ] Verify appearance, voice, equipment and biographical details before adding them to canon
-- [ ] Add sourced character anecdotes and family history
-- [ ] Record actual adventures in journal/entries/ with dates or clearly marked uncertainty
-- [ ] Write and review stories in stories/chapters/ without promoting fiction automatically to canon
-- [ ] Add approved illustrations, screenshots and reference provenance
-- [ ] Prepare portfolio-facing excerpts only after the creative has reviewed their content
+- [ ] Review historical story drafts against recorded gameplay before assigning journal status
+- [ ] Confirm any remaining appearance specifics, particularly earrings or piercings
+- [ ] Develop and approve new family anecdotes and detailed histories
+- [ ] Record documented adventures in journal/entries/ with dates or marked uncertainty
+- [ ] Write and review stories in stories/chapters/ without automatically promoting fiction to canon
+- [ ] Add approved illustrations and screenshots with provenance
+- [ ] Prepare publication excerpts after human creative review
 
-The order may change. No unchecked item is a claim that a fact or story exists.
+Order may change; unchecked items are not confirmed facts.

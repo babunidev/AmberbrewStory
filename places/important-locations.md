@@ -1,10 +1,18 @@
 # Important locations
 
-_Status: Incomplete directory._
+_Status: Established homes and referenced narrative locations._
 
-## Established
+## Family home
 
-- [Amberbrew Brewery](amberbrew-brewery.md) — Buxbrew's family home.
-- [Ironforge](ironforge.md) — a city to which she has strong ties.
+- [Amberbrew Brewery and Tavern](amberbrew-brewery.md) — concealed beneath the Bronze Kettle in original Ironforge-based family lore.
+- [Ironforge](ironforge.md) — central home-city connection.
 
-Other destinations and exact adventure routes have not yet been entered as confirmed events. New journal entries can introduce observed locations with their sources and dates marked appropriately.
+## Named in early adventure storytelling
+
+- **Dun Morogh** — part of an early-departure account from Ironforge.
+- **Thelsamar and Loch Modan** — part of that same developed first-adventure narrative.
+- **Shadowforge / Blackrock Depths** — connected to Buxbrew's Dark Iron heritage and reported conflict; specific dates and encounter details are not fixed.
+
+These locations are not thereby proof of dated gameplay encounters. Keep the story and journal distinction clear.
+
+See [backstory](../character/backstory.md), [timeline](../TIMELINE.md) and [journal](../journal/).

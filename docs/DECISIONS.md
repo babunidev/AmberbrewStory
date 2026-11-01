@@ -1,23 +1,31 @@
 # Decisions and continuity
 
-Only decisions supported by the existing repository and current instructions are recorded as settled. Unanswered questions remain open.
+This record distinguishes decisions by the human creative from editorial work implemented with AI assistance.
 
 ## Established editorial decisions — 2026-11-01
 
-**A dedicated character-story archive.** Buxbrew's material is organized as a living World of Warcraft character and storytelling project, not a software product.
+**Character-story archive.** Buxbrew's work is maintained as a World of Warcraft roleplaying and narrative project, not a software product.
 
-**Explicit canon boundaries.** CANON.md records confirmed facts. Fiction, memories, draft interpretations and proposals retain their own labels.
+**Explicit canon boundaries.** CANON.md records facts; drafts, memories, proposals and fictional scenes retain their labels.
 
-**Earlier incarnation.** Buxbrew's blacksmithing belonged to an earlier life/incarnation, **not** an occupation earlier in her present lifetime.
+**Earlier incarnation.** Blacksmithing belonged to an earlier literal life, not a previous career in the present life.
 
-**Human creative authorship.** Creative direction and canon decisions belong to the human creative. AI assistance with writing, structuring or editing is documented separately.
+**Human creative authorship.** Character choices and canon belong to the human creative. AI helps organize and edit.
 
-**Topic pages for established details.** Existing established facts are distributed into focused pages without treating unknown information as confirmed.
+**Focused topic pages.** Facts should be recorded in coherent pages with cross-links.
 
-## Unresolved — do not infer an answer
+## Family decisions — 2026-11-01
 
-**Amberbrew sibling order.** One description presents Buxbrew as the youngest Amberbrew, while another describes Lonebrew as her younger sister. Neither is preferred until the creative resolves the conflict. See [lore/continuity-notes.md](../lore/continuity-notes.md).
+**Sisters' order decided.** **Loni “Lonebrew” Amberbrew is Buxbrew's older sister; Jasmine “Buxbrew” Amberbrew is younger.** This directly supersedes earlier statements calling Lonebrew the younger sister.
 
-## Decisions not yet recorded
+**Lonebrew's given name.** The older sister's name is **Loni Amberbrew**; **Lonebrew** remains her familiar name.
 
-Specific appearance details, additional family biography, named rivals, exact dates and further story canon are not established here merely because corresponding files exist.
+**Father established.** **Erendor Amberbrew** is Buxbrew's **father**, a **hunter** frequently away from home.
+
+**Grandfather confirmed.** **Morkah Amberbrew** (also transcribed “Murka”) is **Buxbrew's grandfather**, not her father. His side of the family is not fixed.
+
+**Lore consolidation.** Existing confirmed project-conversation details about Buxbrew's appearance, household, personality, equipment, professions, clan history and adventures have been organized by topic. Historical narratives remain distinct from proven gameplay logs.
+
+## Remaining questions
+
+Precise birth dates, the extended genealogy, Erendor's reasons for being away, Morkah's paternal/maternal line, exact piercing/earring design and dated adventures have not been established.

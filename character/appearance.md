@@ -1,16 +1,24 @@
 # Appearance
 
-_Status: Incomplete — confirmed physical details have not been documented here._
+_Status: Established traits; precise jewelry details remain unspecified._
 
-## Established
+## Physique and bearing
 
-- Buxbrew is a **Dark Iron dwarf**.
-- Her usual combat equipment includes **plate armor, sword and shield**; see [combat and equipment](combat-and-equipment.md).
+Buxbrew is a **stout, thickset, physically strong Dark Iron dwarf** with a powerful, compact warrior's build. She has been described as *thicc* in playful conversation, but her presence is defined by stamina, confidence and physical expressiveness rather than a numerical measurement. She looks like someone who could shoulder an opponent aside and then drag another bench up to the hearth.
 
-## Not yet established in this archive
+## Face and hair
 
-Detailed hair, eyes, jewelry, exact proportions and a definitive portrait description have not been confirmed in [CANON.md](../CANON.md). No physical traits should be inferred from race or from proposed illustrations.
+- Wild **auburn hair**, reddish-brown with copper warmth, often braided with **copper beads**.
+- **Deep amber eyes**.
+- **Ruddy cheeks** and a lively, expressive face.
+- Dark Iron features and a strong, grounded stature. Exact skin tone can vary with lighting and depiction; do not force contradictory older art descriptions into a single new claim.
 
-## Visual references
+## Clothing and equipment
 
-See [assets/illustrations](../assets/illustrations/) and [assets/references](../assets/references/) when approved artwork or properly credited references are added.
+Plate armor, **Blackguard** and a shield define her present adventuring appearance. An **armored brown boar** is her mount. Casual tavern scenes need not portray her dressed for battle.
+
+## Jewelry and visual references
+
+Copper beads in her braids are established. **Piercings and earrings have not been conclusively established** in the documented character descriptions. Do not make any particular ear jewelry mandatory without confirmation. Images and visual drafts should be labeled as references, not proof of canon.
+
+See [combat and equipment](combat-and-equipment.md) and [established canon](../CANON.md).

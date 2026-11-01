@@ -1,13 +1,27 @@
 # Personality
 
-_Status: Established core traits; further anecdotes incomplete._
+_Status: Established core personality and habits._
 
-## Established
+## Warmth with a roar
 
-Buxbrew is **cheerful, boisterous and protective**. She is devoted to family and friends, loves laughter and celebration, and values good hospitality. She accepts mistakes as part of adventuring rather than treating every misstep as a tragedy.
+Buxbrew is **cheerful, energetic, generous, fiery, fearless in spirit, stubborn, forgiving and deeply protective**. She likes a lively tavern, honest food, a strong brew and friends close enough to hear her laughter. Hospitality and mischief are not in conflict for her: she can feed a guest, tease a drinking companion and throw herself into a fight for someone in the same evening.
 
-## Portrayal
+She **dances on tavern tables**, roars, laughs readily and expresses herself with her whole body. She can be ridiculous and formidable at once; people have jokingly described her as a “fighting animal” who takes absurdly little damage.
 
-These traits describe her character; they do not supply invented anecdotes or dialogue. New scenes may illustrate them without automatically becoming factual biography.
+## The protector
 
-See [writing guide](../WRITING-GUIDE.md) and [CANON.md](../CANON.md).
+Her sense of responsibility existed **before** her more disciplined shield-fighting style. She steps into danger to shelter others rather than treating strength only as a competition.
+
+## Mistakes and adventure
+
+Mistakes are ordinary parts of adventuring. Buxbrew assumes that solutions can be found and generally answers mishaps with practical action and good humor, not despair.
+
+## Family bonds
+
+Bess's warmth, Erendor's wandering life, Morkah's clan history and Loni's quiet independence frame the family world she loves. Although she and her **older sister Loni** are very different in temperament, a shared drink can bring out their loud, mischievous side.
+
+## Writing note
+
+Show these traits through ordinary scenes and actions, not only praise or caricature. Dialogue imagined for a story remains dialogue invented for that story unless confirmed elsewhere.
+
+See [voice and mannerisms](voice-and-mannerisms.md) and [Buxbrew's motivations](beliefs-and-motivations.md).

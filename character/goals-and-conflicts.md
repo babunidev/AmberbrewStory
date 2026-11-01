@@ -1,11 +1,19 @@
 # Goals and conflicts
 
-_Status: Incomplete._
+_Status: Contains recorded near-term ambitions and wider established commitments._
 
-## Established interests and commitments
+## Ongoing commitments
 
-Buxbrew protects the people close to her, embraces adventuring and pursues alchemy, equipment, training and new experiences.
+Buxbrew seeks adventure with **Roar**, protects companions, improves her **Alchemy and Herbalism** and enjoys living among family and friends.
 
-## Not yet established
+## Recorded equipment and training goals
 
-A single overarching quest, named antagonist, ongoing rivalry or specifically dated conflict has not been confirmed. Future ideas belong in drafts until accepted by the human creative.
+At one described stage of her adventures, most equipment slots were already epic. She wanted **better rings and a trinket** and was **saving gold to train weapon skill**, because the trainer demanded a high fee. These goals belong to a particular period of play; do not automatically assert they remain unfinished.
+
+## Conflict and heritage
+
+The Amberbrew family carries a Dark Iron history bound up with Morkah's separation from Thaurissan's path. Buxbrew's original accounts include a confrontation with Dark Irons around Shadowforge, but an exact encounter log and chronology are not established here.
+
+## Not established
+
+No single final quest, permanent named nemesis or fixed end to her story has been declared.

@@ -1,6 +1,6 @@
 # Development journal
 
-A brief, public-facing account told from the human creative's perspective. Entries distinguish the decision to build the archive from the work performed with AI assistance.
+This public-facing history is written from the human creative's perspective. The writing distinguishes the decisions from the work carried out with AI assistance.
 
 ## 2026-11-01 — Establishing the archive
 
@@ -8,4 +8,8 @@ With Buxbrew's stories and family history gathered into a dedicated project, I w
 
 ## 2026-11-01 — Making the structure useful
 
-The first version already had the right categories, but many pages held empty headings despite the confirmed details in CANON.md. During this documentation review, I directed AI assistance toward expanding those pages from existing canon, clarifying where memories differ from fiction and adding concise records for decisions and collaboration. The conflicting descriptions of the sisters' birth order remain unresolved, and unconfirmed details were deliberately left unfilled.
+The first version already had the right categories, but many pages held empty headings despite details established in other discussions. During this documentation review, I directed AI assistance toward expanding those pages from the current canon, clarifying where memories differ from fiction and adding concise records for decisions and collaboration. The sisters' birth-order question was kept open pending an explicit decision.
+
+## 2026-11-01 — Bringing the Amberbrews home
+
+After the repository audit, I settled the old contradiction: **Loni, known as Lonebrew, is Buxbrew's older sister**, and Buxbrew is the younger one. Her given name is Loni Amberbrew. Another missing relative was **Erendor Amberbrew**, Buxbrew's father, a hunter who is often away somewhere on his travels; **Morkah remains the grandfather**. Using AI assistance, the archive was then expanded with previously established details from our character conversations, while keeping dramatized events and undated anecdotes separate from proven gameplay. The family pages, canon, chronology and continuity notes were updated to agree.

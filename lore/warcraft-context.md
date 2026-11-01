@@ -1,9 +1,11 @@
 # Warcraft context and fan lore
 
-_Status: Reference._
+_Status: Reference and separation of sources._
 
-Buxbrew is a **Dark Iron dwarf** whose adventures are situated in the **World of Warcraft** universe. The archive records a strong connection to **Ironforge** and membership in the **Roar** guild.
+Buxbrew is a **Dark Iron dwarf** whose adventures take place in the **World of Warcraft** setting. She is connected to **Ironforge**, **Dun Morogh**, **Loch Modan**, the **Thorium Brotherhood** and her **Roar** guild.
 
-The Amberbrew family's names, brewery and individual stories are fan-created material. The setting and franchise belong to Blizzard Entertainment. A passage of original lore should not be described as an official Warcraft historical event.
+The Amberbrew relatives (**Bess, Erendor, Loni, Morkah and Buxbrew**), the **concealed family brewery beneath the Bronze Kettle**, the **disguise pendants** and their family's personal account of separating from Thaurissan are **original fan-created lore**.
 
-When new stories touch established game events, separate verifiable Warcraft context from original roleplaying inventions. No official dates or lore claims should be added without supporting references.
+The fictional clan history can refer to established Warcraft peoples and events without asserting that official history contains the Amberbrew family or their involvement. Exact official historical dates and claims require appropriate external sources before being added.
+
+See [Amberbrew original lore](amberbrew-original-lore.md), [continuity](continuity-notes.md) and [canon](../CANON.md).

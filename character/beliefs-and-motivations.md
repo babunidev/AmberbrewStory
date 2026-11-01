@@ -1,15 +1,25 @@
 # Beliefs and motivations
 
-_Status: Partially established._
+_Status: Established guiding values; no fixed religious creed._
 
-## Established
+## What guides Buxbrew
 
-- Buxbrew cares deeply for family and friends.
-- She is protective and values hospitality, laughter and celebration.
-- She accepts mistakes as part of adventuring.
+- **Protect people:** Her protector's instinct predates her present tanking style.
+- **Stand by family:** The Amberbrew household matters deeply to her.
+- **Offer hospitality:** Food, drink, welcome and laughter make a place worth defending.
+- **Find the solution:** Mistakes happen; work through them and continue the adventure.
+- **Enjoy the fight and the feast:** Courage and joy need not oppose each other.
 
-Her motto, “We roar, we laugh, we fight,” expresses the combination of camaraderie, joy and courage already present in her established character.
+Her motto captures that combination:
 
-## Not yet established
+> “We roar, we laugh, we fight.”
 
-Specific spiritual beliefs, religious commitments and a formal personal code are not documented as canon. These must not be supplied through assumptions about Dark Iron dwarves.
+## Family inheritance
+
+In original Amberbrew lore, Morkah represents the idea that powerful forces should be handled with restraint rather than allowed to dominate the family. Buxbrew's own relationship to that inherited history can be explored without claiming she has articulated a philosophical doctrine.
+
+## Unresolved
+
+A formal moral code, religious commitments and the complete details of her beliefs are not established. Do not infer them only from Dark Iron heritage.
+
+See [original lore](../lore/amberbrew-original-lore.md).

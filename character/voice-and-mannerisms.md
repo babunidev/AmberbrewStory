@@ -1,11 +1,26 @@
 # Voice and mannerisms
 
-_Status: Incomplete._
+_Status: Established expressive habits; no compulsory phonetic dialect._
 
-## Established disposition
+## How Buxbrew greets people
 
-Buxbrew is cheerful and boisterous, with laughter and celebration important to her personality.
+She **bows**, **roars**, **laughs**, and often says **“Greetings!”** or **“Cheers!”** These simple greetings are characteristic of her, not lines from a rigid script.
 
-## Not yet established
+## Physical expression
 
-Exact speech patterns, dialect, quoted catchphrases beyond the [established motto](../CANON.md), and physical mannerisms have not been recorded as definitive canon. Fictional dialogue must remain distinguishable from confirmed character facts.
+- Broad, hearty laughter and an exuberant roar.
+- May howl, beat her chest or celebrate with swagger.
+- **Dances on tavern tables** when the mood takes her.
+- Uses her entire body to communicate warmth, excitement, defiance and humor.
+
+## Her presence
+
+Buxbrew is loud without being relentlessly aggressive. She is the sort of tavern regular who draws people into the celebration, and a warrior who can command attention without delivering long speeches.
+
+## Dialogue boundaries
+
+Avoid a generic, exaggerated “dwarf accent” as a substitute for personality. Her exact dialect, accent, persistent verbal tics and any additional signature catchphrases have not been formally established.
+
+**Motto:** “We roar, we laugh, we fight.”
+
+See [personality](personality.md) and [writing guide](../WRITING-GUIDE.md).

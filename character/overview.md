@@ -1,22 +1,22 @@
 # Buxbrew — Overview
 
-_Status: Established summary; further biography incomplete._
+_Status: Established character summary, with undated background._
 
-Buxbrew, whose full name is **Jasmine Amberbrew**, is a Dark Iron dwarf from the Amberbrew family. Her family home is the Amberbrew Brewery, and she has strong ties to Ironforge and the Roar guild.
+**Jasmine Amberbrew**, known to most as **Buxbrew**, is a young, broad-built Dark Iron dwarf with wild auburn hair, copper beads in her braids, amber eyes and enough laughter to carry across a tavern. She is as comfortable feeding companions and tinkering with a brew as she is standing between them and danger.
 
-Cheerful, boisterous and protective, Buxbrew treasures family, friends, laughter and hospitality. Her current calling is alchemy and herbalism. In combat she serves as a protector and tank with plate armor, sword and shield.
+Her home is the **Amberbrew Brewery and Tavern**, concealed beneath the Bronze Kettle in Ironforge in the family's original lore. She is the **younger sister** of Loni “Lonebrew” Amberbrew, daughter of Bess “Bosom Bess” and the wandering hunter Erendor, and granddaughter of Morkah.
 
-Her motto is: **“We roar, we laugh, we fight.”**
+Buxbrew is energetic, stubborn, forgiving, hospitable and proudly physical. She bows in greeting, roars in celebration, dances on tables and treats mistakes as problems to solve instead of reasons to despair. Her motto is **“We roar, we laugh, we fight.”**
 
-## Read more
+Her vocation is **Alchemy and Herbalism**, enriched by cooking, fishing and first aid. In battle she has grown from a swaggering brawler into a disciplined **plate-armored warrior and protector**, carrying **Blackguard** and a shield. An **armored brown boar** carries her into further adventures. She has close ties to the **Roar** guild.
 
+## Explore further
+
+- [Appearance](appearance.md)
 - [Personality](personality.md)
-- [Professions and skills](professions-and-skills.md)
+- [Voice and mannerisms](voice-and-mannerisms.md)
 - [Combat and equipment](combat-and-equipment.md)
-- [Family](../family/amberbrew-family.md)
-- [Character chronology](../TIMELINE.md)
-- [Canonical source](../CANON.md)
-
-## Unresolved
-
-The birth order of Buxbrew and her sister Lonebrew is not established consistently. See [continuity notes](../lore/continuity-notes.md).
+- [Professions and skills](professions-and-skills.md)
+- [Backstory](backstory.md)
+- [The Amberbrew family](../family/amberbrew-family.md)
+- [Established canon](../CANON.md)

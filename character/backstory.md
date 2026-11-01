@@ -1,17 +1,29 @@
 # Backstory
 
-_Status: Partially established._
+_Status: Established background and original family lore; exact dates unsettled._
 
-## Established background
+## Family, birthplace and early life
 
-Buxbrew grew up around the Amberbrew family brewery, cooking, hospitality and family traditions. Her ties to the Amberbrew household are central to her history.
+Buxbrew's birth name is **Jasmine Amberbrew**. The Amberbrew Brewery and Tavern, concealed beneath the **Bronze Kettle** in Ironforge in the family's original setting, is her home and the center of her childhood. The household is shaped by kitchen work, brewing, food, guests, boisterous hospitality and a closely held Dark Iron heritage.
 
-Blacksmithing belongs to an **earlier life or incarnation**, not an earlier job in her current lifetime. The archive does not yet establish how that earlier life is remembered or connected to present events.
+Her **mother Bess** is the brewery's welcoming, thunder-voiced presence. Her **father Erendor** is a hunter who is often off somewhere beyond the home. Her **older sister Loni**, known as Lonebrew, shares his hunting profession but prefers wilderness solitude and hunts without a pet. **Morkah**, her grandfather, figures centrally in the family's older history.
 
-## Development
+## The name Buxbrew
 
-Her fighting style changed from a more brawling approach toward disciplined sword-and-shield combat and a protective role.
+Tavern guests referred to **“that buxom lass and her wicked brew.”** Over time, the phrase shortened into the name everyone uses: **Buxbrew**. The precise first occasion is undated.
 
-## Unresolved
+## Family's earlier history
 
-The full childhood chronology, exact dates and the contradiction concerning sibling order are not yet settled. See [timeline](../TIMELINE.md) and [continuity notes](../lore/continuity-notes.md).
+In **original Amberbrew fan lore**, Morkah broke with Thaurissan's destructive direction and led or preserved the family in concealment. Enchanted pendants let Amberbrews pass as Bronzebeard dwarves among people who would distrust Dark Irons. This heritage is described further in [Amberbrew lore](../lore/amberbrew-original-lore.md); it is not an official Warcraft historical claim.
+
+## Fighting and calling
+
+Buxbrew has **always** had a protector's instinct. Her fighting was once more rowdy and brawling, but matured into plate armor and disciplined sword-and-shield defense. Her present-life passions are **Alchemy and Herbalism**, along with cooking, fishing and first aid.
+
+**Blacksmithing belongs to a literal earlier life/incarnation**, not a youthful apprenticeship or a discarded occupation in this life. The mechanics of reincarnation are not established.
+
+## Adventures and unresolved chronology
+
+A developed early-adventure account follows the hidden route out of Ironforge toward Dun Morogh, Thelsamar and Loch Modan, but its specific encounters must remain **narrative material** unless established as real gameplay or character history. The exact dates, early training chronology and other siblings (if any) are not established.
+
+See [timeline](../TIMELINE.md), [family](../family/amberbrew-family.md), and [continuity notes](../lore/continuity-notes.md).

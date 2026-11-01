@@ -1,27 +1,33 @@
 # Writing guide
 
-## Two different kinds of writing
+## Two kinds of writing
 
-**In-world stories** may use first-person or third-person narration. Aim for grounded fantasy, warmth, lively humor, believable dialogue and an atmosphere consistent with World of Warcraft. Show Buxbrew through actions, habits, decisions, relationships, mistakes and memorable experiences.
+**In-world stories** may use first-person or third-person narration. Aim for grounded fantasy, warmth, lively humor, believable dialogue and an atmosphere consistent with World of Warcraft. Portray Buxbrew through actions, habits, choices, relationships, mistakes and celebrations. Her strength need not erase her cheerful and occasionally ridiculous side.
 
-**Out-of-character project history**, including [docs/DEVLOG.md](docs/DEVLOG.md), speaks from the human creative's first-person perspective. Place “I” and “my” naturally within sentences, **never at the beginning of a sentence**. Keep entries concise and explain the creative direction, AI contribution, important iteration and real outcome. Technical reference pages can be neutral.
+**Out-of-character project history**, including [docs/DEVLOG.md](docs/DEVLOG.md), speaks from the human creative's first-person perspective. Weave “I” and “my” naturally into sentences, **never at their beginning**. Keep entries concise and attribute AI editorial contributions accurately. Technical/reference pages may be neutral.
 
-## Source and status labels
+## Sources and status
 
-- **Established:** confirmed by the creative and recorded in [CANON.md](CANON.md).
-- **Journal:** an account of actual play or roleplaying, possibly remembered after the fact. Label reconstructed or uncertain details.
-- **Narrative:** a crafted scene. Artistic dialogue and dramatization are not automatically historical facts.
-- **Proposed:** an idea that has not been accepted as canon.
-- **Unresolved:** a missing or conflicting detail; do not resolve it by invention.
+- **Established:** confirmed by the creative and summarized in [CANON.md](CANON.md).
+- **Journal:** remembered or recorded gameplay/roleplay, with date and reliability marked where possible.
+- **Narrative:** crafted literary scene; dialogue and embellishment are not automatically historical events.
+- **Proposed:** an unaccepted idea for development.
+- **Unresolved:** information missing or conflicting; do not settle by invention.
+- **Resolved:** earlier conflicting descriptions have an explicit creative decision; use the current decision.
 
-## Continuity
+## Continuity anchors
 
-Read CANON.md, TIMELINE.md and lore/continuity-notes.md before adding important facts. Do not rewrite established events silently. Blacksmithing belongs to an earlier **incarnation**, not an earlier current-life career. Keep sibling birth order unresolved until confirmed.
+- **Loni (“Lonebrew”) is the older sister; Buxbrew is younger.**
+- **Erendor is Buxbrew's father and a wandering hunter; Morkah is her grandfather.**
+- **Bess (“Bosom Bess”) is Buxbrew's mother.**
+- Blacksmithing belongs to an **earlier incarnation**, not a former career in this life.
+- Buxbrew **commissioned Blackguard** after gathering its materials; do not describe her forging it personally.
+- Use **Buxbrew**, not new substitute nicknames, as her primary character name.
 
 ## Warcraft and original lore
 
-Identify Warcraft setting material separately from fan-created Amberbrew history. Do not imply the latter is official Blizzard lore.
+Clearly distinguish official Warcraft context from fan-created Amberbrew family history, the hidden brewery and the magical disguises. Do not imply the latter are official Blizzard lore.
 
 ## Attribution
 
-The human is the creative and owns story decisions. AI may assist with drafting, organization or implementation; record those contributions factually. Do not present AI proposals as accepted decisions, or fictional events as the creative's real gameplay memories.
+The human creative owns story decisions. AI may assist with drafting, organizing and editing; record those contributions factually. New fiction does not become confirmed history by appearing in the repository.

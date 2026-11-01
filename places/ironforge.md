@@ -1,9 +1,11 @@
 # Ironforge
 
-_Status: Partially established._
+_Status: Established personal connection and original-family-lore location._
 
-Ironforge is an established World of Warcraft location with which Buxbrew has a strong personal connection.
+**Ironforge** is the principal city associated with Buxbrew and the Amberbrew household. Their **Brewery and Tavern** is concealed **beneath the Bronze Kettle** in the fan-created Amberbrew setting.
 
-The archive does not yet document exactly when she lived there, the nature of every relationship in the city or individual dated encounters. Do not infer the Amberbrew Brewery's exact location from Buxbrew's ties to Ironforge.
+Because the Amberbrews are **Dark Iron dwarves**, their account includes **enchanted pendants** that allow them to appear Bronzebeard to most passersby. This hidden-family element belongs to the project's original lore, not to a claim about official city geography.
 
-See [CANON.md](../CANON.md) and [important locations](important-locations.md).
+Buxbrew's ties to Ironforge are familial, practical and emotional: a home of cooking, brewing and hospitality even while her adventures carry her far afield.
+
+See [brewery](amberbrew-brewery.md), [family](../family/amberbrew-family.md) and [Warcraft context](../lore/warcraft-context.md).

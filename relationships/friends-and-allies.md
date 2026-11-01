@@ -1,11 +1,9 @@
 # Friends and allies
 
-_Status: Incomplete._
+_Status: Confirmed relationship categories; individual companion list incomplete._
 
-## Established connections
+Buxbrew is loyal to the **Amberbrew family** and to her friends in **Roar**.
 
-Buxbrew is deeply devoted to family and friends. Confirmed relatives are described in [family/](../family/), and her guild affiliation is recorded under [Roar](roar-guild.md).
+Her established relatives are [Bess](../family/bess-amberbrew.md), [Erendor](../family/erendor-amberbrew.md), [Loni](../family/lonebrew.md) and [Morkah](../family/morkah.md). Her connection to [Roar](roar-guild.md) is central to her adventures.
 
-## Not yet established
-
-A comprehensive list of named companions and specific shared adventures has not been recorded in canonical materials. Avoid inventing individuals to populate this page.
+No full roster of named non-family companions or attributed personal incidents has yet been established in this archive. Do not invent one to fill the page.

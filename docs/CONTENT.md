@@ -1,39 +1,36 @@
 # Content architecture
 
-This is an editorial map for a **non-software** character-story repository. Files belong where their information is most useful, not where software project templates would normally place them.
+This archive is for a **character story**, not a software product.
 
-| Location | Role | Authority |
+| Location | Purpose | Authority |
 | --- | --- | --- |
-| README.md | Navigation and orientation | Project reference |
-| CONCEPT.md | Creative purpose and principles | Creative direction |
-| CANON.md | Index of confirmed Buxbrew facts | **Canonical facts** |
-| TIMELINE.md | Established sequence of life events | Canonical chronology |
-| WRITING-GUIDE.md | Style and status distinctions | Editorial reference |
-| character/ | Focused pages on Buxbrew | Restates established canon; unknowns marked |
-| family/ | Relatives and Amberbrew traditions | Restates established canon; unknowns marked |
-| relationships/ | Guild ties, allies and opponents | Confirmed relationships only |
-| places/ | Settings relevant to the character | Confirmed facts or clearly labeled fiction |
-| lore/ | Fan lore, Warcraft context, continuity | Distinguishes source and uncertainties |
-| stories/chapters/ | Written fiction | **Not canon by default** |
-| journal/entries/ | Gameplay and roleplaying accounts | Events labeled by origin/certainty |
-| assets/illustrations/ | Art made for this archive | Include attribution and permissions |
-| assets/screenshots/ | Game captures | Add context and game/source information |
-| assets/references/ | Authorized visual/written references | Note external rights and sources |
-| archive/ | Superseded notes retained deliberately | Not current canon |
-| docs/DEVLOG.md | Brief author-perspective development history | Documented activity |
-| docs/DECISIONS.md | Confirmed editorial decisions and unresolved issues | Decision record |
-| docs/AI_COLLABORATION.md | Human–AI contribution and attribution rules | Process reference |
-| ROADMAP.md | Planned editorial work | **Not** confirmed new lore |
-| CHANGELOG.md | Repository edits | Change record |
-| AGENTS.md | Instructions for future AI collaborators | Operating rules |
+| README.md | Navigation | Project reference |
+| CONCEPT.md | Creative goals | Creative direction |
+| CANON.md | Index of confirmed character and family facts | **Canon** |
+| TIMELINE.md | Established chronology and undated snapshots | Chronology |
+| WRITING-GUIDE.md | Style and provenance | Editorial |
+| character/ | Buxbrew's appearance, behavior, combat, life and skills | Canon-based reference |
+| family/ | **Bess, Erendor, Loni/Lonebrew, Morkah**, household and traditions | Canon-based reference |
+| relationships/ | Guild, allies, opponents | Confirmed ties |
+| places/ | Brewery, Ironforge, other places | Canon with fan-lore distinction |
+| lore/ | Family origin, Warcraft context, continuity | Original lore and editorial context |
+| stories/chapters/ | Crafted fiction | **Not automatically canon** |
+| journal/entries/ | Actual or remembered gameplay and RP | Source-labeled |
+| assets/ | Illustrations, screenshots and references | Provenance required |
+| archive/ | Superseded drafts | Not current canon |
+| docs/DEVLOG.md | Human-perspective project history | Documented process |
+| docs/DECISIONS.md | Human creative's decisions | Decision record |
+| docs/AI_COLLABORATION.md | Contribution and attribution | Process |
+| ROADMAP.md | Plans, not facts | Planning |
+| CHANGELOG.md | Repository changes | Revision record |
+| AGENTS.md | Instructions for AI collaborators | Operating guidance |
 
-## Adding information
+## Adding facts
 
-1. Determine whether it is confirmed canon, recollection, fiction, proposal or unresolved.
-2. Place it in a focused topic page or a new dated journal/story file.
-3. Update CANON.md or TIMELINE.md **only when appropriate**.
-4. Cross-link relevant pages rather than repeat long passages.
-5. Record meaningful changes in CHANGELOG.md and creative decisions in docs/DECISIONS.md.
-6. Identify AI contributions in development documentation where substantial.
+1. Determine whether the source is a creative confirmation, a gameplay recollection, a fictional passage or an idea.
+2. Add confirmed details to the relevant topic page and summary in CANON.md.
+3. Update TIMELINE.md only when the relative order is supported.
+4. Preserve earlier contradictions in lore/continuity-notes.md, but label them **resolved** after a creative decision.
+5. Update CHANGELOG.md and docs/DECISIONS.md when appropriate; explain substantive work in docs/DEVLOG.md.
 
-Empty directories are preserved with .gitkeep. A topic page marked **Incomplete** is not evidence that its missing details are known.
+The current sibling order is **Loni older, Buxbrew younger**. Father **Erendor** has [his own page](../family/erendor-amberbrew.md).

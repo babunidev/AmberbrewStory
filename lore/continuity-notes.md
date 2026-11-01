@@ -1,21 +1,32 @@
 # Continuity notes
 
-This is the place to record contradictions without guessing how they will be resolved.
+Contradictions are recorded here with their resolution rather than silently erased.
 
-## Open: Amberbrew sibling birth order
+## Resolved — sibling birth order (2026-11-01)
 
-**Status:** Unresolved.
+**Former conflict:** Some early descriptions called Buxbrew the youngest Amberbrew, while others called Lonebrew her younger sister.
 
-**Conflicting descriptions recorded in CANON.md:** Buxbrew is called the youngest Amberbrew in one description, while Lonebrew is called Buxbrew's younger sister in another.
+**Creative's definitive decision:** **Loni “Lonebrew” Amberbrew is the older sister. Jasmine “Buxbrew” Amberbrew is the younger sister.**
 
-**Current rule:** Buxbrew and Lonebrew are sisters; their exact relative age is **not established**. Do not change CANON.md, family pages or story narration to assert one ordering without the human creative's decision.
+**Status:** **RESOLVED.** Earlier descriptions of Lonebrew as younger are superseded. They are preserved here solely to explain why older drafts disagree; no longer flag the order as open in canon or topic pages.
 
-**Resolution needed:** A confirmed statement from the creative, then coordinated changes to CANON.md, family/lonebrew.md, family/amberbrew-family.md, the relevant timeline and this record.
+**Related identity clarification:** Lonebrew's given name is **Loni Amberbrew**. **Erendor Amberbrew** is Buxbrew's father and a hunter who is often away. **Morkah (sometimes transcribed “Murka”)** remains her grandfather, not her father.
 
-## Earlier incarnation — clarified, not a conflict
+## Clarified — blacksmithing in an earlier incarnation
 
-Blacksmithing belongs to an earlier **incarnation/life**, not a past career in the current life. Keep this distinction stable across all pages.
+**Status:** Settled. Buxbrew's blacksmithing was in an actual **earlier life/incarnation**, not an earlier occupation in her current lifetime. Blackguard was commissioned from a skilled weaponsmith.
 
-## Adding another continuity issue
+## Open — exact family lineage and chronology
 
-Record the competing accounts, where they appear, whether either is already confirmed, and what decision remains outstanding. Preserve both sources until resolved.
+- Whether grandfather **Morkah** is related through Bess or Erendor has not been stated.
+- The exact reasons for father **Erendor's** frequent absences and his hunting routes are not established.
+- Exact dates, birth years, possible other siblings and detailed family timelines are not fixed.
+- Some early adventure accounts are dramatized; they should not be listed as verified gameplay without source confirmation.
+
+## Visual description consistency
+
+The later established portrayal describes Buxbrew's **auburn/copper-red hair, copper braids and deep amber eyes**. Some older material varies with lighting or artistic interpretation. **Earrings and piercings remain unspecified**; do not decide them from an illustration alone.
+
+## Adding another issue
+
+Name the competing accounts, indicate what is confirmed, and record the creative's decision and date when resolved.
