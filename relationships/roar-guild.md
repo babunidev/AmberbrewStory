@@ -1,9 +1,9 @@
 # Roar guild
 
-_Status: Draft_
+_Status: Partially established._
 
-## Established facts
+Buxbrew is a member of the **Roar** guild and undertakes adventures with guild companions.
 
-## Details and anecdotes
+The archive does not yet establish the guild's full membership, Buxbrew's current rank or a dated history of guild events. Her motto — “We roar, we laugh, we fight” — is recorded in [CANON.md](../CANON.md), without assuming it is the guild's official motto.
 
-## Open questions
+See [adventure journal](../journal/) for future event records.

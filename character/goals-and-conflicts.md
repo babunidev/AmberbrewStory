@@ -1,9 +1,11 @@
 # Goals and conflicts
 
-_Status: Draft_
+_Status: Incomplete._
 
-## Established facts
+## Established interests and commitments
 
-## Details and anecdotes
+Buxbrew protects the people close to her, embraces adventuring and pursues alchemy, equipment, training and new experiences.
 
-## Open questions
+## Not yet established
+
+A single overarching quest, named antagonist, ongoing rivalry or specifically dated conflict has not been confirmed. Future ideas belong in drafts until accepted by the human creative.

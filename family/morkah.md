@@ -1,9 +1,11 @@
 # Morkah
 
-_Status: Draft_
+_Status: Partially established._
 
-## Established facts
+## Established
 
-## Details and anecdotes
+Morkah is Buxbrew's grandfather.
 
-## Open questions
+## Not yet established
+
+His wider biography, exact position within the family tree, dates and personal history are not yet confirmed in the canonical record. See [family overview](amberbrew-family.md).

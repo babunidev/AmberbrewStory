@@ -1,32 +1,27 @@
-# Writing Guide
+# Writing guide
 
-## Style
-Write character stories as grounded fantasy narratives
-with warmth, humor, believable dialogue and an
-authentic World of Warcraft atmosphere.
+## Two different kinds of writing
 
-## Character portrayal
-Buxbrew is a complete person, not merely a list
-of traits. Show her through actions, relationships,
-habits, memories, strengths and mistakes.
+**In-world stories** may use first-person or third-person narration. Aim for grounded fantasy, warmth, lively humor, believable dialogue and an atmosphere consistent with World of Warcraft. Show Buxbrew through actions, habits, decisions, relationships, mistakes and memorable experiences.
 
-## Types of material
-- Canon: Confirmed established character facts.
-- Narrative: Written scenes and stories.
-- Journal: Gameplay and roleplaying experiences.
-- Proposal: Unconfirmed ideas for future development.
+**Out-of-character project history**, including [docs/DEVLOG.md](docs/DEVLOG.md), speaks from the human creative's first-person perspective. Place “I” and “my” naturally within sentences, **never at the beginning of a sentence**. Keep entries concise and explain the creative direction, AI contribution, important iteration and real outcome. Technical reference pages can be neutral.
+
+## Source and status labels
+
+- **Established:** confirmed by the creative and recorded in [CANON.md](CANON.md).
+- **Journal:** an account of actual play or roleplaying, possibly remembered after the fact. Label reconstructed or uncertain details.
+- **Narrative:** a crafted scene. Artistic dialogue and dramatization are not automatically historical facts.
+- **Proposed:** an idea that has not been accepted as canon.
+- **Unresolved:** a missing or conflicting detail; do not resolve it by invention.
 
 ## Continuity
-Never turn a proposal into canon without approval.
-Never silently rewrite established character history.
-Record unresolved conflicts rather than inventing answers.
 
-## Warcraft setting
-Distinguish official Warcraft lore from original
-Amberbrew lore. Respect the setting while allowing
-creative roleplaying stories.
+Read CANON.md, TIMELINE.md and lore/continuity-notes.md before adding important facts. Do not rewrite established events silently. Blacksmithing belongs to an earlier **incarnation**, not an earlier current-life career. Keep sibling birth order unresolved until confirmed.
 
-## Authorship
-Out-of-character project commentary should reflect
-the human creative's perspective and distinguish
-human direction from AI writing assistance.
+## Warcraft and original lore
+
+Identify Warcraft setting material separately from fan-created Amberbrew history. Do not imply the latter is official Blizzard lore.
+
+## Attribution
+
+The human is the creative and owns story decisions. AI may assist with drafting, organization or implementation; record those contributions factually. Do not present AI proposals as accepted decisions, or fictional events as the creative's real gameplay memories.

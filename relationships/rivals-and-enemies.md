@@ -1,9 +1,7 @@
 # Rivals and enemies
 
-_Status: Draft_
+_Status: Unpopulated; no confirmed named rivals in the maintained record._
 
-## Established facts
+There are no named rivals or enemies established in [CANON.md](../CANON.md). This does **not** assert that Buxbrew has never encountered opponents; it means no specific enduring rivalry is currently documented.
 
-## Details and anecdotes
-
-## Open questions
+Story antagonists are not automatically historical rivals.

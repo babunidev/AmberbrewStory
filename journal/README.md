@@ -1,9 +1,7 @@
-# Adventure Journal
+# Adventure journal
 
-Records of adventures, encounters and memorable
-roleplaying experiences.
+This directory records Buxbrew's **actual gameplay or roleplaying experiences**, rather than retroactively invented adventures.
 
-Use TEMPLATE.md to create entries in entries/.
+Create a new Markdown file in [entries/](entries/) using [TEMPLATE.md](TEMPLATE.md). Record the date when known, the source of the account and whether any details were reconstructed from memory.
 
-Keep real gameplay recollections separate from
-later fictional dramatizations.
+A journal entry may inspire a story, but later dramatized scenes belong in [stories/](../stories/) and do not alter the factual journal account. Established character consequences should be added to [CANON.md](../CANON.md) or [TIMELINE.md](../TIMELINE.md) only after review.

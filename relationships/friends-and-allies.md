@@ -1,9 +1,11 @@
 # Friends and allies
 
-_Status: Draft_
+_Status: Incomplete._
 
-## Established facts
+## Established connections
 
-## Details and anecdotes
+Buxbrew is deeply devoted to family and friends. Confirmed relatives are described in [family/](../family/), and her guild affiliation is recorded under [Roar](roar-guild.md).
 
-## Open questions
+## Not yet established
+
+A comprehensive list of named companions and specific shared adventures has not been recorded in canonical materials. Avoid inventing individuals to populate this page.

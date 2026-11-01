@@ -1,9 +1,10 @@
 # Important locations
 
-_Status: Draft_
+_Status: Incomplete directory._
 
-## Established facts
+## Established
 
-## Details and anecdotes
+- [Amberbrew Brewery](amberbrew-brewery.md) — Buxbrew's family home.
+- [Ironforge](ironforge.md) — a city to which she has strong ties.
 
-## Open questions
+Other destinations and exact adventure routes have not yet been entered as confirmed events. New journal entries can introduce observed locations with their sources and dates marked appropriately.
