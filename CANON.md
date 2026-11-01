@@ -40,6 +40,7 @@ See [the family](family/amberbrew-family.md), [Erendor](family/erendor-amberbrew
 
 - Cheerful, exuberant, loud, welcoming, stubborn, generous and fiercely protective.
 - Loves family, food, brewing, celebration and laughter; dances on tavern tables.
+- Previously described **Rhapsody Malt** as a favorite drink and **beer-basted boar ribs** as a much-loved meal after fights. These are personal preferences, not confirmed proprietary Amberbrew recipes.
 - Bows, roars, laughs, sometimes howls or beats her chest; greets others with **“Greetings!”** and **“Cheers!”**
 - Forgiving and practical about mistakes: mishaps happen on adventures, and solutions are found.
 - Fights with joy and energy rather than being defined by tragedy.

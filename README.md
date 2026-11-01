@@ -4,7 +4,7 @@
 
 **Amberbrew Story** follows the Dark Iron Amberbrew family, particularly in the evolving setting of **World of Warcraft Forever**. **Jasmine “Buxbrew” Amberbrew** is the initial central character, but the project belongs to the whole household: Bess, Erendor, Loni (“Lonebrew”), Morkah, Buxbrew, and the people around them.
 
-The project began as **BuxbrewCharacterStory** and was renamed and broadened on **2026-11-01**. This is a repository for preserving the creative vision, established family history, continuity, future stories, and the human-led development process — **not a request to generate fictional writing whenever its documentation is updated**.
+The project began as **BuxbrewCharacterStory** and was renamed and broadened on **2026-11-01**. This is a repository for preserving the creative vision, established family history, continuity, future stories, and the human-led development process — with fictional stories written on request and kept separate from confirmed gameplay and family canon.
 
 > **Buxbrew's motto:** “We roar, we laugh, we fight.”
 
@@ -28,12 +28,12 @@ Read the [project concept](CONCEPT.md) and the [ten storytelling principles](WRI
 
 ## Writing and lived experiences
 
-- [Stories](stories/) — future fiction; literary invention is not automatically canon
+- [Stories](stories/) — original and reconstructed family narratives; literary invention is not automatically canon
 - [Adventure journal](journal/) — actual or remembered gameplay and roleplaying, labeled by source
 - [Assets](assets/) — illustrations, screenshots and references; provenance required
 - [Archive](archive/) — retired material preserved when useful
 
-**Current phase:** Documenting the concept, decisions, rules and project history. This phase does **not** include writing fictional stories or adding unapproved canon.
+**Current phase:** The initial fiction-writing pass is underway. Seven story chapters now accompany the existing family archive. In-story details remain literary interpretations until separately confirmed as canon; the gameplay journal remains reserved for actual play.
 
 ## Project documentation
 

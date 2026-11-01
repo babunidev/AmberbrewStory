@@ -24,6 +24,11 @@ Use **creative**, not “creator”, as the role label. Explain an idea, the rea
 - **Private discussion transcripts** are inputs for documentation, not material to be pasted into public records.
 - **Implementation** is reported only after repository changes are actually made; verification is distinguished from intent.
 
-## This documentation consolidation — 2026-11-01
+## Initial documentation consolidation — 2026-11-01
 
 The human creative requested **documentation only**. AI reviewed the supplied *Refine Storytelling Instructions* discussion and current repository, consolidated the approved vision and principles, and updated the relevant project documents. No fictional chapter, dialogue or new adventure was generated, and character canon was not changed in this pass.
+
+
+## Story reconstruction — 2026-11-01
+
+The creative subsequently requested an actual writing pass, replacing the earlier temporary documentation-only instruction. AI drafted seven chapters using earlier conversation summaries and existing repository canon as source material, then recorded invented connective detail in each chapter's continuity note. The chapters are **AI-written drafts based on human-led characters, events and writing direction**, not verbatim recovered manuscripts. Any later acceptance of a detail as permanent canon remains the creative's decision.

@@ -21,3 +21,8 @@ As the family's place in the project became clearer, the single-character name f
 ## 2026-11-01 — Defining the feeling, then documenting it
 
 Ten questions helped clarify what I wanted future Amberbrew writing to preserve: grounded language with a little poetry, characters discovered through lived moments, a warm and imperfect family, natural humor, unhurried pacing and mysteries that can remain unexplained. Playing Buxbrew will bring the adventures; attention to everyday life will give the family room to exist beyond them. AI asked the questions and drafted a synthesis of the answers, then helped organize the confirmed choices in the project's concept, writing guide, decisions and roadmap. This was **documentation work, not the writing of new stories**.
+
+
+## 2026-11-01 — Writing the stories after documenting the rules
+
+With the family archive and writing principles in place, I asked for the Amberbrew stories discussed in earlier conversations to be gathered and rewritten for the repository. The first adventure gave us a recognizable path through Dun Morogh and Thelsamar toward Loch Modan, while the rest of the family deserved quieter pages of their own. AI reconstructed seven literary scenes from recovered discussion summaries and the existing canon pages, including invented dialogue and small domestic details. Their notes distinguish source-based events from dramatization; none was entered as verified gameplay or silently adopted as permanent canon.

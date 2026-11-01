@@ -27,7 +27,7 @@ This file records **creative decisions**, not fictional scenes or every suggesti
 
 ## Working-process decisions
 
-**DEC-14 — Documentation is the task for now.** The current work is to collect and place the decisions, concepts, project history and rules in the repository. **Do not write fictional stories, dialogue, chapters, new adventures or unapproved character biography during this phase.**
+**DEC-14 — Initial documentation-only phase (historical).** The initial 2026-11-01 task was to collect and place decisions, concepts, project history and rules, without generating fictional material. This restriction governed that earlier pass and was superseded when the creative later explicitly requested story rewrites.
 
 **DEC-15 — Human authorship and accurate attribution.** Project history is written from the human creative's first-person perspective without beginning sentences with “I” or “My”. The creative's choices remain distinct from the AI's questions, drafted summaries and repository edits.
 
@@ -50,3 +50,10 @@ These are existing character-continuity decisions, not new additions inferred fr
 ## Source and attribution
 
 **Primary basis:** user-supplied export titled *Refine Storytelling Instructions*, containing the ten-question discussion and an AI-assembled final writing guide, 2026-11-01. The creative's answers and explicit corrections establish the decisions; assistant-authored examples are treated as illustrative unless independently confirmed. The private raw discussion is not reproduced in the public repository.
+
+
+## Story rewrite authorization — 2026-11-01
+
+**DEC-16 — Begin writing the collected stories.** After the earlier documentation-only work, the creative explicitly requested that previously discussed family stories be gathered, rewritten under the new literary principles, and placed in the AmberbrewStory repository. This authorizes fictional retellings and small connective inventions, **not** automatic promotion to confirmed biography or gameplay history.
+
+**Editorial implementation:** Seven AI-assisted draft chapters were composed: a three-part reconstruction of Buxbrew's early journey (plus a domestic opening scene) and separate portraits involving Loni, Erendor, Bess, Morkah and Blackguard. Their order as files is not a definitive in-world calendar. Newly created dialogue and incidental objects remain literary rather than canonical. Full original prose from old chats was not always available; recovered outlines and existing repository reference pages were used instead.

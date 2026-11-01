@@ -2,9 +2,9 @@
 
 This is a **World of Warcraft family-story and worldbuilding archive**, not a software project. The human is the **creative**, author and creative director. AI supports the work without claiming those creative decisions.
 
-## Active scope: documentation only
+## Active scope: family storytelling and careful documentation
 
-The current direction is to **collect, clarify and maintain project documentation**. Do not write new fictional stories, chapters, dialogue, adventures or new character biography during documentation tasks. Do not treat permission to document a storytelling concept as permission to enact it.
+The creative explicitly requested story rewriting on 2026-11-01 after the first documentation-only phase. **Write fiction only when requested**; put it under `stories/chapters/` and keep its invented dialogue, incidents and interpretations distinct from verified gameplay and established canon. Continue maintaining documentation and continuity records alongside authorized fiction.
 
 The project is **Amberbrew Story** (repository: AmberbrewStory), formerly BuxbrewCharacterStory. It follows the **entire Amberbrew family**, with Buxbrew as initial central character.
 
@@ -36,7 +36,9 @@ The project is **Amberbrew Story** (repository: AmberbrewStory), formerly Buxbre
 - Buxbrew commissioned Blackguard from a weaponsmith; she did not forge it herself.
 - The family history and hidden tavern are **fan-created lore**, not official Blizzard history.
 
-## Literary principles (for reference, not a writing task)
+## Literary principles (for authorized story tasks)
+
+**The creative has explicitly authorized a story-writing pass on 2026-11-01.** Draft fiction into `stories/chapters/`, label its relationship to canon, and keep invented dialogue/incidents separate from source-confirmed facts. The earlier documentation-only phase is historical, not a standing prohibition.
 
 - Observant, discreet narration with private thoughts used sparingly
 - Grounded, gently lyrical language with specific sensory details

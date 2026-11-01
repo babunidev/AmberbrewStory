@@ -1,6 +1,6 @@
 # Storytelling principles — Amberbrew Story
 
-**Status:** Agreed creative direction, documented on 2026-11-01 after a ten-question discussion. This is a **reference for future writing**, not a story draft or permission to invent character canon.
+**Status:** Agreed creative direction, documented on 2026-11-01 after a ten-question discussion. This guides the fictional chapters now being written, but does not grant permission to invent permanent character canon.
 
 The **human creative** chose the principles below. AI asked clarifying questions and helped consolidate the answers into editorial guidance. Illustrative suggestions made during that discussion are not independent confirmation that an event occurred.
 
@@ -63,4 +63,4 @@ The image is an **editorial metaphor**, not definitive evidence of the building'
 
 The prose rules above govern **possible future in-world stories**. The development journal, concept and other project-history documents speak from the **human creative's first-person perspective**, while never beginning a sentence with “I” or “My”. They explain the reason for the work, what the creative decided, the AI's actual contribution and the result.
 
-**Current work is documentation only. No story, scene, invented incident or new character biography is authorized by this guide.**
+**The earlier documentation-only phase has ended at the creative's explicit request to reconstruct and rewrite the collected Amberbrew stories.** Fiction is now permitted within the boundaries above; it must remain labeled and separate from confirmed biography and gameplay.

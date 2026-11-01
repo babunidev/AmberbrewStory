@@ -1,5 +1,13 @@
 # Change history
 
+## 2026-11-01 — First story-reconstruction pass
+
+- Added seven AI-assisted draft chapters, including a connected early-adventure retelling and independent family scenes featuring Bess, Loni, Erendor and Morkah.
+- Gave every chapter a continuity and attribution note identifying reconstructed or invented narrative details.
+- Created a reading index and made the distinction between fiction, canon and verified gameplay explicit.
+- Updated the project phase in README, CONCEPT, ROADMAP, WRITING-GUIDE, AGENTS and content documentation after the creative's explicit request to begin story writing.
+- Added the story-writing decision, development entry and collaboration record; no new gameplay entries were manufactured and no story-only detail was declared permanent canon.
+
 Repository and documentation changes only; not fictional in-world events.
 
 ## 2026-11-01 — Amberbrew Story documentation consolidation

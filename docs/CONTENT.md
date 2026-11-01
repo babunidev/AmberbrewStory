@@ -28,7 +28,7 @@ This is a **family-story and documentation archive**, not a software project. Th
 | [places/](../places/) | Established family places and setting context |
 | [lore/](../lore/) | Original family lore, Warcraft reference, disputes and continuity |
 | [journal/](../journal/) | Actual/remembered gameplay and RP, clearly labeled |
-| [stories/](../stories/) | Possible future fiction; not canon automatically |
+| [stories/](../stories/) | AI-assisted story retellings and imagined family scenes, labeled separately from canon |
 | [assets/](../assets/) | Approved images, screenshots and references with source information |
 | [archive/](../archive/) | Superseded material preserved for traceability |
 
@@ -42,7 +42,7 @@ This is a **family-story and documentation archive**, not a software project. Th
 6. Touch CANON.md, TIMELINE.md or character/topic pages **only when the creative actually establishes or revises character facts**.
 7. Keep the raw private discussion out of the public repository; summarize source-derived decisions without reproducing it verbatim.
 
-**Current scope:** Project documentation only. No story chapters or invented family lore in this pass.
+**Current scope:** Storytelling has been explicitly requested as a new phase. Seven chapters have been drafted from previous discussions and the established family archive. Story-specific dialogue and incidental details do not expand canon without approval.
 
 ## Continuity note
 

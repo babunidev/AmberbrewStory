@@ -1,31 +1,29 @@
 # Roadmap — Amberbrew Story
 
-This is a **project and documentation plan**, not a fictional plot outline. Completed items describe established work; future items do not authorize writing stories or adding canon automatically.
+This is an editorial and provenance roadmap, not an in-world plot outline. It does not prescribe character arcs, revelations, or an ending.
 
 ## Completed foundation — 2026-11-01
 
-- [x] Establish the initial Buxbrew character archive and separate canon, timeline, subject pages, gameplay journal and fiction.
-- [x] Audit the documentation structure and distribute already established facts into relevant pages.
-- [x] Clarify family relationships: Loni older, Buxbrew younger; Erendor father; Morkah grandfather.
-- [x] Rename the GitHub repository from **BuxbrewCharacterStory** to **AmberbrewStory**.
-- [x] Broaden the creative concept from Buxbrew alone to the **whole Amberbrew family**, with Buxbrew initially central.
-- [x] Complete a ten-question clarification of the desired literary mood, viewpoint, pacing, humor, mystery, use of gameplay and relationship to Warcraft lore.
-- [x] Document those confirmed choices in the concept, writing guide, decision log and project history.
+- [x] Establish the family archive with separate canon, chronology, character profiles, lore, places, gameplay journal and fiction.
+- [x] Resolve the sister-order contradiction: Loni older, Buxbrew younger; record Erendor as father and Morkah as grandfather.
+- [x] Rename and broaden the project from BuxbrewCharacterStory to AmberbrewStory.
+- [x] Record the agreed principles of observant storytelling, household life, natural humor, unhurried pacing, faithful invention and unresolved mystery.
+- [x] Make human direction, AI assistance and canon/fiction distinctions explicit.
 
-## Current phase — document, do not write fiction
+## Story reconstruction — 2026-11-01
 
-- [x] Define which ideas belong in CONCEPT.md, WRITING-GUIDE.md, docs/DECISIONS.md, docs/DEVLOG.md and the content map.
-- [x] Preserve the difference between user-approved direction, examples suggested by AI and established character canon.
-- [x] Make the family-wide project identity and documentation-only scope explicit in README.md and AGENTS.md.
-- [ ] Continue maintaining decision records as the creative makes further choices.
-- [ ] Verify provenance before promoting any new family or gameplay fact to CANON.md.
+- [x] Review recovered character-chat material alongside the repository's established family reference pages.
+- [x] Rewrite the remembered first-adventure sequence in three connected narrative chapters, explicitly marking reconstruction.
+- [x] Draft four quieter family and equipment scenes, with invented dialogue and incident details clearly identified.
+- [x] Publish a story index with statuses, chronology and source qualifications.
+- [x] Update documentation to reflect the creative's new request for fictional work, superseding the initial documentation-only restriction.
 
-## Later possibilities — not active writing tasks
+## Ongoing editorial care
 
-- [ ] Document actual gameplay and roleplaying sessions when their records are available.
-- [ ] Review existing narrative material against canon and classify it accurately.
-- [ ] Add properly credited artwork, screenshots and references when selected.
-- [ ] Prepare suitable portfolio-facing project material and excerpts after creative review.
-- [ ] Revisit the approach if World of Warcraft Forever adds relevant lore or continuity changes.
+- [ ] Review each story's incidental invention before treating it as a permanent in-world fact.
+- [ ] Continue adding gameplay and roleplaying events only when supported by actual session notes or clear recollections.
+- [ ] Revisit older source conversations when additional complete story texts or chronology become available.
+- [ ] Reconcile relevant changes in World of Warcraft Forever without gratuitously rewriting existing family identity.
+- [ ] Add selected, sourced artwork and contextual screenshots when available.
 
-Story chapters and new fictional scenes are **outside the current scope**. No planned ending, mandated mystery resolution or invented plot milestone is required.
+A chapter is a glimpse of ongoing lives, not a promise of resolution. The roadmap never requires an epic progression, explanation of family secrets, or fixed ending.
