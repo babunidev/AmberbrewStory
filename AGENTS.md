@@ -6,7 +6,7 @@ This is a **World of Warcraft family-story and worldbuilding archive**, not a so
 
 The creative explicitly requested story rewriting on 2026-11-01 after the first documentation-only phase. **Write fiction only when requested**; put it under `stories/chapters/` and keep its invented dialogue, incidents and interpretations distinct from verified gameplay and established canon. Continue maintaining documentation and continuity records alongside authorized fiction.
 
-The project is **Amberbrew Story** (repository: AmberbrewStory), formerly BuxbrewCharacterStory. It follows the **entire Amberbrew family**, with Buxbrew as initial central character.
+The project is **Amberbrew Story** (repository: AmberbrewStory), formerly BuxbrewCharacterStory. It follows the **entire Amberbrew family**, with Jasmine as the initial central character.
 
 ## Read before editing
 
@@ -29,7 +29,7 @@ The project is **Amberbrew Story** (repository: AmberbrewStory), formerly Buxbre
 
 ## Established continuity anchors
 
-- **Buxbrew** is Jasmine Amberbrew's primary character name.
+- **Jasmine Amberbrew** is the character's name; **Buxbrew** is a nickname used by other characters, not one she chose herself.
 - **Loni “Lonebrew” Amberbrew is older; Buxbrew is younger.**
 - **Arandor Amberbrew** is their father, a traveling hunter; **Morkah** is the grandfather.
 - Blacksmithing belongs to Buxbrew's **earlier incarnation**, not an occupation in the present life.
@@ -76,3 +76,7 @@ Describe human direction and AI assistance without confusing them. Do not invent
 - For substantive documentation work, update docs/DECISIONS.md and docs/DEVLOG.md as appropriate and CHANGELOG.md after actual edits.
 - Keep links relative and valid; preserve unrelated history and avoid duplicating long passages.
 - Never claim that a repository change, test or external verification happened until it actually did.
+
+## Repository-local documentation standard
+
+Before writing or changing project documentation, read [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md). These rules travel with this repository and do not depend on the babuni.dev ChatGPT Project. Preserve all project-specific technical, creative, canon, safety, licensing, and historical rules in this file; follow the linked standard for public first-person narrative, human–AI attribution, concise development journals, decision records, and evidence-based verification. **Babuni** is the human creative; **babuni.dev** is the website/portfolio, not the person. Preserve third-party credits and historical legal notices. References above to a dated “documentation-only audit” describe that past task, not a permanent ban on later authorized implementation.
