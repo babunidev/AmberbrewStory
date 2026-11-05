@@ -35,3 +35,7 @@ Reading the first group of stories, I wanted the narration to stay closer to Jas
 ## 2026-11-05 — Loni's new character direction
 
 With a new in-game character sheet for Loni, I changed her class fantasy from hunter to rogue. Her appearance now has short dark hair, and the earlier petless-hunter framing no longer fits. Rather than explain the change through an invented incident, I asked for the stories and family records to be brought into agreement. AI reviewed the repository and revised her profile, linked canon references and the scenes that depended on the old portrayal. The established bond between the sisters and Loni's quieter nature remain intact; her rogue specialization and personal history are still open.
+
+## 2026-11-05 — Updating the family's present-day identities
+
+With the latest character sheets, my family archive needed another continuity pass: Arandor is now a paladin, Loni is a rogue, and Morkah is Arandor's father. Earlier hunter descriptions no longer represent their current identities. At my request, AI reconciled reference pages and the two affected domestic drafts, preserving the characters' relationships and the stories' invented-scene status. Neither character has been given an unconfirmed class-change event or affiliation.
