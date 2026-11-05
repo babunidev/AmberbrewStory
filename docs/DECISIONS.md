@@ -34,7 +34,7 @@ This file records **creative decisions**, not fictional scenes or every suggesti
 ## Established continuity retained from earlier decisions
 
 - **Loni “Lonebrew” Amberbrew is the older sister; Jasmine “Buxbrew” Amberbrew is younger.** Earlier opposite wording is superseded.
-- **Arandor** is the father and hunter; **Morkah** is the grandfather.
+- **Arandor** is the father, now a paladin; **Morkah** is Arandor's father and the sisters' paternal grandfather. **Loni** is now a rogue. Earlier hunter descriptions are superseded.
 - Buxbrew's blacksmithing belongs to an actual **earlier incarnation**, not a former profession in her current lifetime.
 - The hidden Amberbrew family and its history are **fan-created lore**, not official Blizzard canon.
 
@@ -61,6 +61,8 @@ These are existing character-continuity decisions, not new additions inferred fr
 
 **DEC-17 — Literary naming and observational balance (2026-11-01).** Jasmine is the central character's own name. The nickname Buxbrew comes from guests and family friends, referring to her figure and the Amberbrew family name; she did not choose it. Narrative prose should generally use she/her, with Jasmine for clarity, and reserve Buxbrew for other characters' speech. Action, place and sensory detail should usually receive more space than dialogue, without a rigid ratio. The father's definitive spelling is **Arandor Amberbrew**.
 
-## Loni's current class — 2026-11-05
+## Current class identities — 2026-11-05
 
 **DEC-18 — Loni Amberbrew is a rogue.** The creative supplied an in-game character reference and explicitly replaced Loni's earlier hunter class fantasy with **rogue**. The current dark-haired visual reference also supersedes her older amber-hair portrayal. Maintain her older-sister relationship, introverted temperament and affectionate bond with Jasmine. Do not infer a rogue specialization, criminal occupation, class-change event or new family history from the class label or illustration. AI assisted with continuity and narrative revisions; the creative supplied the change.
+
+**DEC-19 — Arandor's current class and the paternal line.** The creative confirmed on 2026-11-05 that Arandor Amberbrew is now a **paladin** and is **Morkah's son**. The former hunter label and unresolved side of Morkah's descent are superseded. No date or cause of the class change, paladin order, oath or religious affiliation has been confirmed.
