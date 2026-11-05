@@ -19,7 +19,7 @@ The family settled into a concealed **Brewery and Tavern beneath the Bronze Kett
 - **Morkah** — elder and Buxbrew's grandfather.
 - **Bess “Bosom Bess” Amberbrew** — Buxbrew's mother and the welcoming, roaring-voiced tavern hearth.
 - **Arandor Amberbrew** — Buxbrew's father, a hunter frequently off on his travels.
-- **Loni “Lonebrew” Amberbrew** — older sister, an introverted hunter who fights without a pet.
+- **Loni “Lonebrew” Amberbrew** — older sister, a reserved and independent rogue.
 - **Jasmine “Buxbrew” Amberbrew** — younger sister, joyful brewer-hearted alchemist and protective warrior.
 
 Morkah's exact link through Bess or Arandor and the broader family tree are not defined.
