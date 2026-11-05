@@ -17,7 +17,7 @@ Read these in order. Their underlying incidents were described in earlier charac
 These are **unplaced literary scenes**, not a newly confirmed chronological sequence. Their numbering is a reading index, not a historical order.
 
 - [The Warm Room](chapters/01-the-warm-room.md) — Bess, Buxbrew, Morkah and an ordinary evening at the brewery.
-- [Loni at the Door](chapters/05-loni-at-the-door.md) — the older sister comes in from the hills.
+- [Loni at the Door](chapters/05-loni-at-the-door.md) — the older sister slips home for food and company.
 - [A Place at the Table](chapters/06-a-place-at-the-table.md) — Arandor returns for a meal, with questions left unasked.
 - [Blackguard and the Supper Plate](chapters/07-blackguard-and-the-supper-plate.md) — a later gear milestone carried home to the kitchen.
 
