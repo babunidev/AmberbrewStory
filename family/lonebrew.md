@@ -1,27 +1,27 @@
 # Loni “Lonebrew” Amberbrew
 
-_Status: Established sister profile; chronology and age beyond birth order unconfirmed._
+## Family
 
-## Identity and place in the family
+**Loni Amberbrew**, often called **Lonebrew**, is a Dark Iron dwarf and the older sister of **Jasmine “Buxbrew” Amberbrew**. Their parents are Bess and Arandor Amberbrew. Arandor is a paladin who spends much of his time away from home, and their paternal grandfather is Morkah Amberbrew.
 
-**Loni Amberbrew**, known as **Lonebrew**, is a **Dark Iron dwarf** and the **older sister** of **Jasmine “Buxbrew” Amberbrew**. The creative resolved their order on 2026-11-01: **Loni is older; Buxbrew is younger.**
+## Calling
 
-## Rogue
+Loni is a **rogue**. She relies on her own judgment, quiet movement and a keen awareness of her surroundings. She is more inclined to watch and choose her moment than to meet every obstacle head-on. Her precise fighting specialization and training are not established.
 
-Loni is now a **rogue**. Her earlier identity as a hunter fighting without an animal companion is superseded. Quiet observation, self-reliance and a preference for moving unnoticed suit her established temperament, but no particular rogue specialization, clandestine affiliation or history of training has been confirmed.
+## Appearance
 
-## Temperament and appearance
+Loni is a sturdy, broad-shouldered dwarf with a full, strong build. Her short, tousled **charcoal-black hair** curls around her jaw, framing a pale face with **golden-amber eyes** and dark lips.
 
-She is **shy, introverted, quiet and self-reliant**, happiest alone in wilderness, forests and mountains rather than in noisy towns. Her latest character-sheet reference depicts **short, tousled charcoal-dark hair, amber-gold eyes, a pale complexion, a fitted dark sleeveless laced vest and dark trousers with red accents**. This supersedes the older amber-hair description. Earlier character-design notes about her generous build do not define her abilities.
+She wears a fitted, sleeveless dark vest with a laced front, dark trousers with red accents and sturdy boots. A short blade is part of her traveling equipment.
 
-## Loni and Buxbrew
+## Temperament
 
-The sisters contrast in their ways of acting: **quiet precision and open protection**. Buxbrew thrives among guests, brewing, friends and boisterous fighting; Loni seeks peace away from crowds. Nevertheless, when Loni visits Buxbrew and the two drink together, Loni's reserve drops and **both become loud, mischievous and prone to drunken troublemaking**.
+Shy, introverted and independent, Loni enjoys solitude and the quiet of forests, mountains and remote places. Large gatherings rarely draw her attention, and she does not feel obliged to fill every silence. She is observant and self-reliant, with a preference for keeping her own company.
 
-## Other family ties
+## Loni and Jasmine
 
-Their father **Arandor** is a **paladin**, often away from home. Their mother is **Bess**, and their paternal grandfather **Morkah** is Arandor's father. No former hunting partnership is established.
+The sisters are different in manner but close in affection. Jasmine is outspoken, exuberant and protective, happiest amid the noise of the family brewery and its guests. Loni is quieter, more private and less eager to draw a crowd. Where Jasmine stands her ground with sword and shield, Loni favors a rogue's patience and precision.
 
-**Continuity:** The present rogue identity and latest visual reference were confirmed by the creative on 2026-11-05. No in-world date or explanation for the change from her earlier hunter portrayal has been established.
+At home, with her sister beside her and a few drinks on the table, Loni's reserve can slip away. The two laugh, tease and get up to mischief together, sometimes becoming louder than anyone expected of the usually quiet older sister.
 
-See [family](amberbrew-family.md), [Arandor](arandor-amberbrew.md), and [continuity resolution](../lore/continuity-notes.md).
+See [the Amberbrew family](amberbrew-family.md), [Arandor](arandor-amberbrew.md) and [Jasmine's overview](../character/overview.md).
