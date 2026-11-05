@@ -1,5 +1,13 @@
 # Change history
 
+## 2026-11-05 — Paladin, rogue and paternal-line continuity
+
+- Reconciled Arandor's current **paladin** identity, Loni's **rogue** identity and Morkah as **Arandor's father** in the character canon, family and lore pages, timeline and repository guidance.
+- Revised the relevant domestic story chapters to remove outdated hunter descriptions while preserving their established narrative circumstances and explicit fictional provenance.
+- Refreshed visual reference notes and continuity records; left class-change dates, training and paladin affiliation unspecified.
+- Added current decisions and a development journal entry while keeping older dated records as history.
+
+
 ## 2026-11-05 — Loni rogue continuity revision
 
 - Updated Loni Amberbrew from hunter to rogue across the canon index, family profile, backstory, timeline, original lore and repository instructions.
