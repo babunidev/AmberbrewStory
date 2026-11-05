@@ -12,6 +12,12 @@ Contradictions are recorded here with their resolution rather than silently eras
 
 **Related identity clarification:** Lonebrew's given name is **Loni Amberbrew**. **Arandor Amberbrew** is Buxbrew's father and a paladin who is often away. **Morkah (sometimes transcribed “Murka”)** is Arandor's father and therefore her paternal grandfather.
 
+## Resolved — Loni's rogue identity (2026-11-05)
+
+**Current canon:** Loni Amberbrew is a **rogue**, not a hunter. All earlier petless-hunter references are superseded. Her father Arandor remains a hunter.
+
+The new in-game character reference shows Loni with **short charcoal-dark hair** and **golden-amber eyes**, replacing the older amber-hair description. Her reserved, independent temperament and closeness with Jasmine remain established. Her rogue specialization, training and whether hunting ever formed part of her in-world history have **not** been confirmed. This class-fantasy update is not a dated in-world event.
+
 ## Clarified — blacksmithing in an earlier incarnation
 
 **Status:** Settled. Buxbrew's blacksmithing was in an actual **earlier life/incarnation**, not an earlier occupation in her current lifetime. Blackguard was commissioned from a skilled weaponsmith.
