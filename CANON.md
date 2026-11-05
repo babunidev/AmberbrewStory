@@ -14,10 +14,10 @@ This is the index of facts established by the human creative. The topic pages ex
 ## Family
 
 - **Mother:** Bess Amberbrew, affectionately called **Bosom Bess**, a warm, booming-voiced center of the family brewery.
-- **Father:** **Arandor Amberbrew**, a hunter who is frequently away, somewhere out in the world.
+- **Father:** **Arandor Amberbrew**, a paladin who is frequently away, somewhere out in the world.
 - **Older sister:** **Loni Amberbrew**, known as **Lonebrew**, an independent rogue whose exact specialization is not yet established.
 - **Younger sister:** **Buxbrew (Jasmine Amberbrew)**. Buxbrew is younger than Loni; the earlier contrary description is superseded.
-- **Grandfather:** **Morkah Amberbrew** (also transcribed “Murka” in conversation), an Amberbrew elder associated with the family's break from Thaurissan's course. His precise maternal/paternal line is unspecified.
+- **Grandfather:** **Morkah Amberbrew** (also transcribed “Murka” in conversation), an Amberbrew elder associated with the family's break from Thaurissan's course. He is Arandor's father and thus Jasmine and Loni's paternal grandfather.
 - No other relatives or marriages are established merely by this summary.
 
 See [the family](family/amberbrew-family.md), [Arandor](family/arandor-amberbrew.md) and [Loni](family/lonebrew.md).
