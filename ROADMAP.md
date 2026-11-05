@@ -18,6 +18,11 @@ This is an editorial and provenance roadmap, not an in-world plot outline. It do
 - [x] Publish a story index with statuses, chronology and source qualifications.
 - [x] Update documentation to reflect the creative's new request for fictional work, superseding the initial documentation-only restriction.
 
+## Character continuity update — 2026-11-05
+
+- [x] Reconcile Loni's current rogue class and character-sheet appearance with family records and affected chapters.
+- [x] Preserve the earlier hunter portrayal as superseded continuity history without inventing an explanation or chronology.
+
 ## Ongoing editorial care
 
 - [ ] Review each story's incidental invention before treating it as a permanent in-world fact.
