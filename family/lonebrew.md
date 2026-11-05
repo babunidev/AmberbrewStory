@@ -16,7 +16,7 @@ She is **shy, introverted, quiet and self-reliant**, happiest alone in wildernes
 
 ## Loni and Buxbrew
 
-The sisters represent **wilderness and hearth**. Buxbrew thrives among guests, brewing, friends and boisterous fighting; Loni seeks peace away from crowds. Nevertheless, when Loni visits Buxbrew and the two drink together, Loni's reserve drops and **both become loud, mischievous and prone to drunken troublemaking**.
+The sisters contrast in their ways of acting: **quiet precision and open protection**. Buxbrew thrives among guests, brewing, friends and boisterous fighting; Loni seeks peace away from crowds. Nevertheless, when Loni visits Buxbrew and the two drink together, Loni's reserve drops and **both become loud, mischievous and prone to drunken troublemaking**.
 
 ## Other family ties
 
