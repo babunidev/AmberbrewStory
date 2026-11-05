@@ -1,5 +1,12 @@
 # Change history
 
+## 2026-11-05 — Loni rogue continuity revision
+
+- Updated Loni Amberbrew from hunter to rogue across the canon index, family profile, backstory, timeline, original lore and repository instructions.
+- Replaced older amber-hair references with the supplied dark-haired character-sheet appearance, without inventing an in-world class-change event.
+- Revised *Loni at the Door* and the Loni reference in *A Place at the Table*, preserving domestic pacing and the sisters' established relationship.
+- Updated the story index and continuity/decision records. These are editorial changes, not verified gameplay events.
+
 ## 2026-11-01 — Family names and narrative voice
 
 - Revised all seven draft chapters toward closer observational narration, with more physical setting and activity, and dialogue used only where it serves the scene.
