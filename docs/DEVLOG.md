@@ -31,3 +31,7 @@ With the family archive and writing principles in place, I asked for the Amberbr
 ## 2026-11-01 — Finding the family's voice on the page
 
 Reading the first group of stories, I wanted the narration to stay closer to Jasmine's experience without repeatedly calling her by the nickname other people gave her. The family's guests and friends may call her Buxbrew, but the prose can usually simply say she. More of the daily movement, textures and little events belong between the spoken lines, too. After I clarified that approach and the spelling of Arandor's name, AI revised the seven chapters and corrected the family references across the repository.
+
+## 2026-11-05 — Loni's new character direction
+
+With a new in-game character sheet for Loni, I changed her class fantasy from hunter to rogue. Her appearance now has short dark hair, and the earlier petless-hunter framing no longer fits. Rather than explain the change through an invented incident, I asked for the stories and family records to be brought into agreement. AI reviewed the repository and revised her profile, linked canon references and the scenes that depended on the old portrayal. The established bond between the sisters and Loni's quieter nature remain intact; her rogue specialization and personal history are still open.
