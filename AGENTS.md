@@ -30,7 +30,7 @@ The project is **Amberbrew Story** (repository: AmberbrewStory), formerly Buxbre
 ## Established continuity anchors
 
 - **Jasmine Amberbrew** is the character's name; **Buxbrew** is a nickname used by other characters, not one she chose herself.
-- **Loni “Lonebrew” Amberbrew is older; Buxbrew is younger.**
+- **Loni “Lonebrew” Amberbrew is older; Buxbrew is younger.** Loni is now a **rogue**, not a hunter; older petless-hunter descriptions are superseded.
 - **Arandor Amberbrew** is their father, a traveling hunter; **Morkah** is the grandfather.
 - Blacksmithing belongs to Buxbrew's **earlier incarnation**, not an occupation in the present life.
 - Buxbrew commissioned Blackguard from a weaponsmith; she did not forge it herself.
