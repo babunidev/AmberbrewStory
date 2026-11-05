@@ -34,7 +34,7 @@ When Loni's name came up, he looked toward the doorway.
 
 He nodded, pleased to hear it.
 
-The family carried its own small absences without making every one of them a grievance. Loni went into the wilderness for the quiet she loved. Arandor followed the hunter's life along routes that were seldom known in advance. Bess kept the busy warmth of the house; Jasmine came and went with her own work and adventures. Around the table, their movements met for a little while.
+The family carried its own small absences without making every one of them a grievance. Loni kept her own counsel and came and went without much explanation. Arandor followed the hunter's life along routes that were seldom known in advance. Bess kept the busy warmth of the house; Jasmine came and went with her own work and adventures. Around the table, their movements met for a little while.
 
 Morkah arrived after they had begun to eat. He paused when he saw the pack beside the wall, then pulled out a chair.
 
