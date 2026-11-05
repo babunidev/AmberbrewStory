@@ -1,8 +1,8 @@
 # Loni at the Door
 
-The door let in a breath of cold air, and with it came the smell of damp earth and the high country.
+The door let in a breath of cold air, enough to stir the loose edge of a cloth on the nearest table.
 
-Loni stood on the threshold with her pack in one hand. Her short amber hair had been pressed flat by a hood, and there was a little dirt on the side of her face where she had wiped away sweat with the back of her hand. The noise of the brewery seemed to meet her at once. She looked past the nearest tables, waiting for enough space to enter without becoming the center of anyone's attention.
+Loni stood on the threshold with her pack in one hand. Her short charcoal-dark hair had been pressed flat by a hood, the ends curling untidily against her jaw. A stray lock fell near one amber eye. The noise of the brewery seemed to meet her at once. She looked past the nearest tables, waiting for enough space to enter without becoming the center of anyone's attention.
 
 Her sister saw her from the kitchen doorway.
 
@@ -10,7 +10,7 @@ For a moment Jasmine stayed where she was, holding a bowl of washed herbs. Then 
 
 "Loni!"
 
-A few guests looked up. Loni's expression softened as they embraced, though she was careful not to let her pack strike anyone behind her. She had carried it through the hills all day; she did not intend to surrender it merely because someone offered to help.
+A few guests looked up. Loni's expression softened as they embraced, though she was careful not to let her pack strike anyone behind her. She had carried it herself and was in no hurry to surrender it merely because someone offered to help.
 
 Bess emerged from the kitchen with an apron dusted in flour. On seeing her older daughter, she gave a broad smile and opened her arms. Loni submitted to another embrace, much longer than the first. By the time Bess let go, she had already begun clearing a place for her at a side table.
 
@@ -18,17 +18,17 @@ The table stood away from the busiest part of the room. Its surface was uneven f
 
 Bess brought food without asking whether she was hungry.
 
-For a while the sisters sat with their elbows close to the table, sharing bread and watching the room. Jasmine ate more slowly than usual. She had been at home all day, and there was no pressing reason to finish; Loni, newly arrived from the hills, seemed happy enough simply to have a wall behind her and something warm in front of her.
+For a while the sisters sat with their elbows close to the table, sharing bread and watching the room. Jasmine ate more slowly than usual. She had been at home all day, and there was no pressing reason to finish; Loni, newly arrived, seemed happy enough simply to have a wall behind her and something warm in front of her.
 
 Beyond the tables, the brewery worked its way through the evening. Someone carried empty mugs into the back room. The faint rattle of crockery came from the washing basin. A pair of customers argued cheerfully about an old fishing rod, neither willing to admit that the story had already been told three times.
 
-Loni said little about the country she had crossed. She mentioned a stretch of rocky ground where the wind had been troublesome and a narrow way she had chosen instead of the road. When Jasmine asked about a scrape across her wrist, she tugged her sleeve back into place.
+Loni said little about the country she had crossed. She mentioned a narrow passage she had taken instead of the main street, then asked whether Bess had changed the bread recipe. When Jasmine asked about a scrape across her wrist, she tugged her sleeve back into place.
 
 "Nothing worth telling."
 
 Jasmine let it rest.
 
-There was no animal lying beneath Loni's bench or waiting outside the door. She hunted by her own strength and skill, without a companion at her heels. Even in a crowded room she carried something of her solitary way of being: noticing the entrances, attending to sounds that others overlooked, making no attempt to fill every quiet moment.
+A slim blade rested in its sheath at Loni's side, almost hidden by the fold of her cloak. When another guest squeezed past the bench, she shifted her pack out of the way before the fellow noticed it. Even in a crowded room she kept her quiet habits: noticing the entrances, attending to sounds that others overlooked, making no attempt to fill every pause.
 
 The first mug was followed by a second. Loni's shoulders grew less tense. She began to listen to the conversation at the next table, where a guest had persuaded himself that he knew the words to an old drinking song. His memory failed him halfway through the verse.
 
@@ -54,4 +54,4 @@ Loni stayed for another little while. She put her cloak back down, sat beside he
 
 ---
 
-**Continuity and attribution:** AI-assisted family scene based on the established older sister Loni, an independent hunter without a pet who prefers wilderness solitude, and her affectionate, sometimes boisterous connection with Jasmine and Bess. The exact return, conversations, song, scrape and evening are imagined, not dated canon.
+**Continuity and attribution:** AI-assisted family scene based on the established older sister Loni, a reserved, independent rogue with short dark hair, and her affectionate, sometimes boisterous connection with Jasmine and Bess. The exact return, conversations, song, scrape and evening are imagined, not dated canon.
