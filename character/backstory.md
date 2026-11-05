@@ -6,7 +6,7 @@ _Status: Established background and original family lore; exact dates unsettled.
 
 Buxbrew's birth name is **Jasmine Amberbrew**. The Amberbrew Brewery and Tavern, concealed beneath the **Bronze Kettle** in Ironforge in the family's original setting, is her home and the center of her childhood. The household is shaped by kitchen work, brewing, food, guests, boisterous hospitality and a closely held Dark Iron heritage.
 
-Her **mother Bess** is the brewery's welcoming, thunder-voiced presence. Her **father Arandor** is a hunter who is often off somewhere beyond the home. Her **older sister Loni**, known as Lonebrew, is a **rogue**, not a hunter like Arandor. Loni is reserved and independent; her exact rogue specialization and how she came to that calling have not been established. **Morkah**, her grandfather, figures centrally in the family's older history.
+Her **mother Bess** is the brewery's welcoming, thunder-voiced presence. Her **father Arandor** is a paladin who is often away from home. Her **older sister Loni**, known as Lonebrew, is an independent rogue who values solitude. **Morkah**, Arandor's father and her paternal grandfather, figures centrally in the family's older history. Earlier hunter portrayals of Arandor and Loni have been superseded; no in-world class-change events have been established.
 
 ## The name Buxbrew
 
