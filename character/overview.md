@@ -4,7 +4,7 @@ _Status: Established character summary, with undated background._
 
 **Jasmine Amberbrew**, known to most as **Buxbrew**, is a young, broad-built Dark Iron dwarf with wild auburn hair, copper beads in her braids, amber eyes and enough laughter to carry across a tavern. She is as comfortable feeding companions and tinkering with a brew as she is standing between them and danger.
 
-Her home is the **Amberbrew Brewery and Tavern**, concealed beneath the Bronze Kettle in Ironforge in the family's original lore. She is the **younger sister** of Loni “Lonebrew” Amberbrew, daughter of Bess “Bosom Bess” and the wandering hunter Arandor, and granddaughter of Morkah.
+Her home is the **Amberbrew Brewery and Tavern**, concealed beneath the Bronze Kettle in Ironforge in the family's original lore. She is the **younger sister** of Loni “Lonebrew” Amberbrew, daughter of Bess “Bosom Bess” and Arandor, a traveling paladin, and paternal granddaughter of Morkah. Loni is a rogue.
 
 Buxbrew is energetic, stubborn, forgiving, hospitable and proudly physical. She bows in greeting, roars in celebration, dances on tables and treats mistakes as problems to solve instead of reasons to despair. Her motto is **“We roar, we laugh, we fight.”**
 
