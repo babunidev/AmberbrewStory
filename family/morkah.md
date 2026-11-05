@@ -1,6 +1,6 @@
 # Morkah Amberbrew
 
-_Status: Established role in original family lore; genealogy details open._
+_Status: Established elder and paternal family line; remaining biography open._
 
 **Morkah Amberbrew**, occasionally rendered **“Murka”** in spoken or transcribed notes, is **Buxbrew's grandfather** and an elder/patriarch in Amberbrew history.
 
@@ -16,6 +16,6 @@ The family's story associates Morkah with **controlled shadow and concealment**,
 
 ## Present-day family connection
 
-He is Buxbrew's **grandfather**, not her father. Whether the descent runs through Bess or Arandor has not been established. His age, current whereabouts and exact chronology remain undetermined.
+He is Buxbrew's **grandfather**, not her father. He is **Arandor's father** and thus **Jasmine and Loni's paternal grandfather**. His age, current whereabouts and exact chronology remain undetermined.
 
 See [original family lore](../lore/amberbrew-original-lore.md) and [family overview](amberbrew-family.md).
