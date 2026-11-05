@@ -17,7 +17,7 @@ Only established ordering is recorded here. Uncertain dates, narrative reconstru
 
 - Born Jasmine Amberbrew, she grows up in the orbit of the Amberbrew family, its brewery, kitchen, guests and traditions.
 - She is **younger than her sister Loni (“Lonebrew”) Amberbrew**.
-- Her mother is Bess “Bosom Bess” Amberbrew; her father, Arandor, is often absent on his travels; his current class is paladin. Her older sister Loni is now a rogue. Loni's current class is **rogue**, superseding earlier hunter descriptions; no date or in-world explanation for that change is established.
+- Her mother is Bess “Bosom Bess” Amberbrew; her father, Arandor, is often absent on his travels; his current class is paladin. Her older sister Loni is now a rogue. Neither class change has a confirmed in-world date or explanation.
 - Patrons' description of her as “that buxom lass and her wicked brew” develops into the name **Buxbrew**. The exact moment is not dated.
 
 ## Her development as a warrior and adventurer
