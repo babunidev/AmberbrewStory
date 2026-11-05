@@ -10,7 +10,7 @@ Contradictions are recorded here with their resolution rather than silently eras
 
 **Status:** **RESOLVED.** Earlier descriptions of Lonebrew as younger are superseded. They are preserved here solely to explain why older drafts disagree; no longer flag the order as open in canon or topic pages.
 
-**Related identity clarification:** Lonebrew's given name is **Loni Amberbrew**. **Arandor Amberbrew** is Buxbrew's father and a hunter who is often away. **Morkah (sometimes transcribed “Murka”)** remains her grandfather, not her father.
+**Related identity clarification:** Lonebrew's given name is **Loni Amberbrew**. **Arandor Amberbrew** is Buxbrew's father and a paladin who is often away. **Morkah (sometimes transcribed “Murka”)** is Arandor's father and therefore her paternal grandfather.
 
 ## Clarified — blacksmithing in an earlier incarnation
 
@@ -18,10 +18,16 @@ Contradictions are recorded here with their resolution rather than silently eras
 
 ## Open — exact family lineage and chronology
 
-- Whether grandfather **Morkah** is related through Bess or Arandor has not been stated.
-- The exact reasons for father **Arandor's** frequent absences and his hunting routes are not established.
+- **Resolved 2026-11-05:** Morkah is **Arandor's father**, not an ancestor on an unspecified side.
+- The exact reasons for father **Arandor's** frequent absences and his travel routes are not established.
 - Exact dates, birth years, possible other siblings and detailed family timelines are not fixed.
 - Some early adventure accounts are dramatized; they should not be listed as verified gameplay without source confirmation.
+
+## Resolved — current classes and reference designs (2026-11-05)
+
+**Creative's current character sheets:** Arandor is a **paladin** (previously documented hunter); Loni is a **rogue** (previously documented hunter without a pet). Arandor is **Morkah's son**. The older hunter references and unresolved paternal-line wording are superseded, not evidence that an in-world conversion episode occurred. No date, order, motive or training history for either class change was provided.
+
+Loni's latest visual reference shows **short dark charcoal hair, amber-gold eyes and dark fitted rogue clothing**, superseding the older amber-hair design. Arandor's screenshot shows a broad-shouldered pale dwarf with a long bound copper-brown beard and hammer. Visual references capture appearances at the time shown, not permanent gear.
 
 ## Visual description consistency
 
