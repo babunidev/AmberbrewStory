@@ -14,7 +14,7 @@ Contradictions are recorded here with their resolution rather than silently eras
 
 ## Resolved — Loni's rogue identity (2026-11-05)
 
-**Current canon:** Loni Amberbrew is a **rogue**, not a hunter. All earlier petless-hunter references are superseded. Her father Arandor remains a hunter.
+**Current canon:** Loni Amberbrew is a **rogue**, not a hunter. All earlier petless-hunter references are superseded. Her father Arandor is now a paladin.
 
 The new in-game character reference shows Loni with **short charcoal-dark hair** and **golden-amber eyes**, replacing the older amber-hair description. Her reserved, independent temperament and closeness with Jasmine remain established. Her rogue specialization, training and whether hunting ever formed part of her in-world history have **not** been confirmed. This class-fantasy update is not a dated in-world event.
 
@@ -22,7 +22,7 @@ The new in-game character reference shows Loni with **short charcoal-dark hair**
 
 **Status:** Settled. Buxbrew's blacksmithing was in an actual **earlier life/incarnation**, not an earlier occupation in her current lifetime. Blackguard was commissioned from a skilled weaponsmith.
 
-## Open — exact family lineage and chronology
+## Open — exact remaining family chronology
 
 - **Resolved 2026-11-05:** Morkah is **Arandor's father**, not an ancestor on an unspecified side.
 - The exact reasons for father **Arandor's** frequent absences and his travel routes are not established.
