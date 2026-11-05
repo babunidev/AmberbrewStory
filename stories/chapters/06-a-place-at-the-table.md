@@ -34,11 +34,11 @@ When Loni's name came up, he looked toward the doorway.
 
 He nodded, pleased to hear it.
 
-The family carried its own small absences without making every one of them a grievance. Loni kept her own counsel and came and went without much explanation. Arandor followed the hunter's life along routes that were seldom known in advance. Bess kept the busy warmth of the house; Jasmine came and went with her own work and adventures. Around the table, their movements met for a little while.
+The family carried its own small absences without making every one of them a grievance. Loni kept her own counsel and came and went without much explanation. Arandor, a paladin, travelled on routes that were seldom known in advance. What called him away remained his own business. Bess kept the busy warmth of the house; Jasmine came and went with her own work and adventures. Around the table, their movements met for a little while.
 
 Morkah arrived after they had begun to eat. He paused when he saw the pack beside the wall, then pulled out a chair.
 
-"Home, are you?"
+"Home, are you?" his father asked.
 
 "For now."
 
@@ -56,4 +56,4 @@ There would be time for stories if he wished to tell them. For tonight, there wa
 
 ---
 
-**Continuity and attribution:** AI-assisted unplaced domestic scene. Arandor is the established father and frequently absent hunter; Bess, Jasmine and Morkah are established family members. The particular return, dialogue, mended sleeve and daily activities are literary invention. His routes, reasons for absence and character history remain unconfirmed.
+**Continuity and attribution:** AI-assisted unplaced domestic scene. Arandor is the established father, Morkah's son, and a frequently absent paladin; Bess, Jasmine and Morkah are established family members. The particular return, dialogue, mended sleeve and daily activities are literary invention. His routes, reasons for absence and character history remain unconfirmed.
