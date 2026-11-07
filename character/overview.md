@@ -8,7 +8,7 @@ Her home is the **Amberbrew Brewery and Tavern**, concealed beneath the Bronze K
 
 Buxbrew is energetic, stubborn, forgiving, hospitable and proudly physical. She bows in greeting, roars in celebration, dances on tables and treats mistakes as problems to solve instead of reasons to despair. Her motto is **“We roar, we laugh, we fight.”**
 
-Blacksmithing has fascinated her since childhood. Growing up in Ironforge, she felt a strong connection to the Great Forge and the smiths who worked there; only recently has she taken up the craft herself. Cooking, fishing and first aid remain among her other skills. In battle she has grown from a swaggering brawler into a disciplined **plate-armored warrior and protector**, carrying **Blackguard** and a shield. An **armored brown boar** carries her into further adventures. She has close ties to the **Roar** guild.
+Blacksmithing has fascinated her since childhood. Growing up in Ironforge, she felt a strong connection to the Great Forge and the smiths who worked there; only recently has she taken up the craft herself. Cooking, fishing and first aid remain among her other skills. She has only recently begun adventuring beyond Ironforge in early adulthood. In battle she is a close-range **brawler who uses fist weapons only**; the later sword-and-shield tank progression belongs to a superseded version of her adventure. She has close ties to the **Roar** guild.
 
 ## Explore further
 
