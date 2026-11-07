@@ -4,7 +4,7 @@ _Status: Contains recorded near-term ambitions and wider established commitments
 
 ## Ongoing commitments
 
-Buxbrew seeks adventure with **Roar**, protects companions, has recently taken up **blacksmithing** and enjoys living among family and friends.
+Jasmine is at the beginning of her new adventuring journey, having only recently left Ironforge. She protects those around her, fights as a fist-weapon brawler, has recently taken up **blacksmithing** and enjoys living among family and friends.
 
 ## Recorded equipment and training goals
 
