@@ -2,10 +2,6 @@
 
 Only established ordering is recorded here. Uncertain dates, narrative reconstructions and gameplay milestones are explicitly marked.
 
-## Earlier incarnation — undated
-
-- Buxbrew practiced **blacksmithing in an earlier life/incarnation**. This is not a former job in the present lifetime.
-
 ## Amberbrew family history — historical background, exact dates unset
 
 - In the family's **original fan lore**, Morkah rejected the path followed by Thaurissan and his followers and helped separate the Amberbrews from it.
@@ -16,6 +12,8 @@ Only established ordering is recorded here. Uncertain dates, narrative reconstru
 ## Buxbrew's present-life upbringing
 
 - Born Jasmine Amberbrew, she grows up in the orbit of the Amberbrew family, its brewery, kitchen, guests and traditions.
+- Growing up in Ironforge, she develops a strong childhood fascination with blacksmithing and the Great Forge.
+- Only recently, in her present life, does she take up blacksmithing herself. The exact date and details of her training are not established.
 - She is **younger than her sister Loni (“Lonebrew”) Amberbrew**.
 - Her mother is Bess “Bosom Bess” Amberbrew; her father, Arandor, is often absent on his travels; his current class is paladin. Her older sister Loni is now a rogue. Neither class change has a confirmed in-world date or explanation.
 - Patrons' description of her as “that buxom lass and her wicked brew” develops into the name **Buxbrew**. The exact moment is not dated.
@@ -26,7 +24,7 @@ Only established ordering is recorded here. Uncertain dates, narrative reconstru
 - Grows into a disciplined plate-armored sword-and-shield tank.
 - Learns of **Blackguard** from the Thorium Brotherhood, gathers the materials and has a skilled weaponsmith make it.
 - Has strong ties to **Roar/ROAR**, which she has been described as founding.
-- Pursues **Alchemy and Herbalism**, together with Cooking, Fishing and First Aid.
+- Takes up **Blacksmithing**, a craft that fascinated her throughout childhood. Cooking, Fishing and First Aid remain among her other established skills.
 
 ## Adventure and equipment snapshots — not precisely dated
 
