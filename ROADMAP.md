@@ -23,6 +23,12 @@ This is an editorial and provenance roadmap, not an in-world plot outline. It do
 - [x] Reconcile Loni's current rogue class and character-sheet appearance with family records and affected chapters.
 - [x] Preserve the earlier hunter portrayal as superseded continuity history without inventing an explanation or chronology.
 
+## Character continuity update — 2026-11-07
+
+- [x] Replace Jasmine's former Alchemy and Herbalism direction with present-life Blacksmithing.
+- [x] Establish her childhood fascination with the Great Forge in Ironforge and her recent decision to take up the craft herself.
+- [x] Reconcile character canon, profession records, timeline, continuity notes, affected story scenes and project documentation while preserving the commissioned origin of Blackguard.
+
 ## Ongoing editorial care
 
 - [ ] Review each story's incidental invention before treating it as a permanent in-world fact.
