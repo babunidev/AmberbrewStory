@@ -18,7 +18,7 @@ In **original Amberbrew fan lore**, Morkah broke with Thaurissan's destructive d
 
 ## Fighting and calling
 
-Buxbrew has **always** had a protector's instinct. Her fighting was once more rowdy and brawling, but matured into plate armor and disciplined sword-and-shield defense.
+Jasmine has a protector's instinct, but at the beginning of her present adventure she fights as a close-range brawler, using fist weapons only. Her current journey has only just begun beyond Ironforge.
 
 Blacksmithing was a strong childhood fascination. Growing up in Ironforge, she felt closely connected to the Great Forge and the craft practised there. She was very interested in the smiths and their work throughout her childhood. Only recently has she taken up blacksmithing herself, moving from a longstanding fascination to learning the craft with her own hands. She is particularly interested in making armor and useful equipment.
 
