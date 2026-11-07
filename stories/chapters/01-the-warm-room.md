@@ -10,15 +10,15 @@ Bess Amberbrew had spent much of the afternoon among the ovens. Now she moved th
 
 A few heads turned, though no one seemed surprised. Bess could make herself heard through the noise of a full room without sounding as if she were calling for anyone in particular.
 
-Her daughter was at the long worktable, sorting herbs by the light of a low lamp. Jasmine had taken off her outer coat and rolled her sleeves back. Her copper-beaded braids kept falling forward when she bent over the leaves. Beside the bundles lay a narrow knife, several small jars and a piece of paper marked with measurements she had amended twice.
+Her daughter was at the long worktable, sleeves rolled back, examining a small iron fitting she had brought home from the forge. Jasmine turned it over in her hands, studying the join and the marks left by the tools. Her copper-beaded braids kept falling forward whenever she leaned closer. A folded cloth lay beneath the piece to protect the old wood from its rough edges.
 
-She separated a brittle stem from the others and held it against the light. The scent was clean and slightly bitter. She rubbed the leaf between two fingers and set it aside, then reached for a fresh sprig. There was no reason to finish quickly. Most of the mixtures she wanted to try could wait until morning.
+She had only recently begun working metal herself, but the craft was hardly new to her. The Great Forge had been part of the world she grew up in, and the smiths there had held her attention for as long as she could remember. Now she was learning what the work felt like in her own hands.
 
 A mug appeared beside her elbow.
 
-"Working still?" Bess asked.
+"At it again?" Bess asked.
 
-"Only sorting."
+Jasmine looked up. "Just looking."
 
 "Then you're not too busy to drink."
 
@@ -34,7 +34,7 @@ Morkah sat where the firelight reached the edge of his table. A cup rested near 
 
 The men resumed their argument without his assistance.
 
-Jasmine carried her sorted herbs to the shelves. The old wood had darkened where generations of wet hands had touched it; beneath the jars lay a dusting of flour that no one seemed able to keep away. She found a place for the last bundle and turned to discover that somebody had begun beating time with a spoon against a mug.
+Jasmine set the iron fitting safely aside and wiped her hands. The old wood had darkened where generations of wet hands had touched it; beneath the shelves lay a dusting of flour that no one seemed able to keep away. She turned to discover that somebody had begun beating time with a spoon against a mug.
 
 A second rhythm joined it, then the tapping of boots beneath the tables. It was not quite a song yet. Someone tried to sing anyway.
 
@@ -56,4 +56,4 @@ Morkah lifted his cup. Bess called for a clean plate. Jasmine took the last piec
 
 ---
 
-**Continuity and attribution:** AI-assisted original domestic scene based on the established brewery, Bess's hospitality, Jasmine's herbs and cooking, her table dancing, Morkah, Rhapsody Malt and boar ribs. The evening, guest, dialogue and specific tasks are fictional details; they are not established gameplay or permanent family canon. Timeline unplaced.
+**Continuity and attribution:** AI-assisted original domestic scene based on the established brewery, Bess's hospitality, Jasmine's childhood fascination with blacksmithing and recent decision to practise it, her table dancing, Morkah, Rhapsody Malt and boar ribs. The evening, guest, dialogue and specific tasks are fictional details; they are not established gameplay or permanent family canon. Timeline unplaced.
