@@ -12,7 +12,7 @@ Arandor set down his pack and smiled.
 
 There were plenty of things they might have said about his absence, but the kitchen was busy and supper needed attention. Bess pointed him toward the basin. He washed his hands, shook out the cloth and hung it where she expected to find it. They worked around each other with the ease of people who knew where the others' hands would be.
 
-Jasmine came through carrying a small bundle of fresh herbs. At the sight of her father, she stopped so suddenly that a few stems slipped loose onto the floor. She set the rest on the table and went to embrace him.
+Jasmine came through carrying a bowl from the kitchen. At the sight of her father, she stopped so suddenly that she nearly set it down crookedly. She placed it on the table and went to embrace him.
 
 "Greetings!"
 
@@ -24,7 +24,7 @@ Bess made room at the table as though Arandor had only been gone since morning.
 
 He sat with his pack within sight and ate the first piece of bread slowly. His hands had small marks across the knuckles, and one sleeve had been mended with thread a little darker than the cloth. Nobody asked about the repair. It was not that they were uninterested. The road had brought him home, and that was enough for the present evening.
 
-Jasmine brought another bowl from the kitchen and settled opposite him. She spoke about herbs she had been drying and the difficulty of keeping the kitchen shelves tidy when guests wanted to come behind the counter. Bess listened while lifting the pot from the fire. Arandor answered a few questions about the weather along the road, but said little about where he had travelled.
+Jasmine brought another bowl from the kitchen and settled opposite him. She spoke about the forge and the things she hoped to learn to make now that she had taken up blacksmithing herself, then complained about the difficulty of keeping the kitchen shelves tidy when guests wanted to come behind the counter. Bess listened while lifting the pot from the fire. Arandor answered a few questions about the weather along the road, but said little about where he had travelled.
 
 When Loni's name came up, he looked toward the doorway.
 
