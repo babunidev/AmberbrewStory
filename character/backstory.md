@@ -18,9 +18,11 @@ In **original Amberbrew fan lore**, Morkah broke with Thaurissan's destructive d
 
 ## Fighting and calling
 
-Buxbrew has **always** had a protector's instinct. Her fighting was once more rowdy and brawling, but matured into plate armor and disciplined sword-and-shield defense. Her present-life passions are **Alchemy and Herbalism**, along with cooking, fishing and first aid.
+Buxbrew has **always** had a protector's instinct. Her fighting was once more rowdy and brawling, but matured into plate armor and disciplined sword-and-shield defense.
 
-**Blacksmithing belongs to a literal earlier life/incarnation**, not a youthful apprenticeship or a discarded occupation in this life. The mechanics of reincarnation are not established.
+Blacksmithing was a strong childhood fascination. Growing up in Ironforge, she felt closely connected to the Great Forge and the craft practised there. She was very interested in the smiths and their work throughout her childhood. Only recently has she taken up blacksmithing herself, moving from a longstanding fascination to learning the craft with her own hands. She is particularly interested in making armor and useful equipment.
+
+Cooking, fishing and first aid remain among her other established skills. The exact date she began smithing, her training history and her second profession have not been established.
 
 ## Adventures and unresolved chronology
 
