@@ -33,7 +33,7 @@ The project is **Amberbrew Story** (repository: AmberbrewStory), formerly Buxbre
 - **Loni “Lonebrew” Amberbrew is older; Buxbrew is younger.** Loni is now a **rogue**, not a hunter; older petless-hunter descriptions are superseded.
 - **Arandor Amberbrew** is their father and a paladin; **Morkah is Arandor's father** and the sisters' paternal grandfather. **Loni is a rogue**, not a hunter. Earlier hunter descriptions of either character are superseded. Their class-change chronology is unconfirmed.
 - Jasmine grew up in Ironforge with a strong childhood fascination with blacksmithing and the Great Forge; she has recently taken up the craft herself. Do not describe it as belonging to an earlier incarnation.
-- Buxbrew commissioned Blackguard from a weaponsmith; she did not forge it herself. Her present-day blacksmithing does not change that established history.
+- Buxbrew commissioned Blackguard from a weaponsmith; she did not forge it herself. Her present-day blacksmithing does not change that established history. Her present-day blacksmithing does not change that established history.
 - The family history and hidden tavern are **fan-created lore**, not official Blizzard history.
 
 ## Mandatory Amberbrew secrecy safeguard
