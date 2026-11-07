@@ -18,9 +18,13 @@ Contradictions are recorded here with their resolution rather than silently eras
 
 The new in-game character reference shows Loni with **short charcoal-dark hair** and **golden-amber eyes**, replacing the older amber-hair description. Her reserved, independent temperament and closeness with Jasmine remain established. Her rogue specialization, training and whether hunting ever formed part of her in-world history have **not** been confirmed. This class-fantasy update is not a dated in-world event.
 
-## Clarified — blacksmithing in an earlier incarnation
+## Superseded — blacksmithing in an earlier incarnation (2026-11-07)
 
-**Status:** Settled. Buxbrew's blacksmithing was in an actual **earlier life/incarnation**, not an earlier occupation in her current lifetime. Blackguard was commissioned from a skilled weaponsmith.
+**Former account:** Earlier notes placed Buxbrew's blacksmithing in an actual earlier life/incarnation and described Alchemy and Herbalism as her present-life professions.
+
+**Creative's revised direction:** In her present life, Jasmine grew up in Ironforge with a strong childhood fascination with blacksmithing and the Great Forge. She has recently taken up the craft herself and is particularly interested in making armor and useful equipment. Blacksmithing is her current profession; her second profession has not been established. The earlier-incarnation explanation is no longer current canon.
+
+**Unchanged detail:** Blackguard was commissioned from a skilled weaponsmith; Jasmine did not forge it herself.
 
 ## Open — exact remaining family chronology
 
