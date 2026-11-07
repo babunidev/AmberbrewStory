@@ -18,19 +18,17 @@ Only established ordering is recorded here. Uncertain dates, narrative reconstru
 - Her mother is Bess “Bosom Bess” Amberbrew; her father, Arandor, is often absent on his travels; his current class is paladin. Her older sister Loni is now a rogue. Neither class change has a confirmed in-world date or explanation.
 - Patrons' description of her as “that buxom lass and her wicked brew” develops into the name **Buxbrew**. The exact moment is not dated.
 
-## Her development as a warrior and adventurer
+## Her present beginning as an adventurer
 
-- Protective in outlook even when her fighting was more brawling and freewheeling.
-- Grows into a disciplined plate-armored sword-and-shield tank.
-- Learns of **Blackguard** from the Thorium Brotherhood, gathers the materials and has a skilled weaponsmith make it.
-- Has strong ties to **Roar/ROAR**, which she has been described as founding.
-- Takes up **Blacksmithing**, a craft that fascinated her throughout childhood. Cooking, Fishing and First Aid remain among her other established skills.
+- In early adulthood, Jasmine has only recently begun adventuring beyond Ironforge and has started a fresh leveling journey.
+- Her fighting style is that of a brawler: she uses **fist weapons only**.
+- She has a protective instinct, but her current approach is direct and physical rather than a developed tanking style.
+- She has recently taken up **Blacksmithing**, a craft that fascinated her throughout childhood. Cooking, Fishing and First Aid remain among her other established skills.
+- She has ties to **Roar/ROAR**, which she has been described as founding; the timing of those ties in relation to this new starting point is not established.
 
-## Adventure and equipment snapshots — not precisely dated
+## Superseded later-adventure material
 
-- A developed early-adventure narrative travels from the hidden Ironforge home through Dun Morogh toward Thelsamar and Loch Modan; it requires narrative/source labeling before entering the journal as factual gameplay.
-- Later accounts describe Blackguard, her shield, an armored brown boar and increasingly strong equipment.
-- At a particular point she was saving gold for expensive weapon-skill training and sought rings and a trinket to complete her epic gear.
+Earlier records described Blackguard, a shield, plate-armored tanking, an armored brown boar and epic equipment milestones. Those later-stage details have been removed from Jasmine's active continuity following the creative's reset of her adventure to its early beginning. They should not be reintroduced unless the creative establishes them again.
 
 ## Current character identities — confirmed 2026-11-05, in-world change dates unknown
 
