@@ -32,3 +32,8 @@ The human creative requested **documentation only**. AI reviewed the supplied *R
 ## Story reconstruction — 2026-11-01
 
 The creative subsequently requested an actual writing pass, replacing the earlier temporary documentation-only instruction. AI drafted seven chapters using earlier conversation summaries and existing repository canon as source material, then recorded invented connective detail in each chapter's continuity note. The chapters are **AI-written drafts based on human-led characters, events and writing direction**, not verbatim recovered manuscripts. Any later acceptance of a detail as permanent canon remains the creative's decision.
+
+
+## Jasmine's blacksmithing direction — 2026-11-07
+
+The creative revised Jasmine's present-day profession direction: blacksmithing is her current craft, rooted in a strong childhood fascination with the Great Forge in Ironforge, and she has recently begun practising it herself. This supersedes the earlier-incarnation blacksmithing account and the Alchemy and Herbalism profession direction. AI reviewed the linked repository records, revised affected character and story material, and updated the decision and development records. The second profession and smithing training details remain open.
