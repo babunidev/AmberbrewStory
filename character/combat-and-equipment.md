@@ -1,30 +1,19 @@
 # Combat and equipment
 
-_Status: Established core equipment; some details are historical snapshots._
+_Status: Current early-adventure style._
 
-## Fighting role
+## Fighting style
 
-Buxbrew is a **warrior, protector and tank**. She was protective even when she fought more like a brawler. Her newer style favors **precision, plate armor, sword and shield**, and holding danger away from companions.
+Jasmine is a **brawler**. She fights at close range with physicality, instinct and stubborn determination. Her current style is direct and energetic, not yet shaped into a formal tanking discipline.
 
-## Blackguard
+## Weapons
 
-Having heard through the **Thorium Brotherhood** that **Blackguard** was an excellent weapon, Buxbrew **collected its materials and commissioned a skilled weaponsmith** to craft it. She did not personally forge Blackguard in her current life.
+She uses **fist weapons only**. This is her sole weapon style at the beginning of her new adventuring journey. Do not give her swords, shields, axes, maces, ranged weapons or a later weapon progression unless the creative establishes a change.
 
-## Shield and other gear
+## Present stage
 
-- **Shield:** Her character account includes a **self-made, spiked shield**.
-- **Armor:** Heavy plate; **Battlegear of Heroism** appears in earlier narrative/equipment descriptions.
-- **Drinking gear:** A **Lion Horn** drinking horn appears in the character's established imagery.
-- **Mount:** An **armored brown boar**.
+In early adulthood, she has only recently begun adventuring beyond Ironforge and has started a fresh leveling journey. Her equipment and combat experience should reflect an adventurer at the beginning of that road, not the later high-level gear and milestones described in older drafts.
 
-Not every equipment item must be assumed equipped simultaneously; narrative details and dated gear snapshots can change.
-
-## At a documented point in her adventures
-
-Buxbrew was satisfied with a largely **epic equipment set**, while still searching for **rings and a trinket**. She was also **saving gold for weapon-skill training**, whose trainer demanded a considerable sum. These are recorded priorities at that time, not permanent character conditions.
-
-## Combat characterization
-
-She can be fierce, playful and physically exuberant, but her later discipline is deliberate. Do not rewrite her earlier brawling as an earlier abandonment of the protector role.
+Blackguard, the commissioned weapon, the spiked shield, plate-armored tanking, epic equipment and the armored brown boar have been removed from her active continuity by the creative's reset. Do not reintroduce them as current or established future facts.
 
 See [timeline](../TIMELINE.md) and [professions](professions-and-skills.md).
