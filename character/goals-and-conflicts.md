@@ -4,7 +4,7 @@ _Status: Contains recorded near-term ambitions and wider established commitments
 
 ## Ongoing commitments
 
-Buxbrew seeks adventure with **Roar**, protects companions, improves her **Alchemy and Herbalism** and enjoys living among family and friends.
+Buxbrew seeks adventure with **Roar**, protects companions, has recently taken up **blacksmithing** and enjoys living among family and friends.
 
 ## Recorded equipment and training goals
 
