@@ -48,10 +48,11 @@ See [the family](family/amberbrew-family.md), [Arandor](family/arandor-amberbrew
 
 ## Professions and abilities
 
-- **Current primary professions:** Alchemy and Herbalism.
+- **Current primary profession:** Blacksmithing; she has recently taken up the craft herself.
+- **Childhood connection:** Growing up in Ironforge, she had a strong and longstanding fascination with blacksmithing and the Great Forge.
 - **Additional skills:** Cooking, Fishing and First Aid.
-- Cooking and brewing are rooted in family upbringing; experimentation with herbs and recipes suits her.
-- **Blacksmithing was practiced in an earlier life/incarnation**, never as a previous career in her present life.
+- Cooking and brewing are rooted in family upbringing.
+- Her second profession, exact skill level, recipes and smithing specialization have not been established.
 
 ## Combat and equipment
 
