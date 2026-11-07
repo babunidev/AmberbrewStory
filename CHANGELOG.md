@@ -1,5 +1,15 @@
 # Change history
 
+## 2026-11-07 — Jasmine's present-life blacksmithing
+
+- Replaced Alchemy and Herbalism as Jasmine's current profession direction with **Blacksmithing**.
+- Established her strong childhood fascination with the Great Forge and smithing while growing up in Ironforge, and her recent decision to take up the craft herself.
+- Removed the superseded earlier-incarnation explanation from current canon; retained it only as a clearly marked superseded account in continuity notes.
+- Reconciled the character overview, backstory, profession and skills page, goals, canon, timeline, repository instructions and decision records.
+- Preserved her established cooking, fishing and First Aid skills and the fact that Blackguard was commissioned from a weaponsmith. Her second profession and smithing training details remain unspecified.
+
+
+
 ## 2026-11-05 — Paladin, rogue and paternal-line continuity
 
 - Reconciled Arandor's current **paladin** identity, Loni's **rogue** identity and Morkah as **Arandor's father** in the character canon, family and lore pages, timeline and repository guidance.
