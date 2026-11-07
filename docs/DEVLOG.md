@@ -39,3 +39,8 @@ With a new in-game character sheet for Loni, I changed her class fantasy from hu
 ## 2026-11-05 — Updating the family's present-day identities
 
 With the latest character sheets, my family archive needed another continuity pass: Arandor is now a paladin, Loni is a rogue, and Morkah is Arandor's father. Earlier hunter descriptions no longer represent their current identities. At my request, AI reconciled reference pages and the two affected domestic drafts, preserving the characters' relationships and the stories' invented-scene status. Neither character has been given an unconfirmed class-change event or affiliation.
+
+
+## 2026-11-07 — Bringing Jasmine back to the forge
+
+The profession notes no longer reflected how I wanted Jasmine to feel in the present life. Growing up in Ironforge, she had always been very interested in blacksmithing and the Great Forge; recently, she has begun practising the craft herself. I chose to replace the former Alchemy and Herbalism direction and remove the earlier-incarnation explanation for smithing. AI reviewed the connected character records and revised the canon, timeline, profession notes and related documentation. Blackguard remains a weapon she commissioned from a skilled weaponsmith, and her second profession is still undecided.
