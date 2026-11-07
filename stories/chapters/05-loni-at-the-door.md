@@ -6,7 +6,7 @@ Loni stood on the threshold with her pack in one hand. Her short charcoal-dark h
 
 Her sister saw her from the kitchen doorway.
 
-For a moment Jasmine stayed where she was, holding a bowl of washed herbs. Then she set it aside and crossed the room, avoiding a chair that someone had left half in the passage.
+For a moment Jasmine stayed where she was, holding a bowl from the kitchen. Then she set it aside and crossed the room, avoiding a chair that someone had left half in the passage.
 
 "Loni!"
 
