@@ -15,7 +15,7 @@ Buxbrew is a **stout, thickset, physically strong Dark Iron dwarf** with a power
 
 ## Clothing and equipment
 
-Plate armor, **Blackguard** and a shield define her present adventuring appearance. An **armored brown boar** is her mount. Casual tavern scenes need not portray her dressed for battle.
+Her present adventuring appearance belongs to an early-career brawler: practical, relatively modest gear and **fist weapons only**. Do not depict Blackguard, a shield, later plate-armored tank equipment or an armored brown boar as part of her current look. Casual tavern scenes need not portray her dressed for battle.
 
 ## Jewelry and visual references
 
