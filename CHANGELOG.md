@@ -5,7 +5,7 @@
 - Replaced Alchemy and Herbalism as Jasmine's current profession direction with **Blacksmithing**.
 - Established her strong childhood fascination with the Great Forge and smithing while growing up in Ironforge, and her recent decision to take up the craft herself.
 - Removed the superseded earlier-incarnation explanation from current canon; retained it only as a clearly marked superseded account in continuity notes.
-- Reconciled the character overview, backstory, profession and skills page, goals, canon, timeline, repository instructions and decision records.
+- Reconciled the character overview, backstory, profession and skills page, goals, canon, timeline, repository instructions, decision records and affected story scenes.
 - Preserved her established cooking, fishing and First Aid skills and the fact that Blackguard was commissioned from a weaponsmith. Her second profession and smithing training details remain unspecified.
 
 
