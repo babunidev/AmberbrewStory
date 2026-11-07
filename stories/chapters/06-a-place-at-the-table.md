@@ -16,7 +16,7 @@ Jasmine came through carrying a bowl from the kitchen. At the sight of her fathe
 
 "Greetings!"
 
-He held her close for a moment. Then she bent to retrieve the fallen herbs while he examined the kitchen, its orderly disorder and the dishes waiting beside the hearth.
+He held her close for a moment. Then she steadied the bowl while he examined the kitchen, its orderly disorder and the dishes waiting beside the hearth.
 
 Outside, guests were arriving for the evening. Voices drifted through the doorway; one of them belonged to a regular who always laughed before he finished his own stories. Somewhere nearer the kettles, a heavy lid was set into place.
 
