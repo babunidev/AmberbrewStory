@@ -57,12 +57,10 @@ See [the family](family/amberbrew-family.md), [Arandor](family/arandor-amberbrew
 ## Combat and equipment
 
 - **Role:** Protector, warrior and tank; she has always sought to protect people.
-- **Current style:** Plate armor, sword and shield; more disciplined than her earlier brawling style.
-- **Weapon:** Blackguard, made by a skilled weaponsmith from materials Buxbrew collected after hearing of the weapon through the Thorium Brotherhood.
-- **Shield:** A personally made, spiked shield in established character accounts.
-- **Other character equipment:** Battlegear of Heroism (as described in earlier narrative references); Lion Horn drinking horn.
-- **Mount:** Armored brown boar.
-- At one documented point, she was pleased with her largely epic equipment, saving for weapon-skill training and searching for rings and a trinket. These are **time-bound goals**, not permanent equipment status.
+- **Current style:** A close-range, physical brawler who fights using **fist weapons only**. Her present style is direct, energetic and scrappy rather than a later sword-and-shield or tanking style.
+- **Weapons:** Fist weapons only. No sword, shield or other weapon type is part of her current adventuring equipment.
+- Her current adventure is at its beginning: she has only recently left Ironforge to start travelling and gaining experience beyond the city.
+- Later equipment and progression accounts, including Blackguard, a shield, plate-armored tanking, an armored brown boar and epic gear milestones, are superseded by this reset and are not part of her current character state.
 
 ## Motto
 
