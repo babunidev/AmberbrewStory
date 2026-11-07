@@ -35,7 +35,7 @@ This file records **creative decisions**, not fictional scenes or every suggesti
 
 - **Loni “Lonebrew” Amberbrew is the older sister; Jasmine “Buxbrew” Amberbrew is younger.** Earlier opposite wording is superseded.
 - **Arandor** is the father, now a paladin; **Morkah** is Arandor's father and the sisters' paternal grandfather. **Loni** is now a rogue. Earlier hunter descriptions are superseded.
-- Buxbrew's blacksmithing belongs to an actual **earlier incarnation**, not a former profession in her current lifetime.
+- Jasmine's blacksmithing is part of her present life, rooted in a strong childhood fascination with the Great Forge in Ironforge; see DEC-20 below.
 - The hidden Amberbrew family and its history are **fan-created lore**, not official Blizzard canon.
 
 These are existing character-continuity decisions, not new additions inferred from the ten-question discussion. For the full factual index, use [CANON.md](../CANON.md).
@@ -66,3 +66,10 @@ These are existing character-continuity decisions, not new additions inferred fr
 **DEC-18 — Loni Amberbrew is a rogue.** The creative supplied an in-game character reference and explicitly replaced Loni's earlier hunter class fantasy with **rogue**. The current dark-haired visual reference also supersedes her older amber-hair portrayal. Maintain her older-sister relationship, introverted temperament and affectionate bond with Jasmine. Do not infer a rogue specialization, criminal occupation, class-change event or new family history from the class label or illustration. AI assisted with continuity and narrative revisions; the creative supplied the change.
 
 **DEC-19 — Arandor's current class and the paternal line.** The creative confirmed on 2026-11-05 that Arandor Amberbrew is now a **paladin** and is **Morkah's son**. The former hunter label and unresolved side of Morkah's descent are superseded. No date or cause of the class change, paladin order, oath or religious affiliation has been confirmed.
+
+
+## Current profession and childhood connection — 2026-11-07
+
+**DEC-20 — Jasmine takes up blacksmithing in her present life.** The creative replaces the earlier profession direction: blacksmithing is Jasmine's current profession, not an occupation from an earlier incarnation. Growing up in Ironforge, she had a very strong childhood fascination with the craft and the Great Forge. She has recently taken up smithing herself and is particularly interested in making armor and useful equipment. Her exact training chronology, skill level and second profession remain unspecified. Cooking, Fishing and First Aid remain among her other established skills. The former Alchemy and Herbalism profession direction is superseded.
+
+**Unchanged equipment history:** Jasmine collected materials and commissioned a skilled weaponsmith to make Blackguard. The new profession decision does not mean she forged that weapon herself.
