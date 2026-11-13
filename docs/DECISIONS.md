@@ -73,3 +73,7 @@ These are existing character-continuity decisions, not new additions inferred fr
 **DEC-20 — Jasmine takes up blacksmithing in her present life.** The creative replaces the earlier profession direction: blacksmithing is Jasmine's current profession, not an occupation from an earlier incarnation. Growing up in Ironforge, she had a very strong childhood fascination with the craft and the Great Forge. She has recently taken up smithing herself and is particularly interested in making armor and useful equipment. Her exact training chronology, skill level and second profession remain unspecified. Cooking, Fishing and First Aid remain among her other established skills. The former Alchemy and Herbalism profession direction is superseded.
 
 **Unchanged equipment history:** Jasmine collected materials and commissioned a skilled weaponsmith to make Blackguard. The new profession decision does not mean she forged that weapon herself.
+
+## 2026-11-13 — Licensing decision
+
+To make the reuse terms explicit, I approved CC BY-NC-ND 4.0 for original authored family stories and lore, excluding Warcraft and third-party material. This applies only to material for which the relevant rights can be granted; third-party contributors keep their own credits and licenses. AI assistance committed the license notice and updated project-facing documentation. This was a legal/documentation change, not a runtime feature or test.
