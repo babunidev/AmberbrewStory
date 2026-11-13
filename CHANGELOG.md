@@ -62,3 +62,8 @@ Repository and documentation changes only; not fictional in-world events.
 - Consolidated previously established character-chat details on appearance, expressive habits, nickname origin, mother Bess, clan concealment, sibling personalities, professions, combat equipment and time-bound adventuring goals.
 - Revised canon, timeline, lore, family and related topic pages; distinguished fictional accounts from confirmed gameplay.
 - Updated agent instructions, writing guidance, roadmap, content map, decision log and development journal.
+
+## 2026-11-13 — License and rights
+
+- Established CC BY-NC-ND 4.0 for original family prose and lore and updated repository documentation to explain the permission boundary.
+- Preserved third-party authorship and external assets' separate terms. No application behavior or runtime verification is claimed.
