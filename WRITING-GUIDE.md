@@ -71,6 +71,6 @@ The Amberbrews' Dark Iron heritage is protected by reliable enchanted pendants a
 
 ## Public-facing project documentation is different
 
-The prose rules above govern **possible future in-world stories**. The development journal, concept and other project-history documents speak from the **human creative's first-person perspective**, while never beginning a sentence with “I” or “My”. They explain the reason for the work, what the creative decided, the AI's actual contribution and the result.
+The prose rules above govern in-world stories. For the development journal, concept, and other out-of-character project documentation, follow [the documentation standard](docs/DOCUMENTATION.md) for first-person author voice throughout project documentation, factual changelogs, and naming the AI tool and verified model for each contribution.
 
 **The earlier documentation-only phase has ended at the creative's explicit request to reconstruct and rewrite the collected Amberbrew stories.** Fiction is now permitted within the boundaries above; it must remain labeled and separate from confirmed biography and gameplay.

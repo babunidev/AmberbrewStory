@@ -1,5 +1,7 @@
 # Human–AI collaboration — Amberbrew Story
 
+Follow [the documentation standard](DOCUMENTATION.md) for first-person author voice throughout project documentation, factual changelogs, and naming the AI tool and verified model for each contribution.
+
 The human **creative** defines the Amberbrew family, chooses the project's identity, approves canon and sets the literary direction. AI can ask clarifying questions, research, organize, draft summaries and make repository changes when directed.
 
 ## Who contributed what
