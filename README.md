@@ -58,3 +58,7 @@ The sibling-order correction is settled: **Loni is older; Buxbrew is younger**. 
 Creative direction, decisions and original Amberbrew lore: **Babuni**, human creative. AI assists with research, organization, drafting and repository changes where documented; AI proposals do not become creative decisions without approval.
 
 World of Warcraft and the official setting belong to Blizzard Entertainment. This is an unofficial, fan-created project and is not affiliated with or endorsed by Blizzard Entertainment.
+
+## License
+
+Original authored family lore and stories are shared under [CC BY-NC-ND 4.0](LICENSE), to the extent Babuni holds the rights. Blizzard's Warcraft world, screenshots and third-party contributions are not included.
