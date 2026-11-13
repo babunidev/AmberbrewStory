@@ -44,3 +44,7 @@ With the latest character sheets, my family archive needed another continuity pa
 ## 2026-11-07 — Bringing Jasmine back to the forge
 
 The profession notes no longer reflected how I wanted Jasmine to feel in the present life. Growing up in Ironforge, she had always been very interested in blacksmithing and the Great Forge; recently, she has begun practising the craft herself. I chose to replace the former Alchemy and Herbalism direction and remove the earlier-incarnation explanation for smithing. AI reviewed the connected character records, revised the canon, timeline, profession notes and related documentation, and adjusted two domestic story drafts whose scenes had relied on her former herbal work. Blackguard remains a weapon she commissioned from a skilled weaponsmith, and her second profession is still undecided.
+
+## 2026-11-13 — Giving the repository clear permissions
+
+Public source alone did not explain what others could reuse, so I approved CC BY-NC-ND 4.0 for original storytelling, without claiming Blizzard's universe. AI assistance added the license and brought the project notes into agreement, without changing how the application runs. Other people's content retains its own terms.
