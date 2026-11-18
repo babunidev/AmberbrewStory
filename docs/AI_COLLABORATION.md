@@ -2,14 +2,16 @@
 
 Follow [the documentation standard](DOCUMENTATION.md) for first-person author voice throughout project documentation, factual changelogs, and naming the AI tool and verified model for each contribution.
 
-The human **creative** defines the Amberbrew family, chooses the project's identity, approves canon and sets the literary direction. AI can ask clarifying questions, research, organize, draft summaries and make repository changes when directed.
+## The Amberbrew family
+
+The family, its canon and its literary direction are mine to shape. When I broadened BuxbrewCharacterStory into Amberbrew Story, Buxbrew remained the initial focus, with room for stories drawn from play and family life.
 
 ## Who contributed what
 
-- **Creative direction:** The creative chose to broaden BuxbrewCharacterStory into **Amberbrew Story**, encompass the family, retain Buxbrew as initial focus and build future material around actual play and family life.
-- **Writing philosophy:** The creative answered ten questions about viewpoint, language, daily life, imagination, warmth, humor, pacing, mystery, Warcraft lore and desired reader experience.
+- **Creative direction:** For the project, I chose to broaden BuxbrewCharacterStory into **Amberbrew Story**, encompass the family, retain Buxbrew as initial focus and build future material around actual play and family life.
+- **Writing philosophy:** To set the writing direction, I answered ten questions about viewpoint, language, daily life, imagination, warmth, humor, pacing, mystery, Warcraft lore and desired reader experience.
 - **AI assistance:** AI supplied the questions, reflected possible interpretations, produced a consolidated draft of writing instructions and subsequently organized the confirmed principles into project documentation.
-- **Editorial authority:** Assistant-invented examples about characters or settings do **not** become confirmed lore unless the creative independently accepts them.
+- **Editorial authority:** Assistant-invented examples about characters or settings do **not** become confirmed lore unless I accept them.
 
 ## Authorship in public documents
 
@@ -28,14 +30,16 @@ Use **creative**, not “creator”, as the role label. Explain an idea, the rea
 
 ## Initial documentation consolidation — 2026-11-01
 
-The human creative requested **documentation only**. AI reviewed the supplied *Refine Storytelling Instructions* discussion and current repository, consolidated the approved vision and principles, and updated the relevant project documents. No fictional chapter, dialogue or new adventure was generated, and character canon was not changed in this pass.
-
+At that stage, I requested **documentation only**. AI reviewed the supplied *Refine Storytelling Instructions* discussion and current repository, consolidated the approved vision and principles, and updated the relevant project documents. No fictional chapter, dialogue or new adventure was generated, and character canon was not changed in this pass.
 
 ## Story reconstruction — 2026-11-01
 
-The creative subsequently requested an actual writing pass, replacing the earlier temporary documentation-only instruction. AI drafted seven chapters using earlier conversation summaries and existing repository canon as source material, then recorded invented connective detail in each chapter's continuity note. The chapters are **AI-written drafts based on human-led characters, events and writing direction**, not verbatim recovered manuscripts. Any later acceptance of a detail as permanent canon remains the creative's decision.
-
+Later, I requested an actual writing pass, replacing the earlier temporary documentation-only instruction. AI drafted seven chapters using earlier conversation summaries and existing repository canon as source material, then recorded invented connective detail in each chapter's continuity note. The chapters are **AI-written drafts based on human-led characters, events and writing direction**, not verbatim recovered manuscripts. Any later acceptance of a detail as permanent canon remains my decision.
 
 ## Jasmine's blacksmithing direction — 2026-11-07
 
-The creative revised Jasmine's present-day profession direction: blacksmithing is her current craft, rooted in a strong childhood fascination with the Great Forge in Ironforge, and she has recently begun practising it herself. This supersedes the earlier-incarnation blacksmithing account and the Alchemy and Herbalism profession direction. AI reviewed the linked repository records, revised affected character and story material, and updated the decision and development records. The second profession and smithing training details remain open.
+For Jasmine, I revised her's present-day profession direction: blacksmithing is her current craft, rooted in a strong childhood fascination with the Great Forge in Ironforge, and she has recently begun practising it herself. This supersedes the earlier-incarnation blacksmithing account and the Alchemy and Herbalism profession direction. AI reviewed the linked repository records, revised affected character and story material, and updated the decision and development records. The second profession and smithing training details remain open.
+
+## 18 November 2026 — Collaboration record review
+
+At my request, Codex (GPT-6) revised this record for first-person voice and checked the attribution against the available repository documentation. Where an earlier AI tool or model is missing from the record, its identity remains unconfirmed.
