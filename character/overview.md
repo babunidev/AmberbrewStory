@@ -19,4 +19,4 @@ Blacksmithing has fascinated her since childhood. Growing up in Ironforge, she f
 - [Professions and skills](professions-and-skills.md)
 - [Backstory](backstory.md)
 - [The Amberbrew family](../family/amberbrew-family.md)
-- [Established canon](../CANON.md)
+- [Established canon](../docs/CANON.md)

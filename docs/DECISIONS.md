@@ -38,7 +38,7 @@ This file records **creative decisions**, not fictional scenes or every suggesti
 - Jasmine's blacksmithing is part of her present life, rooted in a strong childhood fascination with the Great Forge in Ironforge; see DEC-20 below.
 - The hidden Amberbrew family and its history are **fan-created lore**, not official Blizzard canon.
 
-These are existing character-continuity decisions, not new additions inferred from the ten-question discussion. For the full factual index, use [CANON.md](../CANON.md).
+These are existing character-continuity decisions, not new additions inferred from the ten-question discussion. For the full factual index, use [CANON.md](CANON.md).
 
 ## Interpretive cautions and open questions
 

@@ -16,4 +16,4 @@ In early adulthood, she has only recently begun adventuring beyond Ironforge and
 
 Blackguard, the commissioned weapon, the spiked shield, plate-armored tanking, epic equipment and the armored brown boar have been removed from her active continuity by the creative's reset. Do not reintroduce them as current or established future facts.
 
-See [timeline](../TIMELINE.md) and [professions](professions-and-skills.md).
+See [timeline](../docs/TIMELINE.md) and [professions](professions-and-skills.md).

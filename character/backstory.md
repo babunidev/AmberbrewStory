@@ -28,4 +28,4 @@ Cooking, fishing and first aid remain among her other established skills. The ex
 
 A developed early-adventure account follows the hidden route out of Ironforge toward Dun Morogh, Thelsamar and Loch Modan, but its specific encounters must remain **narrative material** unless established as real gameplay or character history. The exact dates, early training chronology and other siblings (if any) are not established.
 
-See [timeline](../TIMELINE.md), [family](../family/amberbrew-family.md), and [continuity notes](../lore/continuity-notes.md).
+See [timeline](../docs/TIMELINE.md), [family](../family/amberbrew-family.md), and [continuity notes](../lore/continuity-notes.md).

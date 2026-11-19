@@ -30,4 +30,4 @@ Morkah is Arandor's father; the broader family tree is not fully defined.
 
 ## Canon boundaries
 
-Use [CANON.md](../CANON.md) for facts, [TIMELINE.md](../TIMELINE.md) for established order and [continuity notes](continuity-notes.md) for remaining ambiguities. A later fictional scene may build on these ideas but cannot independently prove it happened.
+Use [CANON.md](../docs/CANON.md) for facts, [TIMELINE.md](../docs/TIMELINE.md) for established order and [continuity notes](continuity-notes.md) for remaining ambiguities. A later fictional scene may build on these ideas but cannot independently prove it happened.

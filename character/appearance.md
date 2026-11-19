@@ -21,4 +21,4 @@ Her present adventuring appearance belongs to an early-career brawler: practical
 
 Copper beads in her braids are established. **Piercings and earrings have not been conclusively established** in the documented character descriptions. Do not make any particular ear jewelry mandatory without confirmation. Images and visual drafts should be labeled as references, not proof of canon.
 
-See [combat and equipment](combat-and-equipment.md) and [established canon](../CANON.md).
+See [combat and equipment](combat-and-equipment.md) and [established canon](../docs/CANON.md).

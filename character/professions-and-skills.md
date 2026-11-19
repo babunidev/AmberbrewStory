@@ -18,4 +18,4 @@ Her second profession, exact profession level, recipes, specialization, training
 
 Her sword **Blackguard** remains a separate established matter: she collected its materials and commissioned a skilled weaponsmith to make it. She did not forge that weapon herself.
 
-See [canon](../CANON.md), [backstory](backstory.md) and [Amberbrew family traditions](../family/clan-traditions.md).
+See [canon](../docs/CANON.md), [backstory](backstory.md) and [Amberbrew family traditions](../family/clan-traditions.md).

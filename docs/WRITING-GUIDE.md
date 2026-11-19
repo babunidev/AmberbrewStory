@@ -62,8 +62,8 @@ The Amberbrews' Dark Iron heritage is protected by reliable enchanted pendants a
 
 ## Practical boundaries
 
-- Use [CANON.md](CANON.md), [TIMELINE.md](TIMELINE.md) and [continuity notes](lore/continuity-notes.md) for current family facts.
-- Record actual or remembered sessions in [journal/](journal/) with source and uncertainty. Place imagined narratives in [stories/](stories/).
+- Use [CANON.md](CANON.md), [TIMELINE.md](TIMELINE.md) and [continuity notes](../lore/continuity-notes.md) for current family facts.
+- Record actual or remembered sessions in [journal/](../journal/) with source and uncertainty. Place imagined narratives in [stories/](../stories/).
 - Do not turn an assistant's example, draft or invention into accepted canon without a creative decision.
 - Do not force a moral, conflict, climax, revelation, redemption arc or conventional ending.
 - Character dialogue should sound individual and natural, not uniformly theatrical or faux-archaic.
@@ -71,6 +71,6 @@ The Amberbrews' Dark Iron heritage is protected by reliable enchanted pendants a
 
 ## Public-facing project documentation is different
 
-The prose rules above govern in-world stories. For the development journal, concept, and other out-of-character project documentation, follow [the documentation standard](docs/DOCUMENTATION.md) for first-person author voice throughout project documentation, factual changelogs, and naming the AI tool and verified model for each contribution.
+The prose rules above govern in-world stories. For the development journal, concept, and other out-of-character project documentation, follow [the documentation standard](DOCUMENTATION.md) for first-person author voice throughout project documentation, factual changelogs, and naming the AI tool and verified model for each contribution.
 
 **The earlier documentation-only phase has ended at the creative's explicit request to reconstruct and rewrite the collected Amberbrew stories.** Fiction is now permitted within the boundaries above; it must remain labeled and separate from confirmed biography and gameplay.

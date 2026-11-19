@@ -8,4 +8,4 @@ The Amberbrew relatives (**Bess, Arandor, Loni, Morkah and Buxbrew**), the **con
 
 The fictional clan history can refer to established Warcraft peoples and events without asserting that official history contains the Amberbrew family or their involvement. Exact official historical dates and claims require appropriate external sources before being added.
 
-See [Amberbrew original lore](amberbrew-original-lore.md), [continuity](continuity-notes.md) and [canon](../CANON.md).
+See [Amberbrew original lore](amberbrew-original-lore.md), [continuity](continuity-notes.md) and [canon](../docs/CANON.md).

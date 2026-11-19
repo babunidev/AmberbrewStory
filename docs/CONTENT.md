@@ -7,9 +7,9 @@ This is a **family-story and documentation archive**, not a software project. Th
 | File | Record here | Do not put here |
 | --- | --- | --- |
 | [README.md](../README.md) | Family-wide introduction, navigation, current phase | Full stories or long decision histories |
-| [CONCEPT.md](../CONCEPT.md) | The creative's purpose, intended reader experience, world and scope | Prescriptive plot beats or invented character biography |
-| [ROADMAP.md](../ROADMAP.md) | Completed work, next editorial steps, deferred possibilities | Claims that unwritten chapters or unapproved lore already exist |
-| [WRITING-GUIDE.md](../WRITING-GUIDE.md) | Ten agreed literary principles and future writing boundaries | Actual fictional scenes |
+| [CONCEPT.md](CONCEPT.md) | The creative's purpose, intended reader experience, world and scope | Prescriptive plot beats or invented character biography |
+| [ROADMAP.md](ROADMAP.md) | Completed work, next editorial steps, deferred possibilities | Claims that unwritten chapters or unapproved lore already exist |
+| [WRITING-GUIDE.md](WRITING-GUIDE.md) | Ten agreed literary principles and future writing boundaries | Actual fictional scenes |
 | [docs/DECISIONS.md](DECISIONS.md) | Approved choices, rejected alternatives and source/provenance | An unsifted transcript of every AI suggestion |
 | [docs/DEVLOG.md](DEVLOG.md) | Brief human-perspective narrative of meaningful project evolution and AI contribution | Step-by-step tool output or invented memories |
 | [docs/AI_COLLABORATION.md](AI_COLLABORATION.md) | Authorship, approval and attribution process | Unreviewed claims of human or AI action |
@@ -20,8 +20,8 @@ This is a **family-story and documentation archive**, not a software project. Th
 
 | Location | Responsibility |
 | --- | --- |
-| [CANON.md](../CANON.md) | Confirmed character and family facts |
-| [TIMELINE.md](../TIMELINE.md) | Established temporal order and qualified undated snapshots |
+| [CANON.md](CANON.md) | Confirmed character and family facts |
+| [TIMELINE.md](TIMELINE.md) | Established temporal order and qualified undated snapshots |
 | [character/](../character/) | Buxbrew-specific details |
 | [family/](../family/) | The Amberbrew household, Bess, Arandor, Loni, Morkah and family traditions |
 | [relationships/](../relationships/) | Confirmed relationships and guild affiliations |
@@ -46,4 +46,4 @@ This is a **family-story and documentation archive**, not a software project. Th
 
 ## Continuity note
 
-Loni is the older sister and Buxbrew the younger. Arandor is their father and Morkah their grandfather. Those established facts remain in [CANON.md](../CANON.md), not in a new fictional story.
+Loni is the older sister and Buxbrew the younger. Arandor is their father and Morkah their grandfather. Those established facts remain in [CANON.md](CANON.md), not in a new fictional story.

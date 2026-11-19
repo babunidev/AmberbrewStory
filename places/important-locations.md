@@ -15,4 +15,4 @@ _Status: Established homes and referenced narrative locations._
 
 These locations are not thereby proof of dated gameplay encounters. Keep the story and journal distinction clear.
 
-See [backstory](../character/backstory.md), [timeline](../TIMELINE.md) and [journal](../journal/).
+See [backstory](../character/backstory.md), [timeline](../docs/TIMELINE.md) and [journal](../journal/).

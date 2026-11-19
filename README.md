@@ -14,12 +14,12 @@ Gameplay and roleplaying provide actual adventures and the passage of time. Fami
 
 The family's original lore is fan-created and rests on Warcraft's world rather than replacing it. New World of Warcraft Forever developments can change what needs to be checked for continuity.
 
-Read the [project concept](CONCEPT.md) and the [ten storytelling principles](WRITING-GUIDE.md).
+Read the [project concept](docs/CONCEPT.md) and the [ten storytelling principles](docs/WRITING-GUIDE.md).
 
 ## Established reference material
 
-- [Canon](CANON.md) — confirmed character and family facts
-- [Timeline](TIMELINE.md) — established sequence and undated events
+- [Canon](docs/CANON.md) — confirmed character and family facts
+- [Timeline](docs/TIMELINE.md) — established sequence and undated events
 - [Character](character/) — Buxbrew's identity, appearance, personality, equipment and skills
 - [Family](family/) — Bess, Arandor, Loni, Morkah and family traditions
 - [Relationships](relationships/) — Roar guild, allies and rivals
@@ -37,9 +37,9 @@ Read the [project concept](CONCEPT.md) and the [ten storytelling principles](WRI
 
 ## Project documentation
 
-- [Concept](CONCEPT.md)
-- [Roadmap](ROADMAP.md)
-- [Writing and storytelling guide](WRITING-GUIDE.md)
+- [Concept](docs/CONCEPT.md)
+- [Roadmap](docs/ROADMAP.md)
+- [Writing and storytelling guide](docs/WRITING-GUIDE.md)
 - [Decisions](docs/DECISIONS.md)
 - [Development journal](docs/DEVLOG.md)
 - [Content structure](docs/CONTENT.md)

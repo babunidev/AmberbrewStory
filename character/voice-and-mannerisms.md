@@ -27,4 +27,4 @@ Avoid a generic, exaggerated “dwarf accent” as a substitute for personality.
 
 **Motto:** “We roar, we laugh, we fight.”
 
-See [personality](personality.md) and [writing guide](../WRITING-GUIDE.md).
+See [personality](personality.md) and [writing guide](../docs/WRITING-GUIDE.md).

@@ -36,4 +36,4 @@ A character's private thoughts, a relative's history or an unfamiliar object nee
 - Not a replacement for Warcraft canon or a claim that Amberbrew fan lore is official
 - Not a demand to turn every conversation or remembered incident into a mandatory story chapter
 
-The practical storytelling standards are recorded in [WRITING-GUIDE.md](WRITING-GUIDE.md). Confirmed project decisions and their provenance are recorded separately in [docs/DECISIONS.md](docs/DECISIONS.md).
+The practical storytelling standards are recorded in [WRITING-GUIDE.md](WRITING-GUIDE.md). Confirmed project decisions and their provenance are recorded separately in [docs/DECISIONS.md](DECISIONS.md).

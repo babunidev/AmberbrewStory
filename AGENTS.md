@@ -10,22 +10,22 @@ The project is **Amberbrew Story** (repository: AmberbrewStory), formerly Buxbre
 
 ## Read before editing
 
-1. [README.md](README.md) and [CONCEPT.md](CONCEPT.md) for scope and motivation
-2. [docs/DECISIONS.md](docs/DECISIONS.md) and [WRITING-GUIDE.md](WRITING-GUIDE.md) for confirmed directions
-3. [CANON.md](CANON.md), [TIMELINE.md](TIMELINE.md) and [lore/continuity-notes.md](lore/continuity-notes.md) for character facts
+1. [README.md](README.md) and [docs/CONCEPT.md](docs/CONCEPT.md) for scope and motivation
+2. [docs/DECISIONS.md](docs/DECISIONS.md) and [docs/WRITING-GUIDE.md](docs/WRITING-GUIDE.md) for confirmed directions
+3. [docs/CANON.md](docs/CANON.md), [docs/TIMELINE.md](docs/TIMELINE.md) and [lore/continuity-notes.md](lore/continuity-notes.md) for character facts
 4. Relevant topic pages and [docs/CONTENT.md](docs/CONTENT.md)
 5. [docs/AI_COLLABORATION.md](docs/AI_COLLABORATION.md) and [docs/DEVLOG.md](docs/DEVLOG.md)
 
 ## Documentation placement
 
-- **CONCEPT.md:** high-level creative vision, reasons and intended reader experience
-- **ROADMAP.md:** completed and planned documentary/editorial work, not a fictional plot plan
+- **docs/CONCEPT.md:** high-level creative vision, reasons and intended reader experience
+- **docs/ROADMAP.md:** completed and planned documentary/editorial work, not a fictional plot plan
 - **docs/DECISIONS.md:** explicit creative choices, meaningful alternatives and unresolved issues
 - **docs/DEVLOG.md:** brief first-person human development history and AI attribution
-- **WRITING-GUIDE.md:** agreed rules for possible future stories, **not actual fiction**
+- **docs/WRITING-GUIDE.md:** agreed rules for possible future stories, **not actual fiction**
 - **docs/AI_COLLABORATION.md:** human–AI roles and proof of provenance
 - **CHANGELOG.md:** changes actually made in files
-- **CANON.md and topic pages:** only human-confirmed in-world facts; do not edit them merely to record stylistic decisions
+- **docs/CANON.md and topic pages:** only human-confirmed in-world facts; do not edit them merely to record stylistic decisions
 
 ## Established continuity anchors
 
@@ -72,7 +72,7 @@ Describe human direction and AI assistance without confusing them. Do not invent
 - Treat explicit user corrections and decisions as authoritative; assistant examples are **not** canon.
 - Keep established lore, dramatization, gameplay and proposals separate.
 - Record contradictions in lore/continuity-notes.md rather than silently choosing an answer.
-- Update CANON.md and TIMELINE.md only for confirmed in-world facts or supported chronology.
+- Update docs/CANON.md and docs/TIMELINE.md only for confirmed in-world facts or supported chronology.
 - For substantive documentation work, update docs/DECISIONS.md and docs/DEVLOG.md as appropriate and CHANGELOG.md after actual edits.
 - Keep links relative and valid; preserve unrelated history and avoid duplicating long passages.
 - Never claim that a repository change, test or external verification happened until it actually did.
@@ -80,3 +80,7 @@ Describe human direction and AI assistance without confusing them. Do not invent
 ## Repository-local documentation standard
 
 Follow [the documentation standard](docs/DOCUMENTATION.md) for first-person author voice throughout project documentation, factual changelogs, and naming the AI tool and verified model for each contribution. These rules travel with this repository and do not depend on the babuni.dev ChatGPT Project. Preserve all project-specific technical, creative, canon, safety, licensing, and historical rules in this file; follow the linked standard for public first-person narrative, human–AI attribution, concise development journals, decision records, and evidence-based verification. **Babuni** is the human creative; **babuni.dev** is the website/portfolio, not the person. Preserve third-party credits and historical legal notices. References above to a dated “documentation-only audit” describe that past task, not a permanent ban on later authorized implementation.
+
+## Repository layout
+
+The repository root holds only `README.md`, `AGENTS.md`, `LICENSE` and `CHANGELOG.md` (plus any additional license files). All other documentation lives in `docs/`; put new documents there.

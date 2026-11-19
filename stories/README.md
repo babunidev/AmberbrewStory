@@ -22,8 +22,8 @@ These are **unplaced literary scenes**, not a newly confirmed chronological sequ
 
 ## Reading and provenance
 
-- **Established facts:** [CANON.md](../CANON.md), [family/](../family/), [character/](../character/) and [TIMELINE.md](../TIMELINE.md).
-- **Creative direction:** [WRITING-GUIDE.md](../WRITING-GUIDE.md).
+- **Established facts:** [CANON.md](../docs/CANON.md), [family/](../family/), [character/](../character/) and [TIMELINE.md](../docs/TIMELINE.md).
+- **Creative direction:** [WRITING-GUIDE.md](../docs/WRITING-GUIDE.md).
 - **Continuity issues:** [lore/continuity-notes.md](../lore/continuity-notes.md).
 - **Verified play and RP records:** [journal/](../journal/), which remains separate and has not been populated retroactively.
 

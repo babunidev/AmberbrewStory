@@ -20,7 +20,7 @@ This is the index of facts established by the human creative. The topic pages ex
 - **Grandfather:** **Morkah Amberbrew** (also transcribed “Murka” in conversation), an Amberbrew elder associated with the family's break from Thaurissan's course. He is Arandor's father and thus Jasmine and Loni's paternal grandfather.
 - No other relatives or marriages are established merely by this summary.
 
-See [the family](family/amberbrew-family.md), [Arandor](family/arandor-amberbrew.md) and [Loni](family/lonebrew.md).
+See [the family](../family/amberbrew-family.md), [Arandor](../family/arandor-amberbrew.md) and [Loni](../family/lonebrew.md).
 
 ## Home, clan and affiliations
 
