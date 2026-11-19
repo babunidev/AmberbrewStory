@@ -24,8 +24,16 @@ Blacksmithing was a strong childhood fascination. Growing up in Ironforge, she f
 
 Cooking, fishing and first aid remain among her other established skills. The exact date she began smithing, her training history and her second profession have not been established.
 
+## Eldgrim and Amberhearth
+
+During her early travels in **Loch Modan**, Jasmine sat beside a fire near the lake and stared into the flames. There she first experienced **Eldgrim** as a warm, friendly and welcoming voice in her mind. It encouraged her to remain with the fire, to **keep the fire**, and to find others who were similarly drawn to flames, companionship and a welcoming place to gather.
+
+That encounter became the beginning of **Amberhearth**. Jasmine began seeking adventurers who shared those values and later gathered signatures in **Kharanos** to found the fellowship. Eldgrim initiated the idea but stands outside Amberhearth's conventional ranks; Jasmine is the fellowship's founder. **ROAR** is the wider community context around the in-game Alliance roleplaying guild.
+
+In the current period she has been largely on her own, busy adventuring and finding people for Amberhearth. She has not been in contact with her family for some time. This is a practical absence caused by the road and her focus on the fellowship, not an established family conflict; there is therefore no new family development to infer from the silence.
+
 ## Adventures and unresolved chronology
 
-A developed early-adventure account follows the hidden route out of Ironforge toward Dun Morogh, Thelsamar and Loch Modan, but its specific encounters must remain **narrative material** unless established as real gameplay or character history. The exact dates, early training chronology and other siblings (if any) are not established.
+A developed early-adventure account follows the hidden route out of Ironforge toward Dun Morogh, Thelsamar and Loch Modan. The first contact with Eldgrim at a lakeside fire is established character history, while the exact dialogue and incidental details of its literary telling remain narrative material. Other specific encounters in the early-adventure chapters must remain **narrative material** unless established as real gameplay or character history. The exact dates, early training chronology and other siblings (if any) are not established.
 
 See [timeline](../docs/TIMELINE.md), [family](../family/amberbrew-family.md), and [continuity notes](../lore/continuity-notes.md).
