@@ -1,19 +1,27 @@
-# Roar guild
+# ROAR and Amberhearth
 
-_Status: Established affiliation; event history not fully dated._
+_Status: Established community relationship; individual event history remains separately recorded._
 
-Buxbrew is closely connected to the **Roar** guild (also written **ROAR**), has been described as its **founder** and adventures alongside its members. The guild reflects her spirit of camaraderie, roaring celebration and protecting companions.
+**ROAR** is the wider community around Jasmine's current World of Warcraft Forever roleplaying life. **Amberhearth** is the founded in-game Alliance RP guild within that context.
 
-## Character approach to Roar
+Jasmine's connection to Amberhearth began in **Loch Modan**. While staring into a lakeside fire, she first experienced **Eldgrim** as a warm, friendly and welcoming voice in her mind. It encouraged her to stay with and keep the fire and to seek others who were drawn to the same warmth, companionship and quiet pleasure of gathering around flames.
 
-She greets others with bows, a roar and **“Greetings!”** or **“Cheers!”**; mistakes in adventure are reasons to find another solution rather than to cast out companions. Her own motto is:
+Jasmine followed that impulse on the road, speaking with other adventurers and eventually gathering signatures in **Kharanos** to found Amberhearth. Eldgrim initiated the fellowship's idea and remains outside its conventional rank structure; **Jasmine is the founder who gathered the fellowship in the world**.
+
+## Character approach to the fellowship
+
+She greets people with bows, a roar and **“Greetings!”** or **“Cheers!”**. Her instinct is to make room for people rather than ask them to prove themselves. Shared roads, stories, fires, ordinary company and voluntary participation fit naturally with the way she already treats companions.
+
+Her own motto remains:
 
 > “We roar, we laugh, we fight.”
 
-The motto is Buxbrew's established line; do not assume it is a formal guild charter without a separate decision.
+The motto is Jasmine's established line; it is not automatically a formal Amberhearth or ROAR charter statement.
 
-## Open records
+## Current period
 
-Full guild membership, a dated founding account, ranks and specific guild adventures are not documented in this character archive. The wider Roar guild may have separate operating records; only Buxbrew-relevant stories belong here.
+Much of Jasmine's present attention is on adventuring and finding people who fit the fellowship's welcoming spirit. She has been away from her family and out of contact with them for some time while doing this. The distance is practical rather than an established conflict.
 
-See [character overview](../character/overview.md) and [adventure journal](../journal/).
+Guild governance, ranks, event operations and Eldgrim's own character canon are maintained in their respective ROARguild and Eldgrim projects. This archive records only the parts that belong to Jasmine's story.
+
+See [character overview](../character/overview.md), [established canon](../docs/CANON.md) and [adventure journal](../journal/).
