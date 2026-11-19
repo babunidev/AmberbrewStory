@@ -23,7 +23,7 @@ The project is **Amberbrew Story** (repository: AmberbrewStory), formerly Buxbre
 - **docs/DECISIONS.md:** explicit creative choices, meaningful alternatives and unresolved issues
 - **docs/DEVLOG.md:** brief first-person human development history and AI attribution
 - **docs/WRITING-GUIDE.md:** agreed rules for possible future stories, **not actual fiction**
-- **docs/AI_COLLABORATION.md:** human–AI roles and proof of provenance
+- **docs/AI_COLLABORATION.md:** the shared summary of how Babuni works with AI and who did what; no dated entries
 - **CHANGELOG.md:** changes actually made in files
 - **docs/CANON.md and topic pages:** only human-confirmed in-world facts; do not edit them merely to record stylistic decisions
 
@@ -80,6 +80,10 @@ Describe human direction and AI assistance without confusing them. Do not invent
 ## Repository-local documentation standard
 
 Follow [the documentation standard](docs/DOCUMENTATION.md) for first-person author voice throughout project documentation, factual changelogs, and naming the AI tool and verified model for each contribution. These rules travel with this repository and do not depend on the babuni.dev ChatGPT Project. Preserve all project-specific technical, creative, canon, safety, licensing, and historical rules in this file; follow the linked standard for public first-person narrative, human–AI attribution, concise development journals, decision records, and evidence-based verification. **Babuni** is the human creative; **babuni.dev** is the website/portfolio, not the person. Preserve third-party credits and historical legal notices. References above to a dated “documentation-only audit” describe that past task, not a permanent ban on later authorized implementation.
+
+## Human–AI collaboration record
+
+`docs/AI_COLLABORATION.md` is the short record of how Babuni works with AI and who did what, with the same text in all of Babuni's repositories. Do not add dated entries, session notes or per-change attribution to it. Record each contribution in `docs/DEVLOG.md` (what Babuni asked for and what the AI did, naming the tool and model) and in `CHANGELOG.md`. Change `docs/AI_COLLABORATION.md` only to add a row to its "Who did what" table when a new AI tool or model starts contributing to this project, or when Babuni revises the shared text.
 
 ## Repository layout
 
