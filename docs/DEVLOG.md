@@ -48,3 +48,12 @@ The profession notes no longer reflected how I wanted Jasmine to feel in the pre
 ## 2026-11-13 — Giving the repository clear permissions
 
 Public source alone did not explain what others could reuse, so I approved CC BY-NC-ND 4.0 for original storytelling, without claiming Blizzard's universe. AI assistance added the license and brought the project notes into agreement, without changing how the application runs. Other people's content retains its own terms.
+
+
+## 2026-11-19 — The fire that became Amberhearth
+
+Jasmine's early journey already reached Loch Modan, but the reason that journey became connected to Amberhearth had not yet been recorded in her own archive. The missing moment is a small one: while sitting by the lake and staring into a fire, she heard Eldgrim as a warm, welcoming voice in her mind. It asked her to stay with the fire, keep it, and find other people who were drawn to the same kind of warmth and company.
+
+That encounter now gives her current activity a clear place in the story. She has been travelling, meeting adventurers and building the little fellowship that becomes Amberhearth, with the later Kharanos signatures already established in the linked Eldgrim material. Her family has simply been outside the frame for a while because she has been busy on the road; I did not want the silence turned into invented trouble at home.
+
+ChatGPT (GPT-5.6 Sol) reviewed the current AmberbrewStory repository together with the maintained Eldgrim and ROARguild records, drafted **Keep the Fire**, and reconciled Jasmine's canon, timeline, backstory and relationship pages with the established Amberhearth distinction. The voice, location, purpose of the encounter and current family distance came from my direction; the scene's exact wording and small physical details are literary invention.
