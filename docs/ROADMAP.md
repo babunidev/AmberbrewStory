@@ -29,6 +29,13 @@ This is an editorial and provenance roadmap, not an in-world plot outline. It do
 - [x] Establish her childhood fascination with the Great Forge in Ironforge and her recent decision to take up the craft herself.
 - [x] Reconcile character canon, profession records, timeline, continuity notes, affected story scenes and project documentation while preserving the commissioned origin of Blackguard.
 
+## Amberhearth origin — 2026-11-19
+
+- [x] Establish Jasmine's first encounter with Eldgrim at a lakeside fire in Loch Modan.
+- [x] Connect that encounter to her later gathering of signatures in Kharanos and founding of Amberhearth.
+- [x] Add the literary scene **Keep the Fire** while keeping its invented dialogue distinct from established canon.
+- [x] Reconcile Jasmine's current community role and temporary lack of family contact across canon, chronology, backstory and relationship records.
+
 ## Ongoing editorial care
 
 - [ ] Review each story's incidental invention before treating it as a permanent in-world fact.
