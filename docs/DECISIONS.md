@@ -77,3 +77,14 @@ These are existing character-continuity decisions, not new additions inferred fr
 ## 2026-11-13 — Licensing decision
 
 To make the reuse terms explicit, I approved CC BY-NC-ND 4.0 for original authored family stories and lore, excluding Warcraft and third-party material. This applies only to material for which the relevant rights can be granted; third-party contributors keep their own credits and licenses. AI assistance committed the license notice and updated project-facing documentation. This was a legal/documentation change, not a runtime feature or test.
+
+
+## Eldgrim and Amberhearth origin — 2026-11-19
+
+**DEC-21 — Jasmine's first contact with Eldgrim begins Amberhearth.** The creative established that Jasmine first experienced Eldgrim while sitting beside a fire at the lake in **Loch Modan**, staring into the flames. Eldgrim came to her as a **warm, friendly and welcoming voice in her mind**, encouraging her to stay with the fire, to **keep the fire**, and to find other people who were similarly drawn to flames, companionship and a welcoming community.
+
+That encounter leads Jasmine to seek out adventurers who share those values. The maintained Eldgrim and ROARguild records already establish the next step: she gathers signatures in **Kharanos** and founds **Amberhearth**. Eldgrim initiates the fellowship's idea and stands outside its conventional ranks; Jasmine is the person who gathers and founds the in-world guild. **ROAR** remains the wider community context.
+
+During the current period Jasmine is largely on her own, busy adventuring and finding people for Amberhearth, and has not been in contact with her family for some time. The creative explicitly framed this as the consequence of her activity on the road, not as family conflict or estrangement. No new events for Bess, Loni, Arandor or Morkah should be invented merely to fill that absence.
+
+ChatGPT (GPT-5.6 Sol) reviewed the current AmberbrewStory, Eldgrim and ROARguild records, reconciled the overlapping continuity, and drafted the literary scene **Keep the Fire**. The creative supplied the encounter, its meaning and Jasmine's current situation; exact dialogue and incidental scene detail remain AI-assisted narrative invention rather than word-for-word canon.
