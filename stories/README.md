@@ -11,6 +11,7 @@ Read these in order. Their underlying incidents were described in earlier charac
 1. [Out into the Snow](chapters/02-out-into-the-snow.md) — from the hidden Ironforge passages through Dun Morogh, the airfield country and encounters with a winter wolf and Frostmane trolls.
 2. [The Stoutlager Inn](chapters/03-the-stoutlager-inn.md) — a meal in Thelsamar, an overturned mug, a brief tavern scuffle and a long-awaited supper.
 3. [Before the Sun Reached the Loch](chapters/04-before-the-sun-reached-the-loch.md) — an island, troggs and the return toward shore at dawn.
+4. [Keep the Fire](chapters/07-keep-the-fire.md) — a quiet lakeside fire in Loch Modan, Jasmine's first encounter with Eldgrim, and the beginning of the impulse that becomes Amberhearth.
 
 ## At home and between adventures — independent scenes
 
@@ -27,4 +28,4 @@ These are **unplaced literary scenes**, not a newly confirmed chronological sequ
 - **Continuity issues:** [lore/continuity-notes.md](../lore/continuity-notes.md).
 - **Verified play and RP records:** [journal/](../journal/), which remains separate and has not been populated retroactively.
 
-These seven chapters were drafted during the 2026-11-01 story-reconstruction pass. They are drafts for creative review, not explicitly approved literary canon. [TEMPLATE.md](TEMPLATE.md) remains available for other stories.
+The first six chapters were drafted during the 2026-11-01 story-reconstruction pass. **Keep the Fire** was added on 2026-11-19 from newly established creative direction about Jasmine's first encounter with Eldgrim. The prose remains a draft interpretation; the factual anchors are recorded separately in canon and continuity material. [TEMPLATE.md](TEMPLATE.md) remains available for other stories.
