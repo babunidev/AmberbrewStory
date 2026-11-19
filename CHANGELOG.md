@@ -71,3 +71,13 @@ Repository and documentation changes only; not fictional in-world events.
 
 - Established CC BY-NC-ND 4.0 for original family prose and lore and updated repository documentation to explain the permission boundary.
 - Preserved third-party authorship and external assets' separate terms. No application behavior or runtime verification is claimed.
+
+
+## 2026-11-19 — Eldgrim encounter and Amberhearth origin
+
+- Added **Keep the Fire**, a new Jasmine chapter set beside a lakeside fire in Loch Modan and grounded in the creative's established account of her first contact with Eldgrim.
+- Established the factual anchors of the encounter: Eldgrim is experienced as a warm, welcoming voice in Jasmine's mind; it encourages her to stay with and keep the fire and to seek others drawn to the same companionship.
+- Reconciled the community continuity: **ROAR** is the wider community context, **Amberhearth** is the in-game Alliance RP guild, Eldgrim initiates the fellowship's idea, and Jasmine gathers signatures in Kharanos and founds it.
+- Recorded Jasmine's current period of adventuring and fellowship-building, during which she has been out of contact with her family without implying conflict or estrangement.
+- Updated the story index, character overview and backstory, canon, timeline, relationship pages, decision record, roadmap, development journal and collaboration record.
+- ChatGPT (GPT-5.6 Sol) performed the cross-repository continuity review, drafting and documentation edits. Exact dialogue and incidental details in the chapter remain literary invention.
