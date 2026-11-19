@@ -24,7 +24,9 @@ Only established ordering is recorded here. Uncertain dates, narrative reconstru
 - Her fighting style is that of a brawler: she uses **fist weapons only**.
 - She has a protective instinct, but her current approach is direct and physical rather than a developed tanking style.
 - She has recently taken up **Blacksmithing**, a craft that fascinated her throughout childhood. Cooking, Fishing and First Aid remain among her other established skills.
-- She has ties to **Roar/ROAR**, which she has been described as founding; the timing of those ties in relation to this new starting point is not established.
+- In **Loch Modan**, while sitting beside a lakeside fire and staring into the flames, Jasmine first experiences **Eldgrim** as a warm, friendly and welcoming voice in her mind. It encourages her to stay with and keep the fire and to find others drawn to the same warmth and companionship.
+- Following that encounter, she begins seeking other adventurers who share those values. She later gathers signatures in **Kharanos** and founds **Amberhearth**. Eldgrim initiates the fellowship's idea but remains outside its conventional ranks; **ROAR** is the wider community context.
+- During the current period she is largely on her own, adventuring and finding people for Amberhearth. She has not been in contact with her family for some time because she has been absorbed in the road and the new fellowship; no family conflict is established by that absence.
 
 ## Superseded later-adventure material
 
