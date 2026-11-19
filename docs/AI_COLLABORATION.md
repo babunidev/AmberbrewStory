@@ -43,3 +43,10 @@ For Jasmine, I revised her's present-day profession direction: blacksmithing is 
 ## 18 November 2026 — Collaboration record review
 
 At my request, Codex (GPT-6) revised this record for first-person voice and checked the attribution against the available repository documentation. Where an earlier AI tool or model is missing from the record, its identity remains unconfirmed.
+
+
+## Jasmine and Amberhearth — 2026-11-19
+
+The first meeting between Jasmine and Eldgrim came from my creative direction: beside the lake in Loch Modan, Jasmine stared into a fire and experienced Eldgrim as a warm, friendly voice in her mind. The voice encouraged her to stay, keep the fire and find other people who were drawn to the same kind of gathering. Her present focus on adventuring and finding people for Amberhearth, along with the resulting period without family contact, also came from that direction.
+
+ChatGPT (GPT-5.6 Sol) checked the maintained AmberbrewStory, Eldgrim and ROARguild repositories for continuity, drafted the chapter **Keep the Fire**, and updated the Amberbrew documentation so ROAR's wider-community role, Amberhearth's in-game guild identity, Eldgrim's initiating role and Jasmine's founding role are no longer conflated. Exact dialogue and incidental scene details remain AI-assisted fiction unless separately established.
